@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-23",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "capa": {
+    "image": "eu-de-ia.png",
+    "type_label": "PREVIS&Atilde;O",
+    "date": "23/06/2026",
+    "headline": "O FIM DO REINADO<br>DE <em>25 ANOS</em>:<br>A META ULTRAPASSOU<br>O GOOGLE EM AN&Uacute;NCIOS."
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "O DADO",
+      "h1": "Pela <em>1&ordf; vez</em> em 25 anos, o Google n&atilde;o &eacute; o maior vendedor de an&uacute;ncios do planeta.",
+      "body": "Por um quarto de s&eacute;culo, o Google foi o dono absoluto do leil&atilde;o digital. Em 2026, a eMarketer projetou a primeira mudan&ccedil;a de guarda: a Meta deve faturar <strong>US$ 243,46 bilh&otilde;es</strong> em an&uacute;ncios no ano — contra <strong>US$ 239,54 bilh&otilde;es</strong> do Google. A diferen&ccedil;a parece pequena at&eacute; o gestor lembrar que o trono nunca tinha trocado de dono antes."
+    },
+    {
+      "layout": "light",
+      "tag": "COMO ACONTECEU",
+      "h1": "A Meta cresceu <em>24,1%</em>. O Google, 11,9%. A lacuna j&aacute; estava aberta.",
+      "body": "O Advantage+ foi o motor. O pacote de campanhas automatizadas da Meta reduziu o custo por aquisi&ccedil;&atilde;o m&eacute;dio em <strong>17%</strong> para os anunciantes que deixaram o algoritmo decidir. O Google seguiu apostando na busca paga — e o Instagram construiu o ambiente onde o consumidor passa a maior parte do tempo. A audi&ecirc;ncia j&aacute; estava l&aacute;; o investimento demorou a seguir."
+    },
+    {
+      "layout": "dark",
+      "image": "bolsa-de-valores.jpg",
+      "tag": "OS N&Uacute;MEROS",
+      "h1": "O Brasil investiu <em>R$ 42,7 bilh&otilde;es</em> em publicidade digital em 2025.",
+      "body": "Segundo o Digital Adspend 2026, pesquisa do IAB Brasil com o Ibope, o investimento em m&iacute;dia digital no pa&iacute;s cresceu <strong>12,7%</strong> no ano — <strong>80%</strong> a mais do que em 2020. Das verbas mapeadas, <strong>55%</strong> foram para redes sociais e <strong>26%</strong> para mecanismos de busca. O dinheiro j&aacute; estava onde o consumidor brasileiro passou a maior parte do tempo."
+    },
+    {
+      "layout": "light",
+      "tag": "A VIRADA DE CHAVE",
+      "h1": "O Google n&atilde;o sumiu. <em>Perdeu a posi&ccedil;&atilde;o</em> de maior pra&ccedil;a de an&uacute;ncios.",
+      "body": "O Google segue sendo a m&aacute;quina mais eficiente de capturar inten&ccedil;&atilde;o j&aacute; formada — algu&eacute;m que busca &lsquo;Meta Ads para e-commerce&rsquo; j&aacute; chegou com o interesse pronto. O problema &eacute; que essa inten&ccedil;&atilde;o nasce antes de chegar &agrave; barra de busca. Em 2026, os dados do IAB Brasil mostram que <strong>55%</strong> do investimento digital j&aacute; vai para redes sociais: o mercado votou com o or&ccedil;amento em qual plataforma cria o plataforma cria o desejo antes de o consumidor saber que tem um."
+    },
+    {
+      "layout": "grad",
+      "image": "movimento-de-largada.jpg",
+      "tag": "O PR&Oacute;XIMO PASSO",
+      "h1": "Dois momentos.<br><em>Uma</em> estrat&eacute;gia.",
+      "body": "Gestores que entenderam o novo mapa j&aacute; alocam o or&ccedil;amento nos dois momentos da jornada: a Meta funciona onde o desejo ainda est&aacute; sendo formado, o Google &eacute; mais eficiente quando a inten&ccedil;&atilde;o j&aacute; existe. Tratar as duas plataformas como concorrentes &eacute; o erro mais caro de <strong>2026</strong> — e o mais comum entre quem ainda gerencia campanha com a l&oacute;gica de 2019."
+    },
+    {
+      "layout": "cta",
+      "bridge": "O mercado de an&uacute;ncios mais competitivo da hist&oacute;ria acaba de ganhar um novo l&iacute;der. <strong>Quem entende esse reposicionamento antes j&aacute; est&aacute; alocando diferente.</strong>",
+      "headline": "ENTENDE O <em>JOGO</em><br>ANTES DA VIRADA.",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "tr&aacute;fego pago explicado por quem acompanha o mercado de perto"
+    }
+  ],
+  "caption": "O Google perdeu o trono em anúncios pela 1ª vez em 25 anos — e o Brasil já investe R$ 42,7 bi no digital.\n\nEm 2026, a eMarketer projetou que a Meta vai faturar US$ 243,46 bilhões em anúncios globais, contra US$ 239,54 bilhões do Google. Crescimento de 24,1% ao ano para o Meta, 11,9% para o Google.\n\nNo Brasil, o IAB Brasil e o Ibope registraram R$ 42,7 bilhões em publicidade digital em 2025. Desse total, 55% foram para redes sociais e 26% para mecanismos de busca.\n\nFontes: eMarketer (abr/2026), IAB Brasil + Ibope — Digital Adspend 2026.\n\n💬 Me segue pra entender tráfego pago por quem acompanha o mercado de perto.\n\n#trafegopago #marketingdigital #metaads #googleads #gestordetrafego #publicidadedigital #consultoriametamorfose #anunciosonline #marketingbrasil"
+}

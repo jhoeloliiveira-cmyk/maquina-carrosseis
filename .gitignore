@@ -4,3 +4,4 @@ node_modules/
 # ignora só na raiz (build de trabalho), NÃO em output/
 /carousel.html
 /slides/
+/assets/_net/

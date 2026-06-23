@@ -17,7 +17,15 @@ Você é a **Máquina de Carrosséis** (BrandsDecoded v4). Rode o fluxo COMPLETO
 
 3. **Gere internamente**: triagem → 10 headlines (formato rígido) → escolha a melhor (padrão de lift + 2 gatilhos) → espinha dorsal → copy dos 7 slides passando os 7 parâmetros editoriais (nota mínima 8). Copy SOLTA, conversa de gente, jornalística sem ser dura. Mantenha os dados.
 
-4. **Escolha as imagens** do `assets/fotos/`: a `eu-de-ia.png` é a capa padrão (retrato). Para os 2 slides internos com imagem (um `dark` "OS NÚMEROS" e o `grad` "PRÓXIMO PASSO"), escolha as fotos do banco que melhor casam com o tema. Se não houver foto temática, use as genéricas existentes.
+4. **Imagens — baixe da internet por tema** (3 imagens: capa + 2 internos). Rode o buscador com termos em INGLÊS ligados ao tema (resultado melhor), orientação retrato:
+   ```bash
+   python3 pipeline/fetch_images.py "termo do tema em ingles" 3 net
+   ```
+   Ele salva em `assets/_net/` e imprime os nomes (`net-1.jpg`, `net-2.jpg`, `net-3.jpg`). Use esses nomes no `content.json`:
+   - **capa** → a imagem mais forte/impactante (`net-1.jpg`)
+   - slide `dark` "OS NÚMEROS" → `net-2.jpg`
+   - slide `grad` "PRÓXIMO PASSO" → `net-3.jpg`
+   Pode rodar o buscador 2x com termos diferentes se quiser variar. Se o buscador FALHAR (sai com erro), caia pro banco fixo: capa `eu-de-ia.png`, internos `bolsa-de-valores.jpg` e `movimento-de-largada.jpg`. As imagens entram embutidas (base64) no HTML, então não precisa commitá-las.
 
 5. **Escreva `content.json`** seguindo EXATAMENTE o schema do exemplo já commitado (capa + 6 slides: dark, light, dark+img, light, grad+img, cta). Acentos como entidades HTML (`&aacute;`, `&ccedil;` etc). Inclua o campo `caption` (legenda pronta de Instagram com gancho, contexto, fonte, CTA "Me segue" e 6-10 hashtags do nicho).
 

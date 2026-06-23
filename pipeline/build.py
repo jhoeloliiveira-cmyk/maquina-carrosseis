@@ -36,7 +36,12 @@ def main():
     logo_n = b64(asset("logo_navy.png"))
 
     def photo(name):
+        # procura no banco fixo (fotos/) e nas baixadas da internet (_net/)
         path = asset("fotos", name)
+        if not os.path.exists(path):
+            alt = asset("_net", name)
+            if os.path.exists(alt):
+                path = alt
         ext = "png" if name.lower().endswith("png") else "jpeg"
         return f"data:image/{ext};base64,{b64(path)}"
 

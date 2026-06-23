@@ -21,21 +21,29 @@ Você é a **Máquina de Carrosséis** (BrandsDecoded v4). Rode o fluxo COMPLETO
 
 5. **Escreva `content.json`** seguindo EXATAMENTE o schema do exemplo já commitado (capa + 6 slides: dark, light, dark+img, light, grad+img, cta). Acentos como entidades HTML (`&aacute;`, `&ccedil;` etc). Inclua o campo `caption` (legenda pronta de Instagram com gancho, contexto, fonte, CTA "Me segue" e 6-10 hashtags do nicho).
 
-6. **Renderize**:
+6. **Gere o HTML e dê push PRIMEIRO** (Python puro, nunca falha). NÃO deixe pra depois:
    ```bash
+   git config user.email jhoeloliiveira@gmail.com && git config user.name 'Joel Oliveira'
+   DAY=$(date +%Y-%m-%d)
    python3 pipeline/build.py content.json carousel.html
-   npm i playwright sharp --no-audit --no-fund
-   npx playwright install chromium
-   node pipeline/export.js carousel.html slides
+   mkdir -p output/$DAY
+   cp carousel.html content.json output/$DAY/
+   printf '%s' "$CAPTION" > output/$DAY/legenda.txt   # ou escreva legenda.txt com a caption
+   git add -A && git commit -m "feat: carrossel $DAY — <tema>" && git push origin main
    ```
-   Os PNGs 1080×1350 saem em `slides/slide_01.png ... slide_07.png`.
-   Se o Playwright falhar no ambiente, entregue ao menos o `carousel.html` e avise no resumo.
+   Confirme que o push foi aceito (`git log origin/main` deve mostrar o commit). Se o push FALHAR, pare e reporte o erro exato no resumo — não siga adiante fingindo sucesso.
 
-7. **Entregue** (data de hoje = `YYYY-MM-DD`):
-   - **Google Drive**: crie/use a pasta `Carrosseis Metamorfose/YYYY-MM-DD` e suba os 7 PNGs + um `legenda.txt` com a caption.
-   - **Repo**: copie `slides/`, `carousel.html`, `content.json` e `legenda.txt` para `output/YYYY-MM-DD/`, faça commit (`feat: carrossel YYYY-MM-DD — <tema>`) e push.
+7. **Só então tente os PNGs** (extra, pode falhar):
+   ```bash
+   npm i playwright sharp --no-audit --no-fund && npx playwright install chromium
+   node pipeline/export.js carousel.html slides
+   cp slides/*.png output/$DAY/ && git add -A && git commit -m "feat: PNGs $DAY" && git push origin main
+   ```
+   Se o Playwright falhar, tudo bem — o `carousel.html` já está no repo (abre em qualquer navegador). Avise no resumo.
 
-8. **Resumo final**: tema escolhido, headline da capa, link da pasta do Drive, e qualquer falha (ex: render).
+8. **Drive (opcional, best-effort)**: suba `output/$DAY/carousel.html` + `legenda.txt` (e PNGs se existirem) na pasta `Carrosseis Metamorfose/$DAY`. Se o Drive falhar, ignore — o repo é a entrega oficial.
+
+9. **Resumo final**: tema escolhido, headline da capa, confirmação do push (commit em origin/main), link da pasta do Drive se subiu, e qualquer falha (ex: render Playwright).
 
 ## Regras de ouro
 - Nunca invente dado/fonte. Sem fonte verificável → troca o ângulo.

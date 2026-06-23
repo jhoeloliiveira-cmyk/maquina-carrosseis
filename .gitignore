@@ -1,5 +1,6 @@
 node_modules/
-slides/
-carousel.html
 *.log
 .DS_Store
+# ignora só na raiz (build de trabalho), NÃO em output/
+/carousel.html
+/slides/

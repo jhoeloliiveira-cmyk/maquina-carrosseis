@@ -70,6 +70,17 @@ def fetch(query, n=3, prefix="net"):
             candidates = openverse(query, n)
         except Exception as e:
             sys.stderr.write(f"openverse falhou: {e}\n")
+    # query longa rende poucos resultados no Openverse — tenta versões mais curtas
+    if not candidates:
+        words = query.split()
+        for short in ([" ".join(words[:2])] if len(words) > 2 else []) + ([words[0]] if len(words) > 1 else []):
+            try:
+                candidates = openverse(short, n)
+                if candidates:
+                    sys.stderr.write(f"query reduzida p/ '{short}'\n")
+                    break
+            except Exception as e:
+                sys.stderr.write(f"openverse '{short}' falhou: {e}\n")
 
     saved = []
     idx = 0

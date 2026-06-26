@@ -16,6 +16,8 @@ const OUT = process.argv[3] || path.join(ROOT, 'slides');
   const page = await browser.newPage({ viewport: { width: 1200, height: 1400 }, deviceScaleFactor: 2 });
   await page.goto('file://' + path.resolve(HTML), { waitUntil: 'networkidle' });
   await page.evaluate(() => document.querySelector('.stage') && document.querySelector('.stage').classList.remove('preview'));
+  // esconde a toolbar fixa "Preview / Tamanho Real" pra ela não vazar no PNG de algum slide
+  await page.addStyleTag({ content: '.toolbar{display:none!important}' });
   await page.evaluate(() => document.fonts.ready);
   await page.waitForTimeout(1500);
   const ok = await page.evaluate(() => document.fonts.check('900 48px "Barlow Condensed"'));

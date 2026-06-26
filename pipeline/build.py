@@ -22,21 +22,26 @@ def main():
     # Imagens de fundo: busca FRESCA da internet por tema (não repete dia a dia).
     # Dispara quando content.json traz "image_query". Banco fixo (assets/fotos/) só
     # se a rede falhar. Desliga com BUILD_NO_FETCH=1 (p/ reconstruir dias antigos sem trocar a arte).
+    # banco fixo de emergência (precisa existir em assets/fotos/)
+    FIXED = ["eu-de-ia.png", "bolsa-de-valores.jpg", "movimento-de-largada.jpg"]
     iq = C.get("image_query")
+    img_targets = [C["capa"]] + [s for s in C["slides"] if s.get("image")]
+    saved = []
     if iq and os.environ.get("BUILD_NO_FETCH") != "1":
         try:
             sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
             from fetch_images import fetch
             saved = fetch(iq, 3, "net")
             if saved:
-                targets = [C["capa"]] + [s for s in C["slides"] if s.get("image")]
-                for i, t in enumerate(targets):
-                    t["image"] = saved[i % len(saved)]
                 sys.stderr.write(f"imagens da net OK ({iq}): {saved}\n")
             else:
                 sys.stderr.write(f"fetch sem resultado p/ '{iq}' — usando banco fixo\n")
         except Exception as e:
             sys.stderr.write(f"fetch falhou ({e}) — usando banco fixo\n")
+    # reatribui SEMPRE: net se baixou, senão banco fixo (nunca deixa placeholder net-*.jpg órfão)
+    pool = saved if saved else FIXED
+    for i, t in enumerate(img_targets):
+        t["image"] = pool[i % len(pool)]
 
     pal = {
         "P": "#1B3A6B", "PL": "#6E9BDC", "PD": "#0A1834",
@@ -61,7 +66,11 @@ def main():
             alt = asset("_net", name)
             if os.path.exists(alt):
                 path = alt
-        ext = "png" if name.lower().endswith("png") else "jpeg"
+        # defensivo: arquivo sumiu? cai no 1o do banco fixo em vez de crashar
+        if not os.path.exists(path):
+            sys.stderr.write(f"imagem '{name}' nao encontrada — fallback banco fixo\n")
+            path = asset("fotos", "eu-de-ia.png")
+        ext = "png" if path.lower().endswith("png") else "jpeg"
         return f"data:image/{ext};base64,{b64(path)}"
 
     GRAIN = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>"

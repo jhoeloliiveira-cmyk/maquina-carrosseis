@@ -41,17 +41,21 @@ Você é a **Máquina de Carrosséis** (BrandsDecoded v4). Rode o fluxo COMPLETO
    ```
    Confirme que o push foi aceito (`git log origin/main` deve mostrar o commit). Se o push FALHAR, pare e reporte o erro exato no resumo — não siga adiante fingindo sucesso.
 
-7. **Só então tente os PNGs** (extra, pode falhar):
+7. **Gere os PNGs — passo OBRIGATÓRIO, é a entrega que o usuário posta.** Na cloud (Linux) o chromium NÃO sobe sem as libs de sistema; por isso use `--with-deps`:
    ```bash
-   npm i playwright sharp --no-audit --no-fund && npx playwright install chromium
+   npm i playwright sharp --no-audit --no-fund
+   npx playwright install --with-deps chromium    # --with-deps = baixa libs do SO; SEM isso o launch quebra mudo na cloud
    node pipeline/export.js carousel.html slides
-   cp slides/*.png output/$DAY/ && git add -A && git commit -m "feat: PNGs $DAY" && git push origin main
+   N=$(ls slides/slide_*.png 2>/dev/null | wc -l | tr -d ' ')
+   echo "PNGs gerados: $N (esperado 7)"
+   [ "$N" -ge 7 ] || { echo "FALHA: PNGs faltando"; ls -la slides; }
+   cp slides/slide_*.png output/$DAY/ && git add -A && git commit -m "feat: PNGs $DAY" && git push origin main
    ```
-   Se o Playwright falhar, tudo bem — o `carousel.html` já está no repo (abre em qualquer navegador). Avise no resumo.
+   Os PNGs são o produto final (Instagram). Se o render falhar, NÃO ignore: reporte o erro EXATO do `export.js` no resumo (ex: lib faltando, timeout de fonte) pra dar pra consertar. `carousel.html` no repo é só fallback de visualização, não substitui os PNGs.
 
-8. **Drive (opcional, best-effort)**: suba `output/$DAY/carousel.html` + `legenda.txt` (e PNGs se existirem) na pasta `Carrosseis Metamorfose/$DAY`. Se o Drive falhar, ignore — o repo é a entrega oficial.
+8. **Drive — suba SEMPRE os PNGs** na pasta `Carrosseis Metamorfose/$DAY`: os 7 `slide_*.png` + `legenda.txt` + `carousel.html`. Os PNGs são o que o usuário posta; sem eles a entrega falhou. Confira que os 7 PNGs subiram. Se o Drive falhar, reporte — não trate como opcional.
 
-9. **Resumo final**: tema escolhido, headline da capa, confirmação do push (commit em origin/main), link da pasta do Drive se subiu, e qualquer falha (ex: render Playwright).
+9. **Resumo final**: tema escolhido, headline da capa, confirmação do push (commit em origin/main), **nº de PNGs gerados (deve ser 7) e confirmação de que subiram no Drive**, link da pasta do Drive, e qualquer falha com o erro exato.
 
 ## Regras de ouro
 - Nunca invente dado/fonte. Sem fonte verificável → troca o ângulo.

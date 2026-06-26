@@ -17,19 +17,14 @@ Você é a **Máquina de Carrosséis** (BrandsDecoded v4). Rode o fluxo COMPLETO
 
 3. **Gere internamente**: triagem → 10 headlines (formato rígido) → escolha a melhor (padrão de lift + 2 gatilhos) → espinha dorsal → copy dos 7 slides passando os 7 parâmetros editoriais (nota mínima 8). Copy SOLTA, conversa de gente, jornalística sem ser dura. Mantenha os dados.
 
-4. **Imagens — baixe da internet por tema** (3 imagens: capa + 2 internos). Rode o buscador com termos em INGLÊS ligados ao tema (resultado melhor), orientação retrato:
-   ```bash
-   python3 pipeline/fetch_images.py "termo do tema em ingles" 3 net
-   ```
-   Ele salva em `assets/_net/` e imprime os nomes (`net-1.jpg`, `net-2.jpg`, `net-3.jpg`). Use esses nomes no `content.json`:
-   - **capa** → a imagem mais forte/impactante (`net-1.jpg`)
-   - slide `dark` "OS NÚMEROS" → `net-2.jpg`
-   - slide `grad` "PRÓXIMO PASSO" → `net-3.jpg`
-   Pode rodar o buscador 2x com termos diferentes se quiser variar. Se o buscador FALHAR (sai com erro), caia pro banco fixo: capa `eu-de-ia.png`, internos `bolsa-de-valores.jpg` e `movimento-de-largada.jpg`. As imagens entram embutidas (base64) no HTML, então não precisa commitá-las.
+4. **Imagens — NÃO rode o buscador à mão e NUNCA use nomes do banco fixo no `content.json`.** O `build.py` baixa as fotos FRESCAS da internet sozinho no passo 6, a partir do campo **`image_query`** (passo 5). Cada dia pega fotos diferentes (página aleatória), então o fundo não repete. Banco fixo (`assets/fotos/`) é só emergência automática se a rede cair — você não escreve esses nomes.
 
-5. **Escreva `content.json`** seguindo EXATAMENTE o schema do exemplo já commitado (capa + 6 slides: dark, light, dark+img, light, grad+img, cta). Acentos como entidades HTML (`&aacute;`, `&ccedil;` etc). Inclua o campo `caption` (legenda pronta de Instagram com gancho, contexto, fonte, CTA "Me segue" e 6-10 hashtags do nicho).
+5. **Escreva `content.json`** seguindo EXATAMENTE o schema do exemplo já commitado (capa + 6 slides: dark, light, dark+img, light, grad+img, cta). Acentos como entidades HTML (`&aacute;`, `&ccedil;` etc).
+   - **OBRIGATÓRIO** o campo top-level **`"image_query"`**: 2-4 palavras em INGLÊS ligadas ao tema do dia (ex: `"social media advertising"`, `"stock market trading"`, `"artificial intelligence office"`). É isso que troca as fotos todo dia — sem ele, o build cai no banco fixo e o fundo REPETE.
+   - Nos campos `image` da capa e dos 2 slides com foto, pode deixar qualquer placeholder (ex: `"net-1.jpg"`) — o build SOBRESCREVE com as fotos baixadas. Não use nomes do banco fixo.
+   - Inclua o campo `caption` (legenda pronta de Instagram com gancho, contexto, fonte, CTA "Me segue" e 6-10 hashtags do nicho).
 
-6. **Gere o HTML e dê push PRIMEIRO** (Python puro, nunca falha). NÃO deixe pra depois:
+6. **Gere o HTML e dê push PRIMEIRO** (Python; baixa as fotos da net pelo `image_query` e, se a rede cair, cai no banco fixo sem quebrar). Confira no stderr a linha `imagens da net OK (...)` — se aparecer `usando banco fixo`, a rede falhou e o fundo vai repetir; tente de novo ou reporte. NÃO deixe pra depois:
    ```bash
    git config user.email jhoeloliiveira@gmail.com && git config user.name 'Joel Oliveira'
    DAY=$(date +%Y-%m-%d)

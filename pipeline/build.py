@@ -19,6 +19,25 @@ def main():
     with open(cj) as fh:
         C = json.load(fh)
 
+    # Imagens de fundo: busca FRESCA da internet por tema (não repete dia a dia).
+    # Dispara quando content.json traz "image_query". Banco fixo (assets/fotos/) só
+    # se a rede falhar. Desliga com BUILD_NO_FETCH=1 (p/ reconstruir dias antigos sem trocar a arte).
+    iq = C.get("image_query")
+    if iq and os.environ.get("BUILD_NO_FETCH") != "1":
+        try:
+            sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            from fetch_images import fetch
+            saved = fetch(iq, 3, "net")
+            if saved:
+                targets = [C["capa"]] + [s for s in C["slides"] if s.get("image")]
+                for i, t in enumerate(targets):
+                    t["image"] = saved[i % len(saved)]
+                sys.stderr.write(f"imagens da net OK ({iq}): {saved}\n")
+            else:
+                sys.stderr.write(f"fetch sem resultado p/ '{iq}' — usando banco fixo\n")
+        except Exception as e:
+            sys.stderr.write(f"fetch falhou ({e}) — usando banco fixo\n")
+
     pal = {
         "P": "#1B3A6B", "PL": "#6E9BDC", "PD": "#0A1834",
         "LB": "#F3EFE8", "LR": "#E4DCCF", "DB": "#0B1730",

@@ -1,6 +1,10 @@
 {
   "date": "2026-06-25",
-  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "brand": {
+    "handle": "@consultoriametamorfose",
+    "initial": "M"
+  },
+  "image_query": "social media advertising technology",
   "capa": {
     "image": "eu-de-ia.png",
     "type_label": "AN&Aacute;LISE",

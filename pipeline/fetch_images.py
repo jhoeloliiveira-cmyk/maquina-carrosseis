@@ -5,8 +5,13 @@ Salva em assets/_net/ e imprime os nomes salvos (1 por linha) p/ usar no content
 
 Fonte principal: Openverse (Creative Commons, sem chave).
 Opcional: se a env PEXELS_API_KEY existir, usa Pexels (qualidade melhor).
+
+Variedade: cada busca pega uma PÁGINA aleatória e embaralha os resultados, então
+o mesmo tema rende fotos diferentes a cada dia (não repete fundo).
+
+Também exporta `fetch(query, n, prefix)` p/ o build.py chamar direto.
 """
-import json, os, sys, urllib.parse, urllib.request
+import json, os, random, sys, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "assets", "_net")
@@ -20,33 +25,40 @@ def get(url, headers=None):
 
 
 def pexels(query, n, key):
+    # página aleatória p/ variar o resultado dia a dia
+    page = random.randint(1, 8)
     url = "https://api.pexels.com/v1/search?" + urllib.parse.urlencode(
-        {"query": query, "per_page": n, "orientation": "portrait"})
+        {"query": query, "per_page": max(n * 3, 9), "page": page, "orientation": "portrait"})
     data = json.loads(get(url, {"Authorization": key}))
-    return [(p["src"]["large2x"], "jpg") for p in data.get("photos", [])][:n]
-
-
-def openverse(query, n):
-    url = "https://api.openverse.org/v1/images/?" + urllib.parse.urlencode({
-        "q": query, "license_type": "commercial", "license": "cc0,pdm",
-        "size": "large", "page_size": max(n * 2, 6), "mature": "false"})
-    data = json.loads(get(url))
-    out = []
-    for it in data.get("results", []):
-        u = it.get("url")
-        if not u:
-            continue
-        ext = "png" if u.lower().split("?")[0].endswith("png") else "jpg"
-        out.append((u, ext))
+    out = [(p["src"]["large2x"], "jpg") for p in data.get("photos", [])]
+    random.shuffle(out)
     return out
 
 
-def main():
-    query = sys.argv[1]
-    n = int(sys.argv[2]) if len(sys.argv) > 2 else 3
-    prefix = sys.argv[3] if len(sys.argv) > 3 else "net"
-    os.makedirs(OUT, exist_ok=True)
+def openverse(query, n):
+    # página aleatória + page_size folgado p/ ter de onde embaralhar
+    page = random.randint(1, 6)
+    url = "https://api.openverse.org/v1/images/?" + urllib.parse.urlencode({
+        "q": query, "license_type": "commercial", "license": "cc0,pdm",
+        "size": "large", "page_size": max(n * 4, 12), "page": page, "mature": "false"})
+    data = json.loads(get(url))
+    out = []
+    seen = set()
+    for it in data.get("results", []):
+        u = it.get("url")
+        if not u or u in seen:
+            continue
+        seen.add(u)
+        ext = "png" if u.lower().split("?")[0].endswith("png") else "jpg"
+        out.append((u, ext))
+    random.shuffle(out)
+    return out
 
+
+def fetch(query, n=3, prefix="net"):
+    """Baixa até n imagens do tema. Retorna lista de nomes salvos em assets/_net/.
+    Lista vazia = falhou (sem rede / sem resultado)."""
+    os.makedirs(OUT, exist_ok=True)
     key = os.environ.get("PEXELS_API_KEY")
     candidates = []
     try:
@@ -60,20 +72,31 @@ def main():
             sys.stderr.write(f"openverse falhou: {e}\n")
 
     saved = []
-    for i, (u, ext) in enumerate(candidates, 1):
+    idx = 0
+    for u, ext in candidates:
         if len(saved) >= n:
             break
-        name = f"{prefix}-{i}.{ext}"
+        idx += 1
+        name = f"{prefix}-{idx}.{ext}"
         try:
             blob = get(u)
             if len(blob) < 5000:   # provavelmente erro/placeholder
+                idx -= 1
                 continue
             with open(os.path.join(OUT, name), "wb") as fh:
                 fh.write(blob)
             saved.append(name)
         except Exception as e:
+            idx -= 1
             sys.stderr.write(f"falha baixando {u}: {e}\n")
+    return saved
 
+
+def main():
+    query = sys.argv[1]
+    n = int(sys.argv[2]) if len(sys.argv) > 2 else 3
+    prefix = sys.argv[3] if len(sys.argv) > 3 else "net"
+    saved = fetch(query, n, prefix)
     for s in saved:
         print(s)
     if not saved:

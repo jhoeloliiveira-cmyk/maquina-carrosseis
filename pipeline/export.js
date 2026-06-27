@@ -12,7 +12,7 @@ const OUT = process.argv[3] || path.join(ROOT, 'slides');
 (async () => {
   fs.mkdirSync(OUT, { recursive: true });
   // --no-sandbox + --disable-* = necessário pra chromium subir em cloud/container Linux (root, sem shm)
-  const browser = await chromium.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--force-color-profile=srgb', '--hide-scrollbars'] });
+  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium', args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--force-color-profile=srgb', '--hide-scrollbars'] });
   const page = await browser.newPage({ viewport: { width: 1200, height: 1400 }, deviceScaleFactor: 2 });
   await page.goto('file://' + path.resolve(HTML), { waitUntil: 'networkidle' });
   await page.evaluate(() => document.querySelector('.stage') && document.querySelector('.stage').classList.remove('preview'));

@@ -5,3 +5,4 @@ node_modules/
 /carousel.html
 /slides/
 /assets/_net/
+__pycache__/

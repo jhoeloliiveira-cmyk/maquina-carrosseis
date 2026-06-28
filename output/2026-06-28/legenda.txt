@@ -1,0 +1,11 @@
+O Google vai aposentar os Dynamic Search Ads. A migração automática começa em setembro de 2026 — e parte dos gestores não vai ser avisada.
+
+Em abril, o Google anunciou que os DSAs serão substituídos pelo AI Max for Search Campaigns. O novo sistema usa IA generativa para criar variações de anúncio, expandir palavras-chave e escolher automaticamente a URL de destino com maior probabilidade de conversão.
+
+Campanhas com AI Max, usando a suite completa de recursos, registram 7% mais conversões ao mesmo CPA (Google, 2026). A janela de migração voluntária vai até agosto. Depois disso, o Google migra automaticamente. Para contas com ativos criados automaticamente e broad match no nível da campanha, setembro já é o prazo.
+
+Fontes: Google Blog (blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026, abril 2026); MediaPost (15/04/2026); Google Ads Help Center (2026)
+
+💬 Me segue pra entender tráfego pago por quem pensa como analista de mercado.
+
+#googleads #dynamicsearchads #aimax #trafegopago #gestordetrafego #marketingdigital #googleadstips #consultoriametamorfose #performancemarketing #ppc

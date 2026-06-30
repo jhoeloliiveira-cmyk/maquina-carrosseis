@@ -11,6 +11,15 @@
 
 O padrão de comparação não é "está gramaticalmente correto?" mas sim "um repórter da Folha de S.Paulo escreveria assim?". A primeira aceita muito lixo. A segunda rejeita quase tudo que soa robótico, corporativo ou telegráfico.
 
+### Para QUEM você escreve — o leitor é dono de PME
+
+O leitor não é publicitário, nem gestor de tráfego, nem infoprodutor. É **dono de um negócio pequeno ou médio**: loja, serviço, clínica, restaurante, oficina, franquia. Ele sente venda caindo, custo subindo, cliente sumindo, concorrente do lado.
+
+Consequência prática para a escrita:
+- **Linguagem palpável, não técnica.** Jornalista da Folha que escreve para o caderno de economia popular, não para o publicitário. Se o dono de uma loja de bairro não entende a frase de primeira, reescreva.
+- **Troque jargão por palavra de gente:** "tráfego pago" → "anúncio"; "CAC" → "quanto custa trazer um cliente"; "funil" → "caminho até a venda"; "engajamento" → "as pessoas reagindo"; "conversão" → "virar venda". Termo técnico inevitável: explique em 3 palavras na primeira vez.
+- **Teste do dono de loja:** ele leria e pensaria "isso é comigo"? Se não, o tema ou o ângulo está errado.
+
 ---
 
 ## 2. Estrutura obrigatória — 18 blocos / 9 slides
@@ -32,7 +41,7 @@ Slide 9 → Fechamento (texto 17 + texto 18)
 - **Mecanismo** — explica o por quê, o motor por trás do fenômeno
 - **Prova** — ancora em dados concretos e verificáveis
 - **Expansão** — aprofunda ou vira a perspectiva
-- **Aplicação** — traduz para o mundo real do leitor
+- **Aplicação** — traduz para o mundo real do dono de PME E faz a ponte com o serviço: como marketing bem feito + consultoria comercial resolvem esse problema na prática (concreto, sem prometer milagre, sem 2ª pessoa). É aqui — e só aqui — que o serviço aparece antes do CTA.
 - **Direção** — CTA (produto, serviço, convite)
 - **Fechamento** — virada temática genuína, não resumo do que veio antes
 

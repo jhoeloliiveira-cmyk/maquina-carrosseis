@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-30",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "small business owner smartphone",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "O FIM",
+    "date": "30/06/2026",
+    "headline": "O FIM DO<br><em>WHATSAPP GR&Aacute;TIS</em><br>PARA QUEM<br>VENDE NO BRASIL."
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "O MARCO",
+      "h1": "Em 3 de junho de 2026, a Meta lan&ccedil;ou o Business Agent e abriu, ao mesmo tempo, o teste da primeira cobran&ccedil;a do WhatsApp Business desde a cria&ccedil;&atilde;o do aplicativo, em 2018.",
+      "body": "O novo agente usa intelig&ecirc;ncia artificial para atender clientes, recomendar produtos, marcar hor&aacute;rios e fechar vendas dentro do WhatsApp, do Instagram e do Messenger, sem precisar de programador. A entrada continua gratuita, mas a cobran&ccedil;a para pequenas e m&eacute;dias empresas j&aacute; come&ccedil;ou a ser testada dentro do plano de assinatura <strong>Meta One</strong>. &Eacute; a primeira vez que a Meta cobra pelo WhatsApp Business desde que o aplicativo foi lan&ccedil;ado. (Fonte: TechCrunch, 3/6/2026; Exame, 3 e 5/6/2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "O CANAL",
+      "h1": "Oito em cada dez pequenos neg&oacute;cios brasileiros vendem pelo WhatsApp &mdash; muito &agrave; frente do Instagram e do Facebook.",
+      "body": "A 12&ordf; edi&ccedil;&atilde;o da Pesquisa Pulso dos Pequenos Neg&oacute;cios, do Sebrae, mostra o WhatsApp presente em <strong>82%</strong> dos microempreendedores individuais e das micro e pequenas empresas que vendem on-line. O Instagram aparece em <strong>57%</strong> e o Facebook caiu para <strong>30%</strong>, numa trajet&oacute;ria de queda. Desde 2021, entre 70% e 75% dos pequenos neg&oacute;cios usam alguma ferramenta digital para vender &mdash; e o WhatsApp lidera essa lista h&aacute; anos. (Fonte: Sebrae, Pesquisa Pulso dos Pequenos Neg&oacute;cios, 12&ordf; edi&ccedil;&atilde;o, abr/2026)"
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "O CUSTO",
+      "h1": "O valor da assinatura ainda n&atilde;o foi revelado &mdash; mas a refer&ecirc;ncia j&aacute; existe: o WhatsApp Plus, vers&atilde;o paga para consumidor, custa US$&nbsp;2,99 por m&ecirc;s.",
+      "body": "Pequenas e m&eacute;dias empresas v&atilde;o pagar a cobran&ccedil;a por dentro do plano <strong>Meta One</strong>, em formato de assinatura mensal. N&atilde;o &eacute; a primeira mudan&ccedil;a de conta do pequeno neg&oacute;cio em 2026: desde janeiro, a plataforma j&aacute; repassa <strong>12,15%</strong> de PIS/Cofins e ISS para quem anuncia no Instagram e no Facebook. Agora, o canal que fecha a venda entra na mesma l&oacute;gica. (Fonte: Exame, 5/6/2026; Trafius, abr/2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "A CONTA QUE SOMA",
+      "h1": "Quase metade dos pequenos neg&oacute;cios j&aacute; paga para anunciar nas redes sociais &mdash; e em breve vai pagar tamb&eacute;m pelo canal onde a venda se fecha.",
+      "body": "A 9&ordf; edi&ccedil;&atilde;o da Pesquisa Pulso dos Pequenos Neg&oacute;cios, do Sebrae, mostrou que <strong>48%</strong> dos pequenos neg&oacute;cios j&aacute; pagaram por propaganda em redes sociais ou em outros canais da internet &mdash; entre as micro e pequenas empresas, esse n&uacute;mero sobe para <strong>59%</strong>. O dinheiro do an&uacute;ncio leva o cliente at&eacute; a conversa no WhatsApp. Em breve, as duas pontas desse mesmo caminho v&atilde;o ter custo. (Fonte: Sebrae, Pesquisa Pulso dos Pequenos Neg&oacute;cios, 9&ordf; edi&ccedil;&atilde;o, fev/2025)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "O CAMINHO",
+      "h1": "Duas pontas. Um or&ccedil;amento.",
+      "body": "Quando o an&uacute;ncio e a conversa de venda passam a ter custo ao mesmo tempo, o resultado fica mais sens&iacute;vel &agrave; dire&ccedil;&atilde;o do investimento do que ao tamanho dele. Marketing bem feito mede quanto cada conversa no WhatsApp custou at&eacute; ali e qual canal realmente fechou venda &mdash; n&atilde;o s&oacute; qual gerou clique. &Eacute; isso que uma consultoria comercial estruturada ajuda a enxergar, antes que a conta aperte pelos dois lados ao mesmo tempo."
+    },
+    {
+      "layout": "cta",
+      "bridge": "O Brasil vende mais pelo WhatsApp do que por qualquer outra rede social. O pequeno neg&oacute;cio que entender o custo real desse caminho &mdash; do an&uacute;ncio &agrave; conversa &mdash; chega na frente quando a cobran&ccedil;a passar a valer pra todo mundo.",
+      "headline": "FIM DA ERA<br>GR&Aacute;TIS NO<br>WHATSAPP.<br><em>A CONTA QUE<br>NINGU&Eacute;M VIU CHEGAR</em>.",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "tr&aacute;fego pago explicado por quem pensa como analista de mercado"
+    }
+  ],
+  "caption": "O WhatsApp Business é gratuito desde 2018. Em junho de 2026, isso começou a mudar.\n\nEm 3 de junho, a Meta lançou globalmente o Business Agent — um sistema de inteligência artificial que atende cliente, recomenda produto e fecha venda dentro do WhatsApp, do Instagram e do Messenger. A entrada continua de graça, mas a cobrança para pequenas e médias empresas já começou a ser testada dentro do plano Meta One. É a primeira vez que a Meta cobra pelo WhatsApp Business desde a criação do aplicativo.\n\nO timing pesa: o WhatsApp é o canal de venda de 82% dos pequenos negócios do Brasil, à frente do Instagram (57%) e do Facebook (30%), segundo o Sebrae. E quase metade desses negócios (48%) já paga para anunciar nas redes sociais e levar cliente até essa conversa. Em breve, as duas pontas do mesmo caminho — o anúncio e a conversa — vão ter custo.\n\nFontes: TechCrunch (3/6/2026); Exame (3 e 5/6/2026); Sebrae — Pesquisa Pulso dos Pequenos Negócios, 12ª edição (abr/2026) e 9ª edição (fev/2025); Trafius (abr/2026)\n\n💬 Me segue pra entender tráfego pago por quem pensa como analista de mercado.\n\n#trafegopago #whatsappbusiness #marketingdigital #metaads #gestordetrafego #pequenosnegocios #consultoriametamorfose #publicidadedigital #empreendedorismo #vendaspelowhatsapp"
+}

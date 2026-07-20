@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-18",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "wholesale market supplier negotiation",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "CUSTO 2026",
+    "date": "18/07/2026",
+    "headline": "O ATACADO<br>CAIU 1,13%<br>EM JULHO.<br><em>O PRE&Ccedil;O NA<br>NOTA FISCAL<br>N&Atilde;O.</em>"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "O N&Uacute;MERO",
+      "h1": "A FGV divulgou na sexta-feira (17/07) a queda de <em>1,13%</em> no IGP-10 de julho &mdash; o &iacute;ndice que mede o pre&ccedil;o dos produtos no atacado.",
+      "body": "O IGP-10 &eacute; o term&ocirc;metro do que o produtor e a ind&uacute;stria cobram antes de qualquer produto chegar ao com&eacute;rcio. Quando ele cai, mat&eacute;ria-prima, alimento na distribuidora, embalagem e frete ficam mais baratos para quem vende em volume. Uma queda de 1,13% num &uacute;nico m&ecirc;s &eacute; expressiva &mdash; o maior recuo do ano at&eacute; agora. (Fonte: FGV, IGP-10 julho/2026, divulgado 17/07/2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "POR QUE CAIU",
+      "h1": "Dois fatores baratearam o atacado em julho: <em>commodities</em> em queda global e o real mais <em>valorizado</em> frente ao d&oacute;lar.",
+      "body": "Quando o c&acirc;mbio melhora, o insumo importado fica mais barato &mdash; e isso chega primeiro aos fornecedores, n&atilde;o ao com&eacute;rcio. Com o petr&oacute;leo em baixa e o real mais forte, o custo de frete, embalagem pl&aacute;stica e mat&eacute;ria-prima industrial recuou em julho. O produtor sentiu no campo, a ind&uacute;stria sentiu na f&aacute;brica. A nota fiscal do comerciante local ainda n&atilde;o mudou. (Fonte: FGV, IGP-10 julho/2026)"
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "O GAP",
+      "h1": "O fornecedor comprou mais barato em julho. O pre&ccedil;o que chega na nota do <em>com&eacute;rcio local</em> ainda reflete o custo de antes.",
+      "body": "O mercado de distribui&ccedil;&atilde;o n&atilde;o funciona como a g&ocirc;ndola de supermercado, onde o pre&ccedil;o cai quando o atacado abaixa. O fornecedor tem margem agora &mdash; mas a revis&atilde;o de contrato de compra s&oacute; acontece quando o comprador chega com o dado na m&atilde;o e pede desconto. A diferen&ccedil;a entre o pre&ccedil;o novo no atacado e o pre&ccedil;o antigo na nota &eacute; uma margem que fica com o fornecedor at&eacute; algu&eacute;m pedir de volta."
+    },
+    {
+      "layout": "light",
+      "tag": "O PRAZO",
+      "h1": "O petr&oacute;leo voltou a subir com a tens&atilde;o no Oriente M&eacute;dio. A janela de custo baixo no atacado tem <em>data de validade</em>.",
+      "body": "Para neg&oacute;cios que dependem de frete, embalagem ou produtos industrializados: o petr&oacute;leo &eacute; o principal fator de risco para os pr&oacute;ximos &iacute;ndices de atacado. Quando ele sobe, o custo de transporte e produ&ccedil;&atilde;o acompanha, e a defla&ccedil;&atilde;o de julho pode virar infla&ccedil;&atilde;o de agosto. Renegociar agora recupera a margem antes que a janela feche. (Fonte: FGV/Conexão Tocantins, jul/2026)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "A SA&Iacute;DA",
+      "h1": "1,13% no<br>atacado.<br><em>O desconto<br>s&oacute; chega<br>com negocia&ccedil;&atilde;o<br>ativa.</em>",
+      "body": "O dado do IGP-10 de julho &eacute; uma oportunidade de revis&atilde;o de custo que a maioria dos comerciantes locais n&atilde;o vai usar &mdash; porque n&atilde;o acompanha o indicador e n&atilde;o sabe que o fornecedor comprou mais barato. Custo de insumo organizado e capta&ccedil;&atilde;o de cliente estruturada mudam o resultado do m&ecirc;s ao mesmo tempo. A Consultoria Metamorfose trabalha com comerciantes locais que pararam de depender de margem apertada e come&ccedil;aram a controlar os dois lados do caixa com consist&ecirc;ncia."
+    },
+    {
+      "layout": "cta",
+      "bridge": "A FGV divulgou na sexta-feira (17/07) a queda de 1,13% no IGP-10 de julho &mdash; o &iacute;ndice de pre&ccedil;o no atacado. Commodities em defla&ccedil;&atilde;o e c&acirc;mbio favor&aacute;vel baratearam o insumo antes de chegar ao com&eacute;rcio local. O fornecedor comprou mais barato. O comerciante local ainda paga o pre&ccedil;o antigo. O petr&oacute;leo voltou a subir, o que coloca prazo nessa janela. Renegociar contrato de compra agora &eacute; uma decis&atilde;o de margem &mdash; n&atilde;o de sorte.",
+      "headline": "ATACADO<br>CAIU 1,13%.<br>FORNECEDOR<br>FICOU COM<br><em>O DESCONTO.<br>AT&Eacute; QUANDO?</em>",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados do mercado traduzidos em decis&atilde;o de custo e venda para o neg&oacute;cio local"
+    }
+  ],
+  "caption": "A FGV divulgou na sexta-feira (17/07/2026) a queda de 1,13% no IGP-10 de julho — o índice que mede o preço dos produtos no atacado.\n\nO motor foi duplo: commodities em deflação global e o real mais valorizado frente ao dólar. Frete, embalagem e matéria-prima ficaram mais baratos para o fornecedor. O comerciante local ainda não sentiu porque esse barateamento não chega automaticamente à nota fiscal — só com renegociação ativa de contrato de compra.\n\nE o prazo é curto: o petróleo voltou a subir com as tensões no Oriente Médio, o que pode reverter a deflação nos próximos índices do atacado.\n\nFonte: FGV, IGP-10 julho/2026 (divulgado 17/07/2026).\n\nMe segue para entender o que os dados do mercado significam para quem tem um negócio pequeno e precisa vender.\n\n#custodeoperação #fornecedor #comerciolocal #pequenosnegociosbrasileiros #PME #consultoriametamorfose #marketingdigital #negociolocal #empreendedorismo #IGP10"
+}

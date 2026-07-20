@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-17",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "new business opening crowd market competition",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "EMPREENDEDORISMO 2026",
+    "date": "17/07/2026",
+    "headline": "2,9 MILH&Otilde;ES<br>DE NOVOS<br>CNPJs EM<br>6 MESES.<br><em>E RECORDE<br>DE FECHAMENTO.</em>"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "OS N&Uacute;MEROS",
+      "h1": "O DataSebrae registrou a abertura de <em>2,9 milh&otilde;es</em> de pequenos neg&oacute;cios no Brasil no 1&ordm; semestre de 2026 &mdash; 12% a mais que no mesmo per&iacute;odo de 2025 e o maior volume da s&eacute;rie hist&oacute;rica.",
+      "body": "Os dados v&ecirc;m do Cadastro Nacional da Pessoa Jur&iacute;dica (CNPJ) da Receita Federal, consolidados pelo DataSebrae com atualiza&ccedil;&atilde;o at&eacute; 25 de junho de 2026. No 1&ordm; semestre de 2025, o Brasil havia registrado 2,6 milh&otilde;es de aberturas. Os microempreendedores individuais, microempresas e empresas de pequeno porte representaram 96,3% de todos os novos CNPJs do per&iacute;odo. (Fonte: DataSebrae &mdash; Receita Federal, jun/2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "O OUTRO LADO",
+      "h1": "No 1&ordm; trimestre de 2026, foram encerrados <em>874,9 mil</em> pequenos neg&oacute;cios &mdash; 126 mil a mais que no 1&ordm; trimestre de 2025, o maior volume de fechamentos desde 2023.",
+      "body": "MEIs responderam por <em>71,6%</em> dos encerramentos entre janeiro e mar&ccedil;o de 2026, segundo o Sebrae. O setor de servi&ccedil;os liderou tanto as aberturas quanto os fechamentos do semestre. O Brasil nunca abriu tanto em t&atilde;o pouco tempo &mdash; e os fechamentos acompanharam o ritmo. (Fonte: Sebrae; Sincovaga Not&iacute;cias, 2026)"
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "O MECANISMO",
+      "h1": "Quase <em>500 mil</em> novos neg&oacute;cios entram no mercado a cada m&ecirc;s de 2026. O setor que mais abre &mdash; servi&ccedil;os &mdash; &eacute; o mesmo que mais fecha.",
+      "body": "Restaurante, sal&atilde;o, cl&iacute;nica, prestador de servi&ccedil;o: os segmentos onde a maioria dos neg&oacute;cios locais opera s&atilde;o tamb&eacute;m os mais disputados do pa&iacute;s. O cliente tem op&ccedil;&otilde;es demais. O neg&oacute;cio que n&atilde;o aparece onde o cliente pesquisa antes de sair de casa perde para quem aparece &mdash; independente de quem existia primeiro."
+    },
+    {
+      "layout": "light",
+      "tag": "A SOBREVIV&Ecirc;NCIA",
+      "h1": "<em>89%</em> das micro e pequenas empresas chegam ao segundo ano. Dos MEIs, apenas <em>65,3%</em> atravessam esse per&iacute;odo &mdash; uma diferen&ccedil;a de quase 24 pontos percentuais.",
+      "body": "Os dados s&atilde;o do Sebrae, 2026. A diferen&ccedil;a de 24 pontos entre MPE e MEI reflete estrutura: planejamento financeiro, controle de caixa e canal de capta&ccedil;&atilde;o de clientes. O MEI que abre sem resolver a quest&atilde;o b&aacute;sica &mdash; como o cliente fica sabendo que o neg&oacute;cio existe &mdash; &eacute; quem mais aparece na estat&iacute;stica de encerramento. (Fonte: Sebrae, 2026)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "A SA&Iacute;DA",
+      "h1": "2,9 milh&otilde;es<br>de novos<br>neg&oacute;cios.<br><em>O que separa<br>quem fica<br>de quem fecha.</em>",
+      "body": "Com o mercado mais disputado da hist&oacute;ria, a quest&atilde;o central para qualquer neg&oacute;cio local passou a ser como o cliente encontra o neg&oacute;cio antes de ir para o concorrente que abriu na semana passada. An&uacute;ncio rodando, perfil ativo e estrat&eacute;gia de capta&ccedil;&atilde;o estruturada colocam o neg&oacute;cio em outro patamar de visibilidade. A Consultoria Metamorfose trabalha com comerciantes locais que decidiram parar de depender de indica&ccedil;&atilde;o e come&ccedil;aram a trazer clientes novos todo m&ecirc;s com consist&ecirc;ncia."
+    },
+    {
+      "layout": "cta",
+      "bridge": "O DataSebrae registrou 2,9 milh&otilde;es de aberturas no 1&ordm; semestre de 2026 &mdash; o maior volume hist&oacute;rico. No 1&ordm; trimestre, foram 874,9 mil encerramentos, 126 mil a mais que em 2025, o maior volume desde 2023. MEIs responderam por 71,6% dos fechamentos. A taxa de sobreviv&ecirc;ncia ap&oacute;s 2 anos: 65,3% para MEIs e 89,0% para MPEs. O mercado nunca esteve t&atilde;o cheio &mdash; e nunca foi t&atilde;o f&aacute;cil sumir na multid&atilde;o.",
+      "headline": "2,9 MILH&Otilde;ES<br>ABRIRAM.<br>875 MIL<br>FECHARAM:<br><em>O NEG&Oacute;CIO<br>APARECE<br>ONDE?</em>",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados do empreendedorismo brasileiro traduzidos em estrat&eacute;gia de venda para neg&oacute;cio local"
+    }
+  ],
+  "caption": "O DataSebrae registrou a abertura de 2,9 milhões de pequenos negócios no Brasil no 1º semestre de 2026 — 12% a mais que em 2025, o maior volume da série histórica.\n\nNo mesmo período, o 1º trimestre de 2026 teve 874,9 mil encerramentos de pequenos negócios — 126 mil a mais que no 1º trimestre de 2025, o maior volume de fechamentos desde 2023. MEIs responderam por 71,6% dos encerramentos.\n\nA taxa de sobrevivência após 2 anos mostra a diferença: 89,0% das micro e pequenas empresas chegam ao segundo ano. Dos MEIs, apenas 65,3% atravessam esse período. Os 24 pontos de diferença refletem estrutura — planejamento financeiro, controle de caixa e canal de captação de clientes.\n\nCom o mercado mais disputado da história, a questão central passou a ser como o cliente encontra o negócio antes de ir para o concorrente que abriu na semana passada.\n\nFontes: DataSebrae / Receita Federal (jun/2026); Sebrae (2026); Sincovaga Notícias (2026).\n\nMe segue pra entender o que os dados do mercado significam para quem tem um negócio pequeno e precisa vender.\n\n#empreendedorismo #MEI #PME #pequenosnegociosbrasileiros #negociolocal #consultoriametamorfose #marketingdigital #vendas #comerciolocal #empreender"
+}

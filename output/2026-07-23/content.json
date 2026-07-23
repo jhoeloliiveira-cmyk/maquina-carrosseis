@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-23",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "digital advertising social media business owner",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "META ADS / TRIBUTA&Ccedil;&Atilde;O 2026",
+    "date": "23/07/2026",
+    "headline": "A CONTA QUE<br>O META N&Atilde;O<br>MOSTRA:<br><em>12,15%<br>DO OR&Ccedil;AMENTO<br>&Eacute; IMPOSTO</em>"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "O FATO",
+      "h1": "Desde 1&ordm; de janeiro de 2026, cada R$1.000 investido em an&uacute;ncio no Instagram compra R$878,50 de alcan&ccedil;e real. <em>Os outros R$121,50 s&atilde;o impostos.</em>",
+      "body": "A Meta passou a repassar para os anunciantes brasileiros o PIS/Cofins (9,25%) e o ISS municipal (2,9%) &mdash; tributos que a pr&oacute;pria plataforma absorvia at&eacute; 2025. A mudan&ccedil;a entrou em vigor no primeiro dia do ano, com base na adequa&ccedil;&atilde;o ao sistema tribut&aacute;rio brasileiro e na transi&ccedil;&atilde;o para a Reforma Tribut&aacute;ria. O anunciante continua vendo R$1.000 no painel da plataforma, mas recebe R$878,50 em m&iacute;dia."
+    },
+    {
+      "layout": "light",
+      "tag": "O MECANISMO",
+      "h1": "PIS/Cofins: <em>9,25%</em>. ISS: <em>2,9%</em>. Total que saiu da m&iacute;dia e foi para tributo: <em>12,15%</em>.",
+      "body": "Os dois impostos sempre existiram nos servi&ccedil;os digitais brasileiros. A diferen&ccedil;a &eacute; que at&eacute; dezembro de 2025, a Meta absorvia esses custos na pr&oacute;pria margem. A partir de janeiro de 2026, a plataforma passou a destacar o valor na fatura do anunciante. O or&ccedil;amento de an&uacute;ncio n&atilde;o encolheu no painel &mdash; mas a m&iacute;dia que ele compra, sim."
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "OS N&Uacute;MEROS",
+      "h1": "R$500 de or&ccedil;amento compra <em>R$438,85 em m&iacute;dia real</em> e paga R$61,15 de tributo que n&atilde;o aparece no relat&oacute;rio de campanha.",
+      "body": "O c&aacute;lculo &eacute; linear: cada real depositado no Meta Ads tem 12,15% descontado em PIS/Cofins e ISS antes de entrar em m&iacute;dia. R$500 resultam em R$438,85 de alcan&ccedil;e. R$2.000, em R$1.757. R$10.000, em R$8.785. A Meta optou por repassar esse custo diretamente ao anunciante &mdash; enquanto o Google, na mesma transi&ccedil;&atilde;o tribut&aacute;ria, manteve o pre&ccedil;o e discriminou os impostos apenas na nota fiscal. Dois caminhos; o impacto no caixa &eacute; o mesmo."
+    },
+    {
+      "layout": "light",
+      "tag": "O IMPACTO NO CAIXA",
+      "h1": "O custo por resultado no painel da Meta n&atilde;o inclui o imposto. <em>O caixa, sim.</em>",
+      "body": "O relat&oacute;rio de campanha exibe o custo por clique e o custo por convers&atilde;o sobre o valor l&iacute;quido de m&iacute;dia &mdash; sem os 12,15% de tributo que aparecem na fatura. Quem calcula o retorno sobre o investimento pelo painel, sem corrigir o custo real, trabalha com margem 12% mais otimista do que o caixa registra. A lacuna &eacute; invis&iacute;vel na plataforma, mas aparece na conta do cart&atilde;o ao final do m&ecirc;s."
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "A SA&Iacute;DA",
+      "h1": "Meta Ads 12,15% mais caro desde janeiro. <em>O resultado n&atilde;o precisa cair na mesma propor&ccedil;&atilde;o.</em>",
+      "body": "Se cada real compra menos alcan&ccedil;e, o alcan&ccedil;e precisa ser mais preciso. An&uacute;ncio direcionado para o p&uacute;blico certo, com criativo que converte, entrega resultado mesmo com or&ccedil;amento corrigido pelo tributo. E a Reforma Tribut&aacute;ria prev&ecirc; que a al&iacute;quota sobre servi&ccedil;os digitais chegue a <strong>27,5%</strong> at&eacute; 2033 &mdash; quem ajusta a estrat&eacute;gia agora chega em 2027 com campanha calibrada. A Consultoria Metamorfose trabalha isso com o neg&oacute;cio local: quanto custa trazer um cliente de verdade, n&atilde;o quanto custa aparecer para todo mundo."
+    },
+    {
+      "layout": "cta",
+      "bridge": "Desde 1&ordm; de janeiro de 2026, a Meta repassa PIS/Cofins (9,25%) e ISS (2,9%) diretamente ao anunciante brasileiro &mdash; <strong>12,15%</strong> do or&ccedil;amento que saiu da m&iacute;dia e foi para tributo. R$1.000 depositados compram <strong>R$878,50</strong> em alcan&ccedil;e real. O painel da plataforma n&atilde;o discrimina esse custo nos relat&oacute;rios de campanha.",
+      "headline": "A CONTA QUE<br>O META N&Atilde;O<br>MOSTRA.<br><em>12,15%<br>DO OR&Ccedil;AMENTO<br>&Eacute; IMPOSTO.</em>",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados do mercado traduzidos em decis&atilde;o de an&uacute;ncio, capta&ccedil;&atilde;o e venda para o dono de neg&oacute;cio"
+    }
+  ],
+  "caption": "Desde 1º de janeiro de 2026, a Meta repassa PIS/Cofins (9,25%) e ISS (2,9%) diretamente para quem anuncia no Instagram e Facebook — 12,15% do orçamento que saiu da mídia e foi para tributo.\n\nR$1.000 depositados na plataforma compram R$878,50 de alcance real. Os outros R$121,50 são impostos — que o painel de campanha não discrimina nos relatórios de custo por resultado.\n\nR$500 de orçamento resultam em R$438,85 de mídia. R$2.000 resultam em R$1.757. Quem analisa CPC e CPM pelo painel, sem corrigir o custo real, trabalha com margem 12% mais otimista do que o caixa registra.\n\nA Reforma Tributária prevê que a alíquota sobre serviços digitais chegue a 27,5% até 2033.\n\nFontes: Meta Platforms (comunicação oficial a anunciantes, dez. 2025) / spotmkt.com.br / nexusgrowth.com.br / projeção da Reforma Tributária: blog.valentinsdigital.com.br (2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#metaads #trafegopago #anuncio #consultoriametamorfose #negociolocal #PME #reformatributaria #marketingdigital #empreendedorismo #lojista"
+}

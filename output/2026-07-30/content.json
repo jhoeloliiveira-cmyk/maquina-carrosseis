@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-30",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "small business local store owner brazil street shop open",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "PANORAMA PME / SEBRAE 1&ordm; TRI 2026",
+    "date": "30/07/2026",
+    "headline": "875 MIL<br>NEG&Oacute;CIOS<br>FECHARAM:<br><em>O SEBRAE<br>MAPEOU<br>QUEM<br>SOBREVIVE<br>E POR QU&Ecirc;</em>"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "O N&Uacute;MERO QUE NINGU&Eacute;M COMEMORA",
+      "h1": "433 mil novos pequenos neg&oacute;cios abriram no Brasil em julho. <em>No 1&ordm; trimestre de 2026, 875 mil fecharam as portas &mdash; o maior volume de encerramentos desde 2023.</em>",
+      "body": "O Panorama Econ&ocirc;mico Trimestral dos Pequenos Neg&oacute;cios, do Sebrae, mapeou os dados de abertura e encerramento de empresas no Brasil em 2026. O mercado cresce dos dois lados: o do empreendedor que abre e o do que fecha. E os dois lados chegam no mesmo bairro, na mesma rua, no mesmo setor de quem j&aacute; est&aacute; operando."
+    },
+    {
+      "layout": "light",
+      "tag": "A MATEM&Aacute;TICA DOS QUE FECHAM",
+      "h1": "71,6% dos neg&oacute;cios encerrados no 1&ordm; trimestre de 2026 eram MEIs. <em>O com&eacute;rcio registrou 213,6 mil fechamentos &mdash; 24,4% de todos os encerramentos do per&iacute;odo.</em>",
+      "body": "O Sebrae mapeou que os encerramentos cresceram 126 mil acima do volume registrado no 1&ordm; trimestre de 2025 &mdash; o maior n&iacute;vel desde 2023. O setor de servi&ccedil;os concentrou 528,7 mil encerramentos (60,4% do total); o com&eacute;rcio, 213,6 mil (24,4%). S&atilde;o bairros, ruas e setores onde o vizinho de uma loja abriu, e o vizinho do lado fechou, no mesmo trimestre."
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "A DIVERG&Ecirc;NCIA",
+      "h1": "<em>65,3% dos MEIs permanecem ativos ap&oacute;s 2 anos. 89% das MPEs sobrevivem o mesmo per&iacute;odo.</em> A diferen&ccedil;a &eacute; de quase 24 pontos percentuais.",
+      "body": "O mesmo relat&oacute;rio do Sebrae que mapeou os fechamentos trouxe a taxa de sobreviv&ecirc;ncia por porte. Entre as micro e pequenas empresas (MPEs) formalizadas com CNPJ completo, 89% est&atilde;o ativas ap&oacute;s dois anos. Entre os MEIs, esse n&uacute;mero cai para 65,3%. A forma&ccedil;&atilde;o jur&iacute;dica ajuda, mas o que diferencia quem fica de quem fecha vai al&eacute;m do CNPJ: &eacute; o fluxo de clientes que chega todo m&ecirc;s."
+    },
+    {
+      "layout": "light",
+      "tag": "O QUE OS QUE FICAM T&Ecirc;M EM COMUM",
+      "h1": "Um neg&oacute;cio local fecha quando o cliente para de aparecer. <em>O cliente para de aparecer quando o neg&oacute;cio para de ser encontrado por quem ainda n&atilde;o o conhece.</em>",
+      "body": "O Sebrae apurou que o com&eacute;rcio respondeu por 24,4% dos encerramentos no 1&ordm; trimestre de 2026. A maioria das lojas, cl&iacute;nicas e oficinas que fecharam tinha produto, tinha pre&ccedil;o e tinha endere&ccedil;o. O que faltou foi fluxo de clientes novos: quem j&aacute; conhecia o neg&oacute;cio continuou comprando at&eacute; deixar de aparecer; quem nunca ouviu falar nunca chegou. O canal de chegada &mdash; o que apresenta o neg&oacute;cio para quem ainda n&atilde;o sabe que ele existe &mdash; &eacute; o que separa o neg&oacute;cio que fica do que fecha."
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "A SA&Iacute;DA",
+      "h1": "O neg&oacute;cio local que sobrevive <em>constr&oacute;i o canal de chegada de clientes antes que o concorrente que acabou de abrir leve essa clientela.</em>",
+      "body": "A Consultoria Metamorfose trabalha com donos de neg&oacute;cio local para montar o canal de entrada: an&uacute;ncios que apresentam o neg&oacute;cio para o p&uacute;blico certo, todo m&ecirc;s, antes que o MEI que abriu na semana passada na mesma rua estabele&ccedil;a a prefer&ecirc;ncia do cliente. A taxa de sobreviv&ecirc;ncia de quem tem fluxo constante de clientes novos &eacute; diferente da de quem depende s&oacute; de indica&ccedil;&atilde;o."
+    },
+    {
+      "layout": "cta",
+      "bridge": "O Panorama Econ&ocirc;mico Trimestral dos Pequenos Neg&oacute;cios (Sebrae, 1&ordm; trimestre de 2026) mapeou <strong>875 mil</strong> encerramentos &mdash; 126 mil a mais que no mesmo per&iacute;odo de 2025. <strong>71,6%</strong> eram MEIs. Taxa de sobreviv&ecirc;ncia ap&oacute;s 2 anos: <strong>65,3%</strong> dos MEIs e <strong>89%</strong> das MPEs. Em julho de 2026, <strong>433 mil</strong> novos pequenos neg&oacute;cios abriram &mdash; o melhor m&ecirc;s desde mar&ccedil;o. Fonte: Sebrae / Ag&ecirc;ncia Sebrae de Not&iacute;cias, julho de 2026.",
+      "headline": "875 MIL<br>NEG&Oacute;CIOS<br>FECHARAM:<br><em>O SEBRAE<br>MAPEOU<br>QUEM<br>SOBREVIVE<br>E POR QU&Ecirc;</em>",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados de mercado traduzidos em decis&atilde;o de venda para o dono de neg&oacute;cio local"
+    }
+  ],
+  "caption": "875 mil pequenos negócios fecharam no 1º trimestre de 2026.\n\nO Panorama Econômico Trimestral dos Pequenos Negócios, do Sebrae, mapeou que o volume de encerramentos no período foi 126 mil maior que no mesmo trimestre de 2025 — o maior nível desde 2023. 71,6% das empresas encerradas eram MEIs. O comércio respondeu por 24,4% dos fechamentos (213,6 mil empresas). O setor de serviços, por 60,4% (528,7 mil).\n\nNo mesmo período, a taxa de sobrevivência após 2 anos é de 65,3% entre MEIs e de 89% entre micro e pequenas empresas formalizadas. A diferença é de quase 24 pontos percentuais.\n\nEm julho de 2026, 433 mil novos pequenos negócios abriram — o melhor resultado desde março. O mercado cresce dos dois lados: quem entra e quem sai. O que separa um grupo do outro é o fluxo de clientes que chega todo mês — e se existe um canal para apresentar o negócio a quem ainda não sabe que ele existe.\n\nFonte: Panorama Econômico Trimestral dos Pequenos Negócios (Sebrae, 1º trimestre de 2026); Agência Sebrae de Notícias, julho de 2026.\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#pequenaempresa #MEI #negociolocal #empreendedorismo #PME #sebrae #comerciolocal #marketingdigital #trafegopago #empreender"
+}

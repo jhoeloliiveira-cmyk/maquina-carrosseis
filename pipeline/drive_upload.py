@@ -2,7 +2,7 @@
 """Upload files to Google Drive via direct MCP HTTP call."""
 import base64, json, os, sys, urllib.request, urllib.parse
 
-SESSION_ID = "cse_01Nsrt6nLMQ3NZVE1EYJxA1G"
+SESSION_ID = "cse_019CYBx3SsPCbnJHdpsTcua6"
 MCP_SERVER_ID = "9792d709-e80a-42cd-b002-58ee1f600f33"
 MCP_DRIVE_SERVER_ID = "aba6b5cf-af80-5fc0-b80b-c760296ac520"
 MCP_URL = (
@@ -14,7 +14,7 @@ MCP_URL = (
 CA_BUNDLE = "/root/.ccr/ca-bundle.crt"
 
 def get_token():
-    token_file = "/home/claude/.claude/remote/.session_ingress_token"
+    token_file = "/home/claude/.claude/remote/.session_ingress_token"  # works in cloud session
     with open(token_file) as f:
         return f.read().strip()
 

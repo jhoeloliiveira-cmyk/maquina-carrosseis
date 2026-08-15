@@ -2,9 +2,9 @@
 """Upload files to Google Drive via direct MCP HTTP call."""
 import base64, json, os, sys, urllib.request, urllib.parse
 
-SESSION_ID = "cse_01MucAvWZMQSTxwKNqSZzjwx"
+SESSION_ID = "cse_01HqJ2mmHqn5kiFkXar21uke"
 MCP_SERVER_ID = "9792d709-e80a-42cd-b002-58ee1f600f33"
-MCP_DRIVE_SERVER_ID = "aba6b5cf-af80-5fc0-b80b-c760296ac520"
+MCP_DRIVE_SERVER_ID = "447a5f9b-91a7-5e82-870d-8fb449fb844e"
 MCP_URL = (
     f"https://api.anthropic.com/v2/ccr-sessions/{SESSION_ID}/mcp"
     f"?mcp_url=https%3A%2F%2Fdrivemcp.googleapis.com%2Fmcp%2Fv1"

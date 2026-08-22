@@ -2,7 +2,7 @@
 """Upload files to Google Drive via direct MCP HTTP call."""
 import base64, json, os, sys, urllib.request, urllib.parse
 
-SESSION_ID = "cse_019gs1Nb3iYBZyUu26bYUVH3"
+SESSION_ID = "cse_01G1soofvju5BGEy35sgQqMc"
 MCP_SERVER_ID = "9792d709-e80a-42cd-b002-58ee1f600f33"
 MCP_DRIVE_SERVER_ID = "447a5f9b-91a7-5e82-870d-8fb449fb844e"
 MCP_URL = (

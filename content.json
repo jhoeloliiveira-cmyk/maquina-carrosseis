@@ -1,54 +1,54 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "small business credit loan finance Brazil",
+  "image_query": "digital marketplace online shopping retail",
   "capa": {
     "image": "net-1.jpg",
-    "type_label": "METAMORFOSE / JURO E CR&Eacute;DITO / SETEMBRO 2026",
-    "date": "20/09/2026",
-    "headline": "A ARMADILHA<br>DO <em>CR&Eacute;DITO<br>BARATO</em>:<br>8,7 MILH&Otilde;ES<br>DE PEQUENOS<br>NEG&Oacute;CIOS<br>INADIMPLENTES<br>COM A SELIC<br>EM QUEDA"
+    "type_label": "METAMORFOSE / VAREJO DIGITAL / SETEMBRO 2026",
+    "date": "21/09/2026",
+    "headline": "A RENDI&Ccedil;&Atilde;O<br>DO <em>VAREJO<br>TRADICIONAL</em>:<br>27 MIL<br>PRODUTOS<br>DA MAGALU<br>AGORA NO<br>MERCADO LIVRE"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "A DECIS&Atilde;O DO COPOM EM 16 DE SETEMBRO DE 2026",
-      "h1": "O Copom reduziu a Selic para <em>13,75%</em> pela quinta vez seguida &mdash; o menor n&iacute;vel desde mar&ccedil;o de 2025. No mesmo per&iacute;odo, a inadimpl&ecirc;ncia das micro e pequenas empresas bateu <em>recorde hist&oacute;rico</em>.",
-      "body": "A taxa b&aacute;sica de juros est&aacute; em queda e o notici&aacute;rio celebra. Mas na Serasa Experian, os dados de junho de 2026 contam uma hist&oacute;ria diferente: <strong>8,7 milh&otilde;es</strong> de CNPJs de micro e pequenas empresas est&atilde;o negativados &mdash; 95% de todos os neg&oacute;cios inadimplentes do Brasil. Em 12 meses, esse n&uacute;mero cresceu <strong>17,7%</strong>. O Banco Central reduziu o pre&ccedil;o oficial do dinheiro. O pre&ccedil;o que o dono de neg&oacute;cio local paga no cr&eacute;dito n&atilde;o seguiu o mesmo caminho. (Fonte: Copom/BCB &middot; Serasa Experian, setembro 2026)"
+      "tag": "O DADO DO IBGE DIVULGADO EM SETEMBRO DE 2026",
+      "h1": "O com&eacute;rcio f&iacute;sico recuou <em>0,8%</em> em julho &mdash; quatro vezes mais do que o esperado. No mesmo per&iacute;odo, o Mercado Livre cresceu <em>44%</em> em volume de vendas.",
+      "body": "A Pesquisa Mensal de Com&eacute;rcio do IBGE mostrou, em setembro de 2026, que as vendas no varejo recuaram 0,8% em julho na compara&ccedil;&atilde;o com junho &mdash; resultado quatro vezes pior do que a queda de 0,2% projetada pelo consenso Bloomberg. M&oacute;veis e eletrodom&eacute;sticos tiveram a maior retra&ccedil;&atilde;o desde dezembro de 2023: <strong>4,9%</strong>. Vestu&aacute;rio recuou <strong>2,7%</strong>. No mesmo per&iacute;odo, o Mercado Livre registrou crescimento de <strong>44%</strong> em GMV global no segundo trimestre, com o Brasil entre os mercados de maior expans&atilde;o. Dois resultados opostos para o mesmo consumidor brasileiro. (Fonte: IBGE/PMC &middot; Mercado Livre, setembro 2026)"
     },
     {
       "layout": "light",
-      "tag": "POR QUE O CR&Eacute;DITO N&Atilde;O CAI JUNTO COM A SELIC",
-      "h1": "Entre o corte da Selic e a conta do financiamento existe um intervalo que pode durar <em>at&eacute; 18 meses</em>. E existe o spread &mdash; que os bancos n&atilde;o publicam no notici&aacute;rio.",
-      "body": "Quando o Copom corta a Selic, o custo do dinheiro cai para o banco. O custo para o tomador &mdash; o spread &mdash; inclui inadimpl&ecirc;ncia projetada, risco do cliente, impostos, custos operacionais e margem da institui&ccedil;&atilde;o. Em setembro de 2026, com 8,7 milh&otilde;es de pequenos neg&oacute;cios inadimplentes, o risco percebido est&aacute; no maior n&iacute;vel da s&eacute;rie hist&oacute;rica. O banco cobra mais pelo risco. O dono de neg&oacute;cio local paga mais caro. O efeito pleno do corte leva at&eacute; 18 meses para chegar nos contratos. (Fonte: BCB &middot; Piranot, setembro 2026)"
+      "tag": "POR QUE O VAREJO F&Iacute;SICO EST&Aacute; ENCOLHENDO",
+      "h1": "<em>82%</em> das fam&iacute;lias brasileiras t&ecirc;m d&iacute;vidas a vencer &mdash; s&eacute;timo m&ecirc;s de recorde consecutivo pela CNC. Com <em>29,5%</em> da renda comprometida, o consumidor pesquisa mais e decide antes de sair de casa.",
+      "body": "A Confedera&ccedil;&atilde;o Nacional do Com&eacute;rcio registrou, em agosto de 2026, que 82% das fam&iacute;lias brasileiras est&atilde;o endividadas &mdash; o maior percentual da s&eacute;rie hist&oacute;rica pelo s&eacute;timo m&ecirc;s seguido. Em m&eacute;dia, <strong>29,5%</strong> da renda mensal j&aacute; est&aacute; comprometida com pagamentos. O cart&atilde;o de cr&eacute;dito responde por mais de <strong>85%</strong> desse endividamento. O consumidor com or&ccedil;amento apertado pesquisa pre&ccedil;o antes de sair de casa, compara op&ccedil;&otilde;es e compra onde a entrega chega mais r&aacute;pida. A plataforma que oferece esse caminho cresce 44%. A loja que depende do fluxo espont&acirc;neo perde 0,8%. (Fonte: CNC, agosto 2026)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "OS N&Uacute;MEROS QUE O NOTICI&Aacute;RIO N&Atilde;O CONECTOU",
-      "h1": "<em>R$ 232,9 bilh&otilde;es</em> em d&iacute;vidas negativadas de micro e pequenas empresas. <em>1 em cada 4</em> donos n&atilde;o tem garantia real para pedir empr&eacute;stimo.",
-      "body": "A Serasa Experian registrou em junho de 2026 o maior n&uacute;mero de CNPJs inadimplentes da s&eacute;rie hist&oacute;rica: <strong>9,1 milh&otilde;es de empresas</strong>, sendo 8,7 milh&otilde;es de micro e pequenas. O total de d&iacute;vidas negativadas chegou a <strong>R$ 232,9 bilh&otilde;es</strong>. E <strong>24%</strong> dos pequenos neg&oacute;cios n&atilde;o t&ecirc;m nenhuma garantia real para buscar financiamento formal. Sem garantia, o acesso ao cr&eacute;dito mais barato que a queda da Selic permite fica bloqueado justamente para o perfil que mais precisa. (Fonte: Serasa Experian, junho 2026)"
+      "tag": "O MOVIMENTO QUE DEFINIU O VAREJO EM SETEMBRO DE 2026",
+      "h1": "Em 2 de setembro de 2026, a Magalu anunciou que vai vender <em>27 mil produtos pr&oacute;prios</em> dentro do Mercado Livre. As a&ccedil;&otilde;es MGLU3 subiram <em>17% no mesmo dia</em>.",
+      "body": "A Magazine Luiza &mdash; maior rede varejista tradicional do Brasil &mdash; fechou parceria com o Mercado Livre para listar itens de estoque pr&oacute;prio diretamente na plataforma: eletroeletr&ocirc;nicos, m&oacute;veis, games da KaBuM e cosm&eacute;ticos da &Eacute;poca Cosm&eacute;ticos, com log&iacute;stica a cargo da Magalog. O mercado reagiu: as a&ccedil;&otilde;es MGLU3 dispararam <strong>17%</strong> na sess&atilde;o do an&uacute;ncio. O Magalu j&aacute; tem acordos semelhantes com Amazon, AliExpress, Americanas e Ita&uacute; Shopping. O maior varejista f&iacute;sico do Brasil escolheu distribuir onde o consumidor j&aacute; est&aacute; &mdash; em vez de esperar o fluxo voltar &agrave; loja. (Fonte: Brazil Journal &middot; Mercado &amp; Consumo, 2 set. 2026)"
     },
     {
       "layout": "light",
-      "tag": "O QUE OS 18 MESES SIGNIFICAM PARA O CAIXA",
-      "h1": "Pagamento de d&iacute;vidas em atraso consome <em>pelo menos 30%</em> das despesas de quem est&aacute; inadimplente. A Selic cai no papel enquanto o custo real do capital permanece no hist&oacute;rico.",
-      "body": "O diagn&oacute;stico do CDL POA &eacute; direto: 1 em cada 4 pequenos neg&oacute;cios sofre com inadimpl&ecirc;ncia, e o pagamento de d&iacute;vidas em atraso consome pelo menos 30% das despesas dessas empresas. Para esse grupo, a queda da Selic para 13,75% n&atilde;o reduz a fatura de hoje &mdash; s&oacute; o cr&eacute;dito novo, quando tomado, come&ccedil;a a aparecer mais barato. O cr&eacute;dito antigo, tomado em taxa mais alta, continua pesando no fluxo de caixa at&eacute; o vencimento ou renegocia&ccedil;&atilde;o. A not&iacute;cia do Copom &eacute; sobre o futuro. O problema est&aacute; no presente. (Fonte: CDL POA &middot; BCB, setembro 2026)"
+      "tag": "O QUE ESSE MOVIMENTO REVELA PARA O NEG&Oacute;CIO LOCAL",
+      "h1": "O Magalu foi at&eacute; a plataforma do concorrente porque o consumidor j&aacute; tomava a decis&atilde;o de compra de dentro do marketplace &mdash; <em>antes de chegar &agrave; loja</em>.",
+      "body": "Com 82% das fam&iacute;lias endividadas pesquisando pre&ccedil;o antes de sair de casa, o digital virou o primeiro ponto de contato com o produto. A loja f&iacute;sica ainda fecha a venda &mdash; mas o cliente j&aacute; chegou decidido por quem apareceu na pesquisa antes. O Magalu foi para dentro do Mercado Livre porque o consumidor j&aacute; estava l&aacute;, comparando op&ccedil;&otilde;es. Para o dono de neg&oacute;cio local, a janela de influ&ecirc;ncia sobre a compra est&aacute; no momento da pesquisa digital, antes de o cliente atravessar a porta. Quem aparece nesse momento influencia a decis&atilde;o. Quem n&atilde;o aparece perde o cliente antes mesmo de poder mostrar o produto. (Fonte: Brazil Journal &middot; Forbes Brasil, setembro 2026)"
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "A ESTRUTURA QUE APROVEITA A JANELA DO CORTE",
-      "h1": "O neg&oacute;cio local que organiza o caixa <em>antes do spread recuar</em> reduz a depend&ecirc;ncia do cr&eacute;dito caro &mdash; <em>e n&atilde;o entra na fila dos 8,7 milh&otilde;es</em>.",
-      "body": "A Consultoria Metamorfose estrutura a presen&ccedil;a e o an&uacute;ncio do neg&oacute;cio local para que a receita corrente cres&ccedil;a antes que o cr&eacute;dito precise cobrir o que a venda n&atilde;o cobre. Em setembro de 2026, com a Selic em queda e os bancos ainda segurando o spread, quem aumenta a receita corrente reduz a depend&ecirc;ncia do cr&eacute;dito caro &mdash; e entra no pr&oacute;ximo ciclo de cortes em posi&ccedil;&atilde;o diferente dos que ficaram esperando o banco anunciar um juro novo."
+      "tag": "A ESTRUTURA QUE COLOCA O NEG&Oacute;CIO LOCAL NA PESQUISA DO CLIENTE",
+      "h1": "O neg&oacute;cio local que aparece <em>no digital antes da decis&atilde;o de compra</em> fecha mais vendas &mdash; <em>com o mesmo fluxo de loja f&iacute;sica</em>.",
+      "body": "A Consultoria Metamorfose estrutura a presen&ccedil;a e o an&uacute;ncio do neg&oacute;cio local para que a marca apare&ccedil;a no momento em que o consumidor pesquisa &mdash; antes de decidir onde comprar. Em setembro de 2026, com o varejo f&iacute;sico perdendo 0,8% e os marketplaces crescendo 44%, o neg&oacute;cio local que entra na pesquisa digital antes da decis&atilde;o n&atilde;o concorre com o Mercado Livre: aproveita o mesmo comportamento de busca para vender onde tem margem, atendimento e relacionamento que plataforma nenhuma replica."
     },
     {
       "layout": "cta",
-      "bridge": "O Copom cortou a Selic para <strong>13,75%</strong> pela quinta vez seguida em setembro de 2026. No mesmo per&iacute;odo, a inadimpl&ecirc;ncia das micro e pequenas empresas chegou ao <strong>maior n&iacute;vel da s&eacute;rie hist&oacute;rica</strong>: <strong>8,7 milh&otilde;es de CNPJs</strong> negativados, <strong>R$ 232,9 bilh&otilde;es</strong> em d&iacute;vidas. <strong>1 em cada 4</strong> pequenos neg&oacute;cios n&atilde;o tem garantia para acessar o cr&eacute;dito mais barato. O efeito do corte leva <strong>at&eacute; 18 meses</strong> para chegar nos contratos. O spread n&atilde;o cai no mesmo ritmo da Selic. Fontes: Copom/BCB &middot; Serasa Experian &middot; CDL POA (setembro 2026)",
-      "headline": "A ARMADILHA<br>DO <em>CR&Eacute;DITO<br>BARATO</em>:<br>8,7 MILH&Otilde;ES<br>DE PEQUENOS<br>NEG&Oacute;CIOS<br>INADIMPLENTES<br>COM A SELIC<br>EM QUEDA",
+      "bridge": "Em setembro de 2026, o IBGE revelou que o varejo f&iacute;sico caiu <strong>0,8%</strong> em julho &mdash; quatro vezes mais do que o esperado. O Mercado Livre cresceu <strong>44%</strong> no mesmo per&iacute;odo. A Magalu fechou parceria para vender <strong>27 mil produtos pr&oacute;prios</strong> dentro do Mercado Livre, e as a&ccedil;&otilde;es subiram <strong>17%</strong> no mesmo dia. <strong>82% das fam&iacute;lias brasileiras</strong> est&atilde;o endividadas &mdash; s&eacute;timo recorde consecutivo da CNC &mdash; com <strong>29,5%</strong> da renda comprometida. O consumidor pesquisa no digital e decide antes de chegar &agrave; loja. Fontes: IBGE/PMC &middot; Mercado Livre &middot; CNC &middot; Brazil Journal &middot; Mercado &amp; Consumo (setembro 2026)",
+      "headline": "A RENDI&Ccedil;&Atilde;O<br>DO <em>VAREJO<br>TRADICIONAL</em>:<br>27 MIL<br>PRODUTOS<br>DA MAGALU<br>AGORA NO<br>MERCADO LIVRE",
       "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
       "kword": "ME SEGUE",
       "kbenefit": "dados do mercado traduzidos em decis&atilde;o de venda para o dono de neg&oacute;cio local"
     }
   ],
-  "caption": "O Copom cortou a Selic para 13,75% pela quinta vez seguida em setembro de 2026. O noticiário celebrou. Mas a Serasa Experian contou outra história.\n\n8,7 milhões de micro e pequenas empresas estão negativadas — o maior número da série histórica. Em 12 meses, esse número cresceu 17,7%. As dívidas negativadas dos pequenos negócios chegaram a R$ 232,9 bilhões.\n\nO problema é o intervalo: o efeito pleno da queda da Selic leva até 18 meses para chegar nos contratos de crédito. O banco cobra o spread — inadimplência projetada, risco, margem — e esse spread não cai no mesmo ritmo da taxa básica.\n\nPara quem já está inadimplente, o cenário é mais duro: 1 em cada 4 pequenos negócios não tem garantia para buscar crédito formal. E o pagamento de dívidas em atraso consome pelo menos 30% das despesas da empresa.\n\nA notícia do Banco Central é sobre o futuro. O problema do dono de negócio local está no presente.\n\nFontes: Copom/BCB · Serasa Experian · CDL POA (setembro 2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#trafegopago #marketingdigital #PME #negociolocal #empreendedorismo #credito #selic #juros #pequenonegocios #gestao"
+  "caption": "O Mercado Livre cresceu 44% no segundo trimestre de 2026. No mesmo período, o varejo físico caiu 0,8% em julho — quatro vezes mais do que o esperado.\n\nEm 2 de setembro de 2026, a Magazine Luiza anunciou que vai vender 27 mil produtos próprios dentro do Mercado Livre: eletroeletrônicos, móveis, games da KaBuM e cosméticos da Época Cosméticos. As ações MGLU3 subiram 17% no mesmo dia.\n\nA explicação está nos dados da CNC: 82% das famílias brasileiras estão endividadas — o maior percentual da série histórica, pelo sétimo mês seguido. Em média, 29,5% da renda já está comprometida com pagamentos. O cartão de crédito responde por mais de 85% dessas dívidas.\n\nCom o orçamento apertado, o consumidor pesquisa preço antes de sair de casa, compara opções e compra onde a entrega chega mais rápida. O Magalu foi para dentro do Mercado Livre porque o consumidor já estava lá, tomando a decisão de compra antes de chegar à loja física.\n\nPara o dono de negócio local, a janela de influência sobre a compra está no momento da pesquisa digital — antes de o cliente atravessar a porta.\n\nFontes: IBGE/PMC · CNC · Brazil Journal · Mercado & Consumo (setembro 2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#trafegopago #marketingdigital #PME #negociolocal #empreendedorismo #varejo #mercadolivre #ecommerce #pequenonegocios #gestao"
 }

@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-24",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "retail store consumer shopping",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "METAMORFOSE / VAREJO 2026 / SETEMBRO 2026",
+    "date": "24/09/2026",
+    "headline": "O EMPREGO<br>N&Atilde;O GARANTE<br>A VENDA:<br>103 MILH&Otilde;ES<br>TRABALHANDO,<br><em>VAREJO<br>CAINDO</em>"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "PESQUISA MENSAL DO COM&Eacute;RCIO &mdash; IBGE &mdash; SETEMBRO DE 2026",
+      "h1": "Em julho de 2026, o varejo restrito caiu <em>0,8%</em> &mdash; quatro vezes mais do que o mercado esperava. O mercado de trabalho estava no melhor n&iacute;vel dos &uacute;ltimos 14 anos.",
+      "body": "O Instituto Brasileiro de Geografia e Estat&iacute;stica divulgou, em 15 de setembro de 2026, os dados da Pesquisa Mensal do Com&eacute;rcio. As vendas do varejo restrito recuaram 0,8% em julho na compara&ccedil;&atilde;o com junho &mdash; quando a mediana das proje&ccedil;&otilde;es dos economistas era de -0,2%, quatro vezes menor. Na compara&ccedil;&atilde;o com julho de 2025, o avan&ccedil;o foi de apenas 1,2%, tamb&eacute;m abaixo da expectativa de 2,15%. Foi o segundo recuo mensal do varejo em 2026. No mesmo per&iacute;odo, a taxa de desemprego chegou a 5,3% &mdash; o menor n&iacute;vel dos &uacute;ltimos 14 anos &mdash;, com 103,3 milh&otilde;es de brasileiros ocupados e renda m&eacute;dia real de R$ 3.762. A queda no varejo n&atilde;o veio do desemprego. (Fonte: IBGE/PMC, 15/09/2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "O QUE PUXOU A QUEDA PARA BAIXO",
+      "h1": "M&oacute;veis e eletrodom&eacute;sticos recuaram <em>4,9%</em> em julho &mdash; a maior queda desde dezembro de 2023. S&atilde;o os produtos que mais dependem de financiamento.",
+      "body": "Na abertura por segmento, m&oacute;veis e eletrodom&eacute;sticos registraram recuo de 4,9% em julho, o pior resultado do segmento em quase tr&ecirc;s anos. Tecidos, vestu&aacute;rio e cal&ccedil;ados ca&iacute;ram 2,7%. Livros, revistas e papelaria, 4,2%. Os itens com maior queda t&ecirc;m em comum a depend&ecirc;ncia do cr&eacute;dito parcelado para viabilizar a compra: o consumidor adiou a decis&atilde;o enquanto o custo do financiamento permanece alto. A Selic estava em 14% em julho. Os cortes do Copom levaram a taxa a 13,75% em setembro &mdash; mas a transmiss&atilde;o para o cr&eacute;dito ao consumidor demora de um a dois trimestres. (Fonte: IBGE/PMC &middot; Copom, setembro 2026)"
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "O QUE OS N&Uacute;MEROS DO CONSUMIDOR REVELAM",
+      "h1": "<em>83,98 milh&otilde;es</em> de brasileiros est&atilde;o inadimplentes. Parte da renda do cliente chegou comprometida ao momento da compra.",
+      "body": "A Serasa registrou, em setembro de 2026, 83,98 milh&otilde;es de consumidores inadimplentes &mdash; o maior n&uacute;mero absoluto da s&eacute;rie hist&oacute;rica. O total das d&iacute;vidas negativadas chegou a R$ 586,5 bilh&otilde;es. Quando o consumidor acumula parcelas em aberto, a renda dispon&iacute;vel para novas compras encolhe mesmo com o emprego est&aacute;vel. O Sebrae identificou inadimpl&ecirc;ncia de 7,6% no cr&eacute;dito pr&oacute;prio &mdash; carn&ecirc;, fiado e parcelamento direto &mdash; que sustenta parte do caixa de neg&oacute;cios locais. Com 83,98 milh&otilde;es de inadimplentes, parte da renda chega comprometida com parcelas em aberto antes da decis&atilde;o de compra. (Fontes: Serasa &middot; Sebrae, setembro 2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "O QUE MUDA PARA QUEM TEM UM NEG&Oacute;CIO LOCAL",
+      "h1": "Em 12 meses, o varejo cresceu apenas <em>1,6%</em> &mdash; abaixo da infla&ccedil;&atilde;o de 4,9%. O com&eacute;rcio perdeu poder de compra em termos reais.",
+      "body": "No acumulado de 12 meses encerrados em julho de 2026, o varejo restrito cresceu 1,6% &mdash; abaixo da infla&ccedil;&atilde;o projetada de 4,9% para o ano (Focus/BCB). Em termos reais, o com&eacute;rcio perdeu poder de compra. O IBGE mede a queda em todo o Brasil: o movimento menor tem base concreta, mesmo com o emprego recorde. O ciclo de cortes da Selic est&aacute; em curso &mdash; a taxa caiu de 15,25% para 13,75% desde mar&ccedil;o de 2026. O cr&eacute;dito vai ficar mais barato; o atraso entre o corte na taxa b&aacute;sica e o parcelamento mais acess&iacute;vel na pr&aacute;tica costuma ser de um a dois trimestres. (Fontes: IBGE/PMC &middot; Banco Central/Focus, setembro 2026)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "COMO O NEG&Oacute;CIO LOCAL SE POSICIONA AGORA",
+      "h1": "No ciclo de cr&eacute;dito em ajuste, <em>o consumidor que ainda tem renda dispon&iacute;vel</em> &eacute; o cliente que vale mais capturar antes do concorrente.",
+      "body": "A Consultoria Metamorfose estrutura an&uacute;ncios para que o neg&oacute;cio local apare&ccedil;a para o consumidor que ainda tem renda dispon&iacute;vel &mdash; antes que o ciclo de inadimpl&ecirc;ncia corroa tamb&eacute;m esse espa&ccedil;o. Com or&ccedil;amento calibrado para o tamanho real do neg&oacute;cio, um an&uacute;ncio direcionado por perfil e localidade chega ao cliente certo no momento em que a decis&atilde;o de compra est&aacute; aberta, sem disputar prioridade de caixa com parcelas em atraso."
+    },
+    {
+      "layout": "cta",
+      "bridge": "Em 15 de setembro de 2026, o IBGE divulgou que as vendas do varejo restrito ca&iacute;ram 0,8% em julho &mdash; quatro vezes pior que a proje&ccedil;&atilde;o do mercado. M&oacute;veis e eletrodom&eacute;sticos recuaram 4,9%, a maior queda desde dezembro de 2023. No mesmo per&iacute;odo, a taxa de desemprego estava em 5,3% &mdash; o menor n&iacute;vel em 14 anos &mdash;, com 103,3 milh&otilde;es de brasileiros ocupados. A Serasa registrou 83,98 milh&otilde;es de inadimplentes em setembro. O Copom cortou a Selic para 13,75% em setembro, na quinta queda consecutiva desde mar&ccedil;o. Fontes: IBGE/PMC &middot; Serasa &middot; Copom/Banco Central (setembro 2026).",
+      "headline": "O EMPREGO<br>N&Atilde;O GARANTE<br>A VENDA:<br>103 MILH&Otilde;ES<br>TRABALHANDO,<br><em>VAREJO<br>CAINDO</em>",
+      "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados do mercado traduzidos em decis&atilde;o de venda para o dono de neg&oacute;cio local"
+    }
+  ],
+  "caption": "Em setembro de 2026, o IBGE divulgou que as vendas no varejo caíram 0,8% em julho — quatro vezes pior que a projeção dos economistas.\n\nO mercado de trabalho estava no melhor momento dos últimos 14 anos: 103,3 milhões de brasileiros ocupados, desemprego em 5,3%. Mesmo assim, o varejo caiu. Móveis e eletrodomésticos recuaram 4,9% — a pior queda desde dezembro de 2023.\n\nA Serasa registrou 83,98 milhões de inadimplentes em setembro de 2026. Parte da renda do cliente chegou comprometida com parcelas em aberto antes da decisão de compra.\n\nO Copom cortou a Selic para 13,75% em setembro — a quinta queda consecutiva desde março. Mas a transmissão para o parcelamento ao consumidor demora um a dois trimestres.\n\nO que isso muda para quem tem um negócio local: a queda nas vendas tem base concreta, medida em todo o Brasil. O ciclo vai virar — mas o crédito mais barato ainda não chegou à rua.\n\nFontes: IBGE/PMC · Serasa · Copom/Banco Central (setembro 2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#varejo #vendas2026 #trafegopago #marketingdigital #PME #negociolocal #empreendedorismo #juros #Selic #comercio"
+}

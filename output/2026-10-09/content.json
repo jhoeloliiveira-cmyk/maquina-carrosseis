@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-09",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "artificial intelligence small business",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "METAMORFOSE &middot; IA &middot; OUTUBRO 2026",
+    "date": "09/10/2026",
+    "headline": "O BRASIL<br>QUE NINGU&Eacute;M<br>VIU: O<br><em>LOJISTA</em><br>USA <em>IA</em><br>MAIS QUE O<br><em>AMERICANO</em>"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "PESQUISA SEBRAE + META &middot; TRANSFORMA&Ccedil;&Atilde;O DIGITAL &middot; 2026",
+      "h1": "O Sebrae mediu a ado&ccedil;&atilde;o de intelig&ecirc;ncia artificial entre donos de pequenos neg&oacute;cios no Brasil e nos Estados Unidos. No Brasil, 52% usaram IA nas duas semanas anteriores &agrave; pesquisa. Nos EUA, o n&uacute;mero equivalente foi 21%.",
+      "body": "Ferramentas gratuitas chegaram ao bolso do lojista antes dos sistemas das grandes empresas. O custo de experimentar chegou a zero. O lojista brasileiro n&atilde;o esperou por consultoria ou treinamento para testar. (Fonte: Sebrae + Meta Instituto de Pesquisa &middot; Transforma&ccedil;&atilde;o Digital nos Pequenos Neg&oacute;cios &middot; 2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "COMO A IA CHEGOU &Agrave; LOJA DE BAIRRO",
+      "h1": "A IA chegou primeiro ao celular do empreendedor. Ferramentas gratuitas &mdash; o ChatGPT para texto de an&uacute;ncio, o Canva para imagens, o WhatsApp Business com chatbot &mdash; chegaram ao microempreendedor antes de chegar &agrave;s redes de franquias e aos grandes varejistas.",
+      "body": "Quem j&aacute; anunciava no Meta ou no Google passou a ter acesso a funcionalidades de IA dentro das pr&oacute;prias plataformas &mdash; sem precisar contratar ningu&eacute;m. A porta de entrada ficou mais baixa enquanto o custo de testar chegou a zero."
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "O QUE OS N&Uacute;MEROS MOSTRAM &middot; INFINITEPAY &middot; MAR&Ccedil;O 2026",
+      "h1": "52,7% dos microempreendedores consideram a IA essencial para competir em 2026. As &aacute;reas com maior inten&ccedil;&atilde;o de uso s&atilde;o atendimento ao cliente (46,5%) e marketing e vendas (42,1%). (InfinitePay &middot; Pesquisa IA nos Pequenos Neg&oacute;cios &middot; mar&ccedil;o 2026)",
+      "body": "Mas 65,7% dos microempreendedores ainda n&atilde;o usaram nenhuma ferramenta de IA. O mercado est&aacute; dividido entre quem testou e n&atilde;o parou mais e quem sabe que precisa mas ainda n&atilde;o come&ccedil;ou."
+    },
+    {
+      "layout": "light",
+      "tag": "O QUE IMPEDE QUEM AINDA N&Atilde;O COME&Ccedil;OU",
+      "h1": "A principal barreira declarada para adotar IA &eacute; o pre&ccedil;o das ferramentas (34,3%) e a falta de conhecimento t&eacute;cnico (29,1%). A maioria dos empreendedores ainda n&atilde;o sabe que o Gerenciador de An&uacute;ncios da Meta, o Google Ads e o WhatsApp Business j&aacute; t&ecirc;m IA funcionando por baixo.",
+      "body": "O empreendedor que descobre isso passa a ter acesso &agrave; otimiza&ccedil;&atilde;o autom&aacute;tica de campanha e &agrave; sugest&atilde;o de texto baseada no hist&oacute;rico do neg&oacute;cio. A decis&atilde;o de come&ccedil;ar precede qualquer compra de ferramenta nova. (Fonte: InfinitePay &middot; Pesquisa IA nos Pequenos Neg&oacute;cios &middot; mar&ccedil;o 2026)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "IA NO AN&Uacute;NCIO: O QUE MUDA NO CAIXA DO LOJISTA",
+      "h1": "52% no Brasil. 21% nos EUA. A IA j&aacute; est&aacute; no an&uacute;ncio.",
+      "body": "A Consultoria Metamorfose usa intelig&ecirc;ncia artificial no processo de cria&ccedil;&atilde;o, segmenta&ccedil;&atilde;o e otimiza&ccedil;&atilde;o de campanhas de tr&aacute;fego pago &mdash; parte do m&eacute;todo que ajusta o an&uacute;ncio ao perfil do comprador real do neg&oacute;cio local. O resultado aparece no custo de cada cliente novo que chega at&eacute; a loja."
+    },
+    {
+      "layout": "cta",
+      "bridge": "52% dos pequenos neg&oacute;cios brasileiros usam IA &mdash; mais que o dobro da taxa americana de 21%. A diferen&ccedil;a entre quem usa e quem n&atilde;o usa aparece no custo de cada novo cliente. A IA j&aacute; est&aacute; nas plataformas de an&uacute;ncio. (Sebrae + Meta Instituto de Pesquisa &middot; 2026)",
+      "headline": "O BRASIL<br>QUE NINGU&Eacute;M<br>VIU: O<br><em>LOJISTA</em><br>USA <em>IA</em><br>MAIS QUE O<br><em>AMERICANO</em>",
+      "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados que mostram onde o an&uacute;ncio pode trabalhar melhor no neg&oacute;cio local"
+    }
+  ],
+  "caption": "O pequeno negócio brasileiro usa IA mais que o americano — e a maioria aqui ainda nem começou.\n\nO Sebrae mediu, com o Meta Instituto de Pesquisa, quantos donos de pequenos negócios usaram inteligência artificial nas duas semanas anteriores à pesquisa. No Brasil: 52%. Nos EUA: 21%. A diferença é de 2,5 vezes.\n\nA IA chegou primeiro ao celular do empreendedor: o ChatGPT para criar texto de anúncio, o WhatsApp Business com chatbot, o Gerenciador de Anúncios da Meta com otimização automática. Sem custo de entrada.\n\nAinda assim, 65,7% dos microempreendedores não usaram nenhuma ferramenta de IA (InfinitePay · março 2026). A janela de entrada barata está aberta. A diferença entre quem usa e quem não usa começa a aparecer no custo de cada novo cliente.\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio local.\n\nFontes: Sebrae + Meta Instituto de Pesquisa · Transformação Digital nos Pequenos Negócios 2026 | InfinitePay · Pesquisa IA nos Pequenos Negócios · março 2026\n\n#inteligenciaartificial #marketingdigital #trafegopago #PME #negociolocal #IA #consultoriametamorfose #anunciosonline #pequenaempresa #empreendedorismo"
+}

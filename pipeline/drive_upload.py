@@ -32,7 +32,7 @@ def mcp_call(method, arguments, req_id=1):
     req.add_header("X-MCP-Server-ID", MCP_SERVER_ID)
     req.add_header("Authorization", f"Bearer {token}")
 
-    import ssl, certifi
+    import ssl
     try:
         ctx = ssl.create_default_context(cafile=CA_BUNDLE)
     except Exception:

@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "selective consumer retail shopping choices",
+  "image_query": "business debt financial stress entrepreneur",
   "capa": {
     "image": "net-1.jpg",
     "type_label": "METAMORFOSE &middot; TR&Aacute;FEGO PAGO &middot; OUTUBRO 2026",
-    "date": "21/10/2026",
-    "headline": "O DINHEIRO<br>DO CLIENTE<br>N&Atilde;O SUMIU:<br>ELETRO<br><em>-4,2%</em><br>&mdash; IBGE<br>AGOSTO 2026"
+    "date": "22/10/2026",
+    "headline": "O RECORDE<br>QUE QUEBROU<br>O CAIXA:<br><em>9,3 MILH&Otilde;ES</em><br>INADIMPLENTES<br>&mdash; SERASA<br>OUT 2026"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "VAREJO &middot; IBGE/PMC &middot; AGOSTO 2026",
-      "h1": "O VAREJO BRASILEIRO CRESCEU <em>0,1%</em> EM AGOSTO &mdash; MENOS DE UM QUINTO DO QUE OS ECONOMISTAS PROJETAVAM. M&Oacute;VEIS E ELETRO CAIU <em>4,2%</em>.",
-      "body": "O IBGE divulgou em 15 de outubro de 2026 os dados da Pesquisa Mensal do Com&eacute;rcio de agosto: o volume de vendas no varejo cresceu 0,1% frente a julho, depois de queda de 0,8% no m&ecirc;s anterior. O resultado ficou bem abaixo dos 0,7% que analistas projetavam. O varejo ampliado &mdash; que inclui ve&iacute;culos e material de constru&ccedil;&atilde;o &mdash; recuou 0,2%. M&oacute;veis e eletrodom&eacute;sticos lideraram a queda com -4,2%. Ve&iacute;culos recuaram 1%. No acumulado do ano, o varejo avan&ccedil;a 1,7% &mdash; metade do ritmo registrado entre 2022 e 2024. (Fonte: IBGE/PMC, divulgado 15/10/2026; BPMoney, 15/10/2026)"
+      "tag": "INADIMPL&Ecirc;NCIA &middot; SERASA EXPERIAN &middot; OUTUBRO 2026",
+      "h1": "O BRASIL CHEGOU A <em>9,3 MILH&Otilde;ES</em> DE CNPJS INADIMPLENTES EM AGOSTO DE 2026 &mdash; O MAIOR N&Uacute;MERO J&Aacute; REGISTRADO PELA SERASA EXPERIAN. OITO EM CADA DEZ S&Atilde;O MICRO OU PEQUENOS NEG&Oacute;CIOS.",
+      "body": "A Serasa Experian divulgou em 21 de outubro de 2026 os dados de inadimpl&ecirc;ncia empresarial de agosto: 9,3 milh&otilde;es de CNPJs com d&iacute;vidas em aberto, um avan&ccedil;o de 14,3% frente ao mesmo m&ecirc;s de 2025. O montante negativado soma R$ 244,4 bilh&otilde;es em 68,2 milh&otilde;es de opera&ccedil;&otilde;es. Dos 9,3 milh&otilde;es de CNPJs, 8,8 milh&otilde;es s&atilde;o micro ou pequenos neg&oacute;cios &mdash; 94,6% do total. O n&uacute;mero representa o maior patamar hist&oacute;rico da s&eacute;rie da Serasa. (Fonte: Serasa Experian, divulgado 21/10/2026; CNN Brasil, 21/10/2026; Jornal do Com&eacute;rcio, 21/10/2026)"
     },
     {
       "layout": "light",
-      "tag": "POR QUE ACONTECE &middot; BANCO CENTRAL + ASA INVESTMENTS &middot; OUTUBRO 2026",
-      "h1": "SELIC EM <em>14,25%</em>: O CONSUMIDOR BRASILEIRO ADIOU AS COMPRAS QUE PRECISARIAM DE PARCELAMENTO &mdash; ELETRO, M&Oacute;VEIS E VE&Iacute;CULOS RECUARAM JUNTOS EM AGOSTO.",
-      "body": "Com a Selic em 14,25% ao ano, o financiamento de qualquer compra de ticket alto &mdash; geladeira, sof&aacute;, carro &mdash; encarece a ponto de o cliente adiar para ver se os juros caem. A ASA Investments projeta que o PIB do 3&ordm; trimestre de 2026 pode fechar negativo, em -0,2%. A demanda mais fraca se concentra exatamente nos segmentos dependentes de cr&eacute;dito: m&oacute;veis, eletro e ve&iacute;culos &mdash; os mesmos que o IBGE apontou como l&iacute;deres da queda em agosto. O cliente com dinheiro dispon&iacute;vel gastou; o que precisaria parcelar ficou esperando os juros recuarem. (Fontes: Banco Central, 2026; ASA Investments/BPMoney, 15/10/2026)"
+      "tag": "POR QUE ACONTECE &middot; BANCO CENTRAL + SERASA &middot; 2026",
+      "h1": "O CR&Eacute;DITO PARA EMPRESAS NO BRASIL CUSTAVA <em>25,2%</em> AO ANO EM MAIO DE 2026, SEGUNDO O BANCO CENTRAL. QUEM TOMOU CAPITAL DE GIRO PARA SOBREVIVER &Agrave;S VENDAS FRACAS CHEGOU A AGOSTO COM A D&Iacute;VIDA MAIOR DO QUE O FATURAMENTO.",
+      "body": "Com a Selic em 14,25% ao ano, a taxa m&eacute;dia de juros do cr&eacute;dito livre para empresas ficou em 25,2% ao ano em maio de 2026, conforme o Banco Central. Para uma pequena loja que toma R$ 50 mil para capital de giro, o custo dos juros em 12 meses chega a R$ 12.600 &mdash; sem contar outros encargos. A economista-chefe da Serasa apontou que o ambiente permanece &ldquo;especialmente restritivo para os neg&oacute;cios de menor porte&rdquo;: juros altos combinados com margens apertadas transformam o cr&eacute;dito de emerg&ecirc;ncia em d&iacute;vida cr&ocirc;nica. (Fontes: Banco Central, maio de 2026; Serasa Experian/CNN Brasil, 21/10/2026)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "SETOR QUE CRESCEU &middot; IBGE/PMC &middot; AGOSTO 2026",
-      "h1": "O IBGE SEPAROU O VAREJO DE AGOSTO EM DOIS GRUPOS: OS SETORES QUE DEPENDEM DE CR&Eacute;DITO (ELETRO <em>-4,2%</em>, VE&Iacute;CULOS <em>-1%</em>) E OS QUE N&Atilde;O DEPENDEM (INFORM&Aacute;TICA <em>+6,3%</em>).",
-      "body": "Equipamentos de inform&aacute;tica e comunica&ccedil;&atilde;o avan&ccedil;aram 6,3% em agosto &mdash; o segmento com maior alta no m&ecirc;s, segundo o IBGE. A diverg&ecirc;ncia n&atilde;o &eacute; casual: o consumidor corta o que pode adiar, mant&eacute;m o que usa no dia a dia ou v&ecirc; como ferramenta de trabalho ou renda. Celular, notebook e equipamentos de comunica&ccedil;&atilde;o n&atilde;o s&atilde;o percebidos como supérfluo &mdash; s&atilde;o percebidos como necessidade. A escolha do que cresce e do que cai est&aacute; no que o cliente classifica como indispens&aacute;vel. (Fonte: IBGE/PMC, divulgado 15/10/2026)"
+      "tag": "QUEM SENTE MAIS &middot; SERASA + INFOMONEY &middot; 2026",
+      "h1": "A INADIMPL&Ecirc;NCIA DAS MICRO E PEQUENAS EMPRESAS CHEGOU A <em>5,71%</em> DA CARTEIRA DE CR&Eacute;DITO &mdash; CONTRA <em>0,66%</em> DAS GRANDES COMPANHIAS. A MESMA D&Iacute;VIDA QUE UMA GRANDE EMPRESA DILUI NO FATURAMENTO ALTO, A PEQUENA CARREGA NO CAIXA.",
+      "body": "Um estudo publicado pelo InfoMoney com base em dados do Banco Central apurou que o &iacute;ndice de inadimpl&ecirc;ncia das micro, pequenas e m&eacute;dias empresas atingiu 5,71% da carteira de cr&eacute;dito em junho de 2026, contra apenas 0,66% das grandes companhias. A diferen&ccedil;a revela o desequil&iacute;brio estrutural: grandes empresas acessam linhas mais baratas, com prazos mais longos e garantias mais s&oacute;lidas. O pequeno neg&oacute;cio, sem rating de cr&eacute;dito robusto, paga mais caro e tem menos prazo para honrar a d&iacute;vida. (Fontes: InfoMoney/Banco Central, 2026; Serasa Experian, 21/10/2026)"
     },
     {
       "layout": "light",
-      "tag": "COMPORTAMENTO DO CONSUMIDOR &middot; IBGE + FORBES BRASIL &middot; OUTUBRO 2026",
-      "h1": "O CLIENTE QUE ADIOU A COMPRA DE ELETRO EM AGOSTO EST&Aacute; PESQUISANDO AGORA &mdash; E A LISTA DE LOJAS ONDE ELE VAI COMPRAR QUANDO OS JUROS CA&Iacute;REM J&Aacute; EST&Aacute; SENDO FORMADA.",
-      "body": "An&aacute;lise da Forbes Brasil de outubro de 2026 aponta que emprego e transfer&ecirc;ncias do governo ainda sustentam parte da demanda, mas o endividamento das fam&iacute;lias &eacute; o principal freio no consumo. O cliente que est&aacute; adiando a compra de eletro, m&oacute;veis ou ve&iacute;culos n&atilde;o desistiu &mdash; est&aacute; pesquisando, comparando e formando lista. A loja que aparece durante essa fase de pesquisa entra nessa lista; a que fica invis&iacute;vel n&atilde;o compete na hora em que o cliente finalmente decide comprar. (Fontes: IBGE/PMC, 15/10/2026; Forbes Brasil, outubro de 2026; Banco Central, 2026)"
+      "tag": "COMPORTAMENTO DO DEVEDOR &middot; SERASA + FORBES BRASIL &middot; 2026",
+      "h1": "O PME INADIMPLENTE N&Atilde;O FECHOU A LOJA &mdash; EST&Aacute; OPERANDO COM CAIXA NEGATIVO. E A PRIMEIRA COISA QUE SAI DA PLANILHA QUANDO O DINHEIRO APERTA &Eacute; O INVESTIMENTO EM DIVULGA&Ccedil;&Atilde;O.",
+      "body": "Dados da Forbes Brasil de agosto de 2026 apontam o cr&eacute;dito como o maior desafio para empreender no Brasil &mdash; citado pela maioria dos donos de pequenos neg&oacute;cios como principal obst&aacute;culo ao crescimento. Em momento de inadimpl&ecirc;ncia, o dono de PME tende a cortar qualquer gasto que n&atilde;o seja operacional imediato: energia, fornecedor, folha. O investimento em an&uacute;ncio costuma ser o primeiro a sair da planilha &mdash; exatamente quando o neg&oacute;cio mais precisaria de novos clientes para recuperar o faturamento e sair do vermelho. (Fontes: Forbes Brasil, agosto de 2026; Serasa Experian, 21/10/2026; Banco Central, 2026)"
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO NA FASE DE PESQUISA &middot; CONSULTORIA METAMORFOSE",
-      "h1": "QUANDO O CLIENTE EST&Aacute; SELETIVO, O AN&Uacute;NCIO BEM COLOCADO N&Atilde;O CONVENCE &mdash; <em>POSICIONA</em>.",
-      "body": "A Consultoria Metamorfose trabalha com campanhas de an&uacute;ncio calibradas para a fase em que o cliente est&aacute; pesquisando e comparando, n&atilde;o s&oacute; para a hora em que est&aacute; pronto para comprar. Em per&iacute;odo de juros altos e consumidor seletivo &mdash; como o que o IBGE mediu em agosto de 2026 &mdash; o an&uacute;ncio que aparece durante a pesquisa cria familiaridade. Quando o cliente finalmente comprar, a loja que ele j&aacute; viu v&aacute;rias vezes tem vantagem sobre a que aparece s&oacute; no momento da oferta."
+      "tag": "AN&Uacute;NCIO COMO LINHA DE SA&Iacute;DA &middot; CONSULTORIA METAMORFOSE",
+      "h1": "CORTAR O AN&Uacute;NCIO QUANDO O CAIXA APERTA &Eacute; A DECIS&Atilde;O QUE MAIS ATRASA A SA&Iacute;DA DO VERMELHO &mdash; PORQUE &Eacute; O AN&Uacute;NCIO QUE TRAZ O CLIENTE QUE RECUPERA O CAIXA.",
+      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios que precisam que cada real investido em an&uacute;ncio gere retorno mensur&aacute;vel &mdash; n&atilde;o impress&atilde;o, n&atilde;o alcance: venda ou contato qualificado. Em cen&aacute;rio de juros altos e cr&eacute;dito caro, como o que a Serasa mediu em agosto de 2026, o custo para trazer um cliente precisa ser calculado, n&atilde;o estimado. Uma campanha mal calibrada drena caixa. Uma campanha bem estruturada, com o p&uacute;blico certo e o an&uacute;ncio certo, &eacute; a linha mais curta entre o faturamento parado e a conta que fecha no positivo."
     },
     {
       "layout": "cta",
-      "bridge": "O IBGE registrou em agosto de 2026: varejo geral +0,1%, m&oacute;veis e eletrodom&eacute;sticos <strong>-4,2%</strong>, ve&iacute;culos -1%, inform&aacute;tica e comunica&ccedil;&atilde;o <strong>+6,3%</strong>. O varejo ampliado recuou 0,2%. A ASA Investments projeta PIB do 3&ordm; trimestre em -0,2%. Com Selic a 14,25%, o consumidor est&aacute; adiando as compras que precisam de cr&eacute;dito &mdash; e pesquisando de onde vai comprar quando os juros ca&iacute;rem. (Fontes: IBGE/PMC, 15/10/2026 &middot; BPMoney/ASA Investments, outubro de 2026 &middot; Forbes Brasil, outubro de 2026 &middot; Banco Central, 2026)",
-      "headline": "O DINHEIRO<br>DO CLIENTE<br>N&Atilde;O SUMIU:<br>ELETRO<br><em>-4,2%</em><br>&mdash; IBGE<br>AGOSTO 2026",
+      "bridge": "A Serasa Experian registrou em agosto de 2026 o maior n&uacute;mero de empresas inadimplentes da hist&oacute;ria: 9,3 milh&otilde;es de CNPJs, dos quais 8,8 milh&otilde;es s&atilde;o micro ou pequenos neg&oacute;cios. O avan&ccedil;o de 14,3% frente a 2025 reflete juros de 25,2% ao ano no cr&eacute;dito para empresas (Banco Central, maio de 2026). O &iacute;ndice de inadimpl&ecirc;ncia das MPMEs chegou a 5,71% da carteira &mdash; contra 0,66% das grandes. (Fontes: Serasa Experian, 21/10/2026 &middot; CNN Brasil, 21/10/2026 &middot; Jornal do Com&eacute;rcio, 21/10/2026 &middot; Forbes Brasil, agosto de 2026 &middot; InfoMoney/Banco Central, 2026)",
+      "headline": "O RECORDE<br>QUE QUEBROU<br>O CAIXA:<br><em>9,3 MILH&Otilde;ES</em><br>INADIMPLENTES<br>&mdash; SERASA<br>OUT 2026",
       "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
       "kword": "ME SEGUE",
       "kbenefit": "dados do mercado que afetam quem tem um neg&oacute;cio local e como anunciar melhor nesse cen&aacute;rio"
     }
   ],
-  "caption": "O cliente não parou de comprar. Ficou mais seletivo.\n\nO IBGE divulgou em 15 de outubro de 2026 os dados do varejo de agosto: alta geral de 0,1%, bem abaixo dos 0,7% projetados pelos analistas. Móveis e eletrodomésticos caíram 4,2%. Veículos recuaram 1%. O varejo ampliado fechou negativo em -0,2%.\n\nNo mesmo mês, equipamentos de informática e comunicação cresceram 6,3% — o segmento com maior alta do levantamento. A diferença está no que o cliente classifica como necessidade versus o que pode adiar.\n\nCom Selic em 14,25%, a ASA Investments projeta que o PIB do 3º trimestre de 2026 pode fechar negativo (-0,2%). O consumidor que adiou a compra de eletro não desistiu — está pesquisando onde vai comprar quando os juros caírem.\n\nA loja que apareceu durante essa fase de pesquisa entra na lista. A que ficou invisível não compete na decisão.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: IBGE/PMC (agosto 2026, divulgado 15/10/2026) | BPMoney/ASA Investments (outubro 2026) | Forbes Brasil (outubro 2026) | Banco Central (2026)\n\n#varejo #ibge #PME #negociolocal #trafegopago #anuncio #marketingdigital #consultoriametamorfose #pequenosnegocios #consumidorbrasileiro"
+  "caption": "9,3 milhões de empresas com dívida em aberto. O maior número já registrado pela Serasa.\n\nA Serasa Experian divulgou em 21 de outubro de 2026 os dados de inadimplência empresarial de agosto: 9,3 milhões de CNPJs negativados, alta de 14,3% frente ao mesmo mês de 2025. Dos 9,3 milhões, 8,8 milhões são micro ou pequenos negócios — 94,6% do total. As dívidas somam R$ 244,4 bilhões.\n\nCom o crédito para empresas custando 25,2% ao ano (Banco Central, maio de 2026), o capital de giro que salvou o mês virou a dívida que afoga o trimestre. O índice de inadimplência das MPMEs chegou a 5,71% da carteira — contra 0,66% das grandes.\n\nO problema não é só o juros. É que, com o caixa negativo, o dono de PME tende a cortar o investimento em divulgação — exatamente quando mais precisaria de novos clientes para sair do vermelho.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: Serasa Experian (21/10/2026) | CNN Brasil (21/10/2026) | Jornal do Comércio (21/10/2026) | Forbes Brasil (agosto de 2026) | InfoMoney/Banco Central (2026)\n\n#inadimplencia #PME #pequenosnegocios #negociolocal #trafegopago #anuncio #marketingdigital #consultoriametamorfose #creditoempresarial #selic"
 }

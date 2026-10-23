@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-23",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "local retail store shopping customers",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "METAMORFOSE &middot; TR&Aacute;FEGO PAGO &middot; OUTUBRO 2026",
+    "date": "23/10/2026",
+    "headline": "A PRIMEIRA<br>VEZ QUE O<br>F&Iacute;SICO BATEU<br>O DIGITAL:<br><em>+4,5%</em> VS <em>+3,1%</em><br>&mdash; CIELO<br>OUT 2026"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "VAREJO &middot; ICVA CIELO &middot; OUTUBRO 2026",
+      "h1": "PELA PRIMEIRA VEZ NA S&Eacute;RIE HIST&Oacute;RICA DO ICVA, AS LOJAS F&Iacute;SICAS CRESCERAM <em>4,5%</em> NO DIA DAS CRIAN&Ccedil;AS 2026 &mdash; ENQUANTO O E-COMMERCE FICOU EM <em>3,1%</em>. O CONSUMIDOR VOLTOU PARA A RUA.",
+      "body": "O &Iacute;ndice Cielo do Varejo Ampliado (ICVA) registrou, entre 6 e 12 de outubro de 2026, crescimento de 4,6% no faturamento nominal do varejo. O detalhe que chamou a aten&ccedil;&atilde;o do mercado foi no canal: as lojas f&iacute;sicas avan&ccedil;aram 4,5%, contra 3,1% do com&eacute;rcio eletr&ocirc;nico. &Eacute; a primeira vez, na s&eacute;rie hist&oacute;rica da Cielo para a data, que o varejo presencial supera o digital no Dia das Crian&ccedil;as. Carlos Alves, vice-presidente da Cielo, avaliou o resultado como um sinal de que o consumidor est&aacute; priorizando as experi&ecirc;ncias compartilhadas. (Fonte: ICVA Cielo, 19/10/2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "O QUE MUDOU &middot; ICVA CIELO &middot; OUTUBRO 2026",
+      "h1": "O SETOR DE PRESENTES CAIU <em>5,7%</em>. BRINQUEDOS, <em>-3,6%</em>. M&Oacute;VEIS E ELETROS, <em>-9,2%</em>. MAS BARES E RESTAURANTES SUBIRAM <em>15,5%</em>. O CLIENTE N&Atilde;O PAROU DE GASTAR &mdash; MUDOU O QUE COMPRA.",
+      "body": "Os dados do ICVA revelam uma transforma&ccedil;&atilde;o no perfil de consumo da data. O segmento de presentes encolheu 5,7%, com brinquedos em -3,6% e o setor de m&oacute;veis, eletrodom&eacute;sticos e departamentos em -9,2%. No mesmo per&iacute;odo, bares e restaurantes cresceram 15,5% e supermercados avan&ccedil;aram 6,4%. O vice-presidente da Cielo, Carlos Alves, avaliou o resultado como um sinal de que o consumidor est&aacute; priorizando as experi&ecirc;ncias compartilhadas em vez do presente embrulhado. (Fontes: ICVA Cielo, 19/10/2026; Correio Braziliense, 20/10/2026)"
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "PIX NO CAIXA &middot; GETNET &middot; OUTUBRO 2026",
+      "h1": "O PIX CRESCEU <em>32%</em> NO DIA DAS CRIAN&Ccedil;AS 2026 (GETNET). LOJAS DE VARIEDADES, <em>+22%</em>. ARTIGOS PESSOAIS, <em>+19%</em>. RESTAURANTES, <em>+16%</em>. O PAGAMENTO DIGITAL EST&Aacute; DENTRO DA LOJA &mdash; N&Atilde;O SUBSTITUINDO ELA.",
+      "body": "A Getnet monitorou as transa&ccedil;&otilde;es entre 6 e 12 de outubro de 2026 e registrou alta de 4% no valor total do varejo. O Pix foi o destaque, com 32% a mais em valor movimentado. Lojas de variedades subiram 22%, artigos pessoais e dom&eacute;sticos 19% e restaurantes 16%. O crescimento do Pix em lojas f&iacute;sicas mostra que a digitaliza&ccedil;&atilde;o do pagamento n&atilde;o deslocou o consumidor para o online &mdash; acelerou a compra presencial. (Fonte: Getnet, outubro de 2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "REGI&Otilde;ES &middot; ICVA CIELO &middot; OUTUBRO 2026",
+      "h1": "NORTE CRESCEU <em>8,3%</em> E NORDESTE, <em>6,9%</em> &mdash; AS MAIORES ALTAS REGIONAIS DO DIA DAS CRIAN&Ccedil;AS 2026. O CONSUMIDOR DO INTERIOR E DA PERIFERIA FOI &Agrave; LOJA LOCAL.",
+      "body": "A distribui&ccedil;&atilde;o regional dos dados do ICVA mostra que o crescimento n&atilde;o foi uniforme. O Norte liderou com 8,3% e o Nordeste veio logo atr&aacute;s com 6,9%, as duas regi&otilde;es onde o com&eacute;rcio local tem peso maior do que nos centros do Sudeste. O avan&ccedil;o das lojas f&iacute;sicas sobre o e-commerce em outubro de 2026 foi puxado, em parte, pelo consumidor que mora onde a entrega do e-commerce chega mais devagar &mdash; e que foi &agrave; loja de bairro pra comprar o presente no prazo. (Fonte: ICVA Cielo, 19/10/2026)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "AN&Uacute;NCIO LOCAL &middot; CONSULTORIA METAMORFOSE",
+      "h1": "O CONSUMIDOR VOLTOU &Agrave; RUA, MAS FOI PARA A LOJA QUE ELE J&Aacute; CONHECIA. QUEM TINHA AN&Uacute;NCIO RODANDO NAQUELA SEMANA FICOU NA MEM&Oacute;RIA &mdash; QUEM N&Atilde;O TINHA ESTAVA INVIS&Iacute;VEL.",
+      "body": "O crescimento de 4,5% das lojas f&iacute;sicas no Dia das Crian&ccedil;as 2026 n&atilde;o foi autom&aacute;tico: o cliente que voltou ao presencial foi para os neg&oacute;cios que j&aacute; ocupavam espa&ccedil;o na cabe&ccedil;a dele. A Consultoria Metamorfose trabalha com campanhas que colocam o neg&oacute;cio local na frente do cliente certo, no momento em que ele j&aacute; est&aacute; pronto para comprar &mdash; n&atilde;o para criar desejo do zero, mas para capturar o que j&aacute; existe. O dado da Cielo &eacute; o argumento mais recente de que o consumidor est&aacute; no mercado. A quest&atilde;o &eacute; quem ele v&ecirc;."
+    },
+    {
+      "layout": "cta",
+      "bridge": "O ICVA da Cielo registrou entre 6 e 12 de outubro de 2026 que as lojas f&iacute;sicas cresceram 4,5% no Dia das Crian&ccedil;as &mdash; contra 3,1% do e-commerce. Foi a primeira vez na s&eacute;rie hist&oacute;rica da Cielo que o presencial superou o digital na data. O setor de presentes caiu 5,7%, bares e restaurantes subiram 15,5%, e o Pix cresceu 32% em valor (Getnet). O Norte liderou com 8,3% e o Nordeste com 6,9%. (Fontes: ICVA Cielo, 19/10/2026 &middot; Correio Braziliense, 20/10/2026 &middot; Getnet, outubro de 2026)",
+      "headline": "A PRIMEIRA<br>VEZ QUE O<br>F&Iacute;SICO BATEU<br>O DIGITAL:<br><em>+4,5%</em> VS <em>+3,1%</em><br>&mdash; CIELO<br>OUT 2026",
+      "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados de comportamento do consumidor que afetam quem tem um neg&oacute;cio local e como capturar esse cliente com an&uacute;ncio"
+    }
+  ],
+  "caption": "Pela primeira vez, as lojas físicas cresceram mais que o e-commerce no Dia das Crianças.\n\nO ICVA da Cielo mediu as vendas entre 6 e 12 de outubro de 2026: lojas físicas +4,5%, e-commerce +3,1%. Primeira vez na série histórica da Cielo que o físico supera o digital na data. O faturamento total do varejo cresceu 4,6% nominal.\n\nMas o perfil de consumo mudou: o setor de presentes caiu 5,7%. Brinquedos recuaram 3,6%. Móveis e eletros, -9,2%. Bares e restaurantes subiram 15,5%. Pix cresceu 32% em valor (Getnet).\n\nO consumidor não parou de gastar — trocou o produto pela experiência. E foi à loja local comprar isso.\n\nPara o negócio local, o dado é uma oportunidade. O cliente estava no mercado naquela semana. Quem tinha anúncio rodando capturou esse movimento.\n\nMe segue para acompanhar os dados de comportamento do consumidor que afetam quem tem um negócio local.\n\nFontes: ICVA Cielo (19/10/2026) | Getnet (outubro de 2026) | Correio Braziliense (20/10/2026)\n\n#diadascrianças #varejo #negociolocal #lojasfisicas #trafegopago #anuncio #marketingdigital #consultoriametamorfose #PME #comportamentodoconsumidor"
+}

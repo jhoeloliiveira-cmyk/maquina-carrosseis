@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-25",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "children day retail shopping family experience",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "METAMORFOSE &middot; TR&Aacute;FEGO PAGO &middot; OUTUBRO 2026",
+    "date": "25/10/2026",
+    "headline": "A MORTE DO<br>PRESENTE<br>DE EMBRULHO:<br>BRINQUEDOS<br><em>-3,6%</em>, BARES<br><em>+15,5%</em><br>&mdash; CIELO 2026"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "DIA DAS CRIAN&Ccedil;AS 2026 &middot; ICVA CIELO &middot; OUTUBRO 2026",
+      "h1": "O FATURAMENTO DO VAREJO CRESCEU 4,2% NO DIA DAS CRIAN&Ccedil;AS. OS BRINQUEDOS CA&Iacute;RAM 3,6%. O DINHEIRO CIRCULOU &mdash; MAS <em>N&Atilde;O FOI PRO LUGAR QUE O LOJISTA ESPERAVA</em>.",
+      "body": "O &Iacute;ndice Cielo do Varejo Ampliado (ICVA) registrou crescimento de 4,2% no faturamento do varejo brasileiro na semana do Dia das Crian&ccedil;as de 2026, entre 6 e 12 de outubro. O n&uacute;mero agregado esconde o que aconteceu por dentro: os setores tradicionais de presente &mdash; brinquedos, livros e artigos infantis &mdash; recuaram 5,7% no per&iacute;odo, com as lojas de brinquedos espec&iacute;ficamente em queda de 3,6%. O consumidor manteve o gasto, mas redirecionou para outro tipo de compra. (Fonte: ICVA Cielo, outubro de 2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "ONDE O DINHEIRO FOI &middot; BARES E RESTAURANTES &middot; ICVA CIELO 2026",
+      "h1": "BARES E RESTAURANTES CRESCERAM 15,5% NA SEMANA DO DIA DAS CRIAN&Ccedil;AS ENQUANTO AS LOJAS DE PRESENTE ENCOLHIAM. O CONSUMIDOR TROCOU O PRODUTO <em>PELA EXPERI&Ecirc;NCIA</em>.",
+      "body": "A leitura do ICVA Cielo mostra uma virada no comportamento do consumidor nas datas comemorativas: em vez de comprar um brinquedo embrulhado, a fam&iacute;lia foi ao restaurante, ao parque, ao cinema. Bares e restaurantes registraram alta de 15,5% no per&iacute;odo &mdash; o maior crescimento entre todos os segmentos monitorados pela Cielo. Os dados da Abrasce para shoppings refor&ccedil;am a tend&ecirc;ncia: o p&uacute;blico voltou ao shopping, mas parte do gasto foi para a pra&ccedil;a de alimenta&ccedil;&atilde;o e o cinema, n&atilde;o para as lojas especializadas em presente. (Fontes: ICVA Cielo, outubro de 2026; Abrasce, outubro de 2026)"
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "F&Iacute;SICO X DIGITAL &middot; PMEs &middot; CIELO + OLIST 2026",
+      "h1": "AS LOJAS F&Iacute;SICAS BATERAM O E-COMMERCE NO DIA DAS CRIAN&Ccedil;AS PELA PRIMEIRA VEZ NA S&Eacute;RIE HIST&Oacute;RICA DA CIELO. O COMPRADOR FOI AT&Eacute; A LOJA &mdash; A QUEST&Atilde;O &Eacute; <em>QUAL LOJA</em>.",
+      "body": "A Cielo registrou, pela primeira vez em sua s&eacute;rie hist&oacute;rica, que o crescimento das lojas f&iacute;sicas superou o do e-commerce na semana do Dia das Crian&ccedil;as. Ao mesmo tempo, a Olist reportou que as PMEs movimentaram R$ 1,84 bilh&atilde;o no per&iacute;odo &mdash; R$ 116 milh&otilde;es a mais que em 2025 &mdash; com 7,34 milh&otilde;es de transa&ccedil;&otilde;es e alta de 6,78%. O volume cresceu. Mas o ticket m&eacute;dio caiu 8,79%, de R$ 176 para R$ 161,31 por pedido. Mais trabalho, mais vendas, menos margem por compra. (Fontes: ICVA Cielo, outubro de 2026; Olist, outubro de 2026)"
+    },
+    {
+      "layout": "light",
+      "tag": "MARKETPLACE &middot; COMISS&Atilde;O &middot; PMEs &middot; OLIST 2026",
+      "h1": "OS MARKETPLACES AVAN&Ccedil;ARAM QUASE 7 PONTOS PERCENTUAIS NAS VENDAS DAS PMEs NO DIA DAS CRIAN&Ccedil;AS. <em>MAIS VENDA, MAIS COMISS&Atilde;O</em> &mdash; A MARGEM N&Atilde;O CRESCE NO MESMO RITMO.",
+      "body": "A migra&ccedil;&atilde;o do consumidor para marketplaces &mdash; Mercado Livre, Shopee, Amazon &mdash; avan&ccedil;ou quase 7 pontos percentuais na participa&ccedil;&atilde;o das vendas das PMEs na semana do Dia das Crian&ccedil;as, segundo a Olist. A leitura para o pequeno comerciante: a venda aconteceu, mas dentro de uma plataforma que cobra entre 10% e 20% de comiss&atilde;o por pedido, al&eacute;m de disputar o espa&ccedil;o com centenas de outros vendedores do mesmo produto. O crescimento no volume n&atilde;o se traduz automaticamente em crescimento na margem quando o canal que cresce &eacute; o marketplace e o ticket j&aacute; est&aacute; em queda. (Fonte: Olist, outubro de 2026)"
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "AN&Uacute;NCIO E CANAL &middot; CONSULTORIA METAMORFOSE",
+      "h1": "O DINHEIRO CIRCULOU NO DIA DAS CRIAN&Ccedil;AS. FOI PRO RESTAURANTE, PRO MARKETPLACE, PRO EXPERI&Ecirc;NCIA. O NEG&Oacute;CIO QUE SOUBER <em>ONDE O CLIENTE DECIDIU GASTAR</em> CHEGA &Agrave; PR&Oacute;XIMA DATA NO LUGAR CERTO.",
+      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam entender onde a demanda realmente est&aacute; &mdash; n&atilde;o onde o lojista imagina que est&aacute;. O Dia das Crian&ccedil;as de 2026 mostrou que o dinheiro circulou, mas migrou de setor: de produto para experi&ecirc;ncia, de loja pr&oacute;pria para marketplace, de brinquedo para restaurante. Campanha bem direcionada come&ccedil;a por essa leitura: qual canal o cliente usou, qual categoria ele priorizou e onde o an&uacute;ncio precisa aparecer para capturar essa demanda antes da pr&oacute;xima data do calend&aacute;rio comercial &mdash; a Black Friday est&aacute; em 33 dias."
+    },
+    {
+      "layout": "cta",
+      "bridge": "O Dia das Crian&ccedil;as de 2026 movimentou R$ 1,84 bilh&atilde;o nas PMEs &mdash; R$ 116 milh&otilde;es a mais que 2025. O varejo cresceu 4,2%, mas os brinquedos ca&iacute;ram 3,6% enquanto bares e restaurantes avan&ccedil;aram 15,5% (ICVA Cielo). As lojas f&iacute;sicas bateram o e-commerce pela primeira vez na s&eacute;rie hist&oacute;rica da Cielo. O ticket m&eacute;dio das PMEs caiu 8,79%, para R$ 161,31, com 7,34 milh&otilde;es de transa&ccedil;&otilde;es. Os marketplaces ganharam quase 7 pontos percentuais de participa&ccedil;&atilde;o (Olist). O dinheiro circulou &mdash; mas foi para restaurantes, experi&ecirc;ncias e plataformas, n&atilde;o para as lojas de presente. (Fontes: ICVA Cielo &middot; Olist &middot; Abrasce, outubro de 2026)",
+      "headline": "A MORTE DO<br>PRESENTE<br>DE EMBRULHO:<br>BRINQUEDOS<br><em>-3,6%</em>, BARES<br><em>+15,5%</em><br>&mdash; CIELO 2026",
+      "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados do mercado que afetam o caixa de quem tem um neg&oacute;cio local e como anunciar melhor nesse cen&aacute;rio"
+    }
+  ],
+  "caption": "O varejo cresceu 4,2% no Dia das Crianças de 2026. Os brinquedos caíram 3,6%.\n\nBares e restaurantes subiram 15,5% na mesma semana. O consumidor gastou — só que em experiência, não em produto. (ICVA Cielo, outubro de 2026)\n\nAs PMEs movimentaram R$ 1,84 bilhão, com 7,34 milhões de transações (+6,78%). O ticket médio caiu 8,79%, para R$ 161,31. Mais pedidos, menos margem por pedido. (Olist, outubro de 2026)\n\nAs lojas físicas bateram o e-commerce pela primeira vez na série histórica da Cielo. E os marketplaces ganharam quase 7 pontos percentuais de participação nas vendas das PMEs.\n\nO dinheiro do Dia das Crianças circulou. Só foi pra outro lugar.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: ICVA Cielo (outubro de 2026) | Olist (outubro de 2026) | Abrasce (outubro de 2026)\n\n#diadascriancas2026 #diadascriancas #trafegopago #marketingdigital #varejo #pequenosnegocios #PME #negociolocal #consultoriametamorfose #metaads"
+}

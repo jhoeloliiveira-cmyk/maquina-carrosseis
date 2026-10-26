@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "children day retail shopping family experience",
+  "image_query": "consumer confidence shopping hesitation retail store",
   "capa": {
     "image": "net-1.jpg",
-    "type_label": "METAMORFOSE &middot; TR&Aacute;FEGO PAGO &middot; OUTUBRO 2026",
-    "date": "25/10/2026",
-    "headline": "A MORTE DO<br>PRESENTE<br>DE EMBRULHO:<br>BRINQUEDOS<br><em>-3,6%</em>, BARES<br><em>+15,5%</em><br>&mdash; CIELO 2026"
+    "type_label": "METAMORFOSE &middot; MARKETING &middot; OUTUBRO 2026",
+    "date": "26/10/2026",
+    "headline": "A QUEDA<br>SILENCIOSA<br>QUE CHEGOU<br>AO <em>BALC&Atilde;O</em>:<br>ICC FGV<br><em>83,5 PTS</em><br>&mdash; MENOR<br>DESDE 2022"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "DIA DAS CRIAN&Ccedil;AS 2026 &middot; ICVA CIELO &middot; OUTUBRO 2026",
-      "h1": "O FATURAMENTO DO VAREJO CRESCEU 4,2% NO DIA DAS CRIAN&Ccedil;AS. OS BRINQUEDOS CA&Iacute;RAM 3,6%. O DINHEIRO CIRCULOU &mdash; MAS <em>N&Atilde;O FOI PRO LUGAR QUE O LOJISTA ESPERAVA</em>.",
-      "body": "O &Iacute;ndice Cielo do Varejo Ampliado (ICVA) registrou crescimento de 4,2% no faturamento do varejo brasileiro na semana do Dia das Crian&ccedil;as de 2026, entre 6 e 12 de outubro. O n&uacute;mero agregado esconde o que aconteceu por dentro: os setores tradicionais de presente &mdash; brinquedos, livros e artigos infantis &mdash; recuaram 5,7% no per&iacute;odo, com as lojas de brinquedos espec&iacute;ficamente em queda de 3,6%. O consumidor manteve o gasto, mas redirecionou para outro tipo de compra. (Fonte: ICVA Cielo, outubro de 2026)"
+      "tag": "ICC FGV &middot; OUTUBRO 2026 &middot; DIVULGADO HOJE",
+      "h1": "O CONSUMIDOR BRASILEIRO BATEU O <em>PISO DE 4 ANOS</em>: 83,5 PONTOS DE CONFIAN&Ccedil;A EM OUTUBRO &mdash; MESMO PATAMAR DE NOVEMBRO DE 2022.",
+      "body": "O &Iacute;ndice de Confian&ccedil;a do Consumidor (ICC) do FGV registrou 83,5 pontos em outubro de 2026 &mdash; queda de 0,7 ponto sobre setembro (84,2). S&atilde;o seis meses seguidos de queda. O &uacute;ltimo patamar t&atilde;o baixo quanto esse foi novembro de 2022, quando o pa&iacute;s ainda processava os efeitos da pandemia e a taxa de juros estava em 13,75% ao ano. (Fonte: FGV IBRE, outubro de 2026)"
     },
     {
       "layout": "light",
-      "tag": "ONDE O DINHEIRO FOI &middot; BARES E RESTAURANTES &middot; ICVA CIELO 2026",
-      "h1": "BARES E RESTAURANTES CRESCERAM 15,5% NA SEMANA DO DIA DAS CRIAN&Ccedil;AS ENQUANTO AS LOJAS DE PRESENTE ENCOLHIAM. O CONSUMIDOR TROCOU O PRODUTO <em>PELA EXPERI&Ecirc;NCIA</em>.",
-      "body": "A leitura do ICVA Cielo mostra uma virada no comportamento do consumidor nas datas comemorativas: em vez de comprar um brinquedo embrulhado, a fam&iacute;lia foi ao restaurante, ao parque, ao cinema. Bares e restaurantes registraram alta de 15,5% no per&iacute;odo &mdash; o maior crescimento entre todos os segmentos monitorados pela Cielo. Os dados da Abrasce para shoppings refor&ccedil;am a tend&ecirc;ncia: o p&uacute;blico voltou ao shopping, mas parte do gasto foi para a pra&ccedil;a de alimenta&ccedil;&atilde;o e o cinema, n&atilde;o para as lojas especializadas em presente. (Fontes: ICVA Cielo, outubro de 2026; Abrasce, outubro de 2026)"
+      "tag": "EMPREGO X CONFIAN&Ccedil;A &middot; O PARADOXO &middot; IBGE + FGV 2026",
+      "h1": "O DESEMPREGO BRASILEIRO EST&Aacute; EM <em>5,3%</em> &mdash; A MENOR TAXA DA S&Eacute;RIE HIST&Oacute;RICA. NO MESMO M&Ecirc;S, A CONFIAN&Ccedil;A DO CONSUMIDOR CHEGOU AO PISO DE 4 ANOS.",
+      "body": "Quando a confian&ccedil;a cai mesmo com emprego alto, o mecanismo &eacute; psicol&oacute;gico: o consumidor tem dinheiro no bolso, mas percebe o ambiente econ&ocirc;mico como incerto e adia compras n&atilde;o urgentes. O PMI de Servi&ccedil;os ficou em 49,2 pontos em setembro de 2026, abaixo dos 50 que separam crescimento de contra&ccedil;&atilde;o. Para o com&eacute;rcio local, isso se traduz em cliente que entra, olha, pergunta o pre&ccedil;o e sai para pensar melhor. (Fontes: IBGE PNAD, agosto de 2026 &middot; S&amp;P Global PMI, setembro de 2026)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "F&Iacute;SICO X DIGITAL &middot; PMEs &middot; CIELO + OLIST 2026",
-      "h1": "AS LOJAS F&Iacute;SICAS BATERAM O E-COMMERCE NO DIA DAS CRIAN&Ccedil;AS PELA PRIMEIRA VEZ NA S&Eacute;RIE HIST&Oacute;RICA DA CIELO. O COMPRADOR FOI AT&Eacute; A LOJA &mdash; A QUEST&Atilde;O &Eacute; <em>QUAL LOJA</em>.",
-      "body": "A Cielo registrou, pela primeira vez em sua s&eacute;rie hist&oacute;rica, que o crescimento das lojas f&iacute;sicas superou o do e-commerce na semana do Dia das Crian&ccedil;as. Ao mesmo tempo, a Olist reportou que as PMEs movimentaram R$ 1,84 bilh&atilde;o no per&iacute;odo &mdash; R$ 116 milh&otilde;es a mais que em 2025 &mdash; com 7,34 milh&otilde;es de transa&ccedil;&otilde;es e alta de 6,78%. O volume cresceu. Mas o ticket m&eacute;dio caiu 8,79%, de R$ 176 para R$ 161,31 por pedido. Mais trabalho, mais vendas, menos margem por compra. (Fontes: ICVA Cielo, outubro de 2026; Olist, outubro de 2026)"
+      "tag": "A S&Eacute;RIE DE 2026 &middot; 6 MESES &middot; FGV IBRE",
+      "h1": "AGOSTO: <em>84,7 PTS</em>. SETEMBRO: <em>84,2 PTS</em>. OUTUBRO: <em>83,5 PTS</em>. SEIS MESES SEGUIDOS EM QUEDA. CADA M&Ecirc;S UM NOVO PISO.",
+      "body": "A descida do ICC em 2026 tem consist&ecirc;ncia: seis meses seguidos sem recupera&ccedil;&atilde;o. Agosto j&aacute; era o menor n&iacute;vel desde 2022 (84,7 pontos). Setembro caiu para 84,2. Outubro chegou a 83,5 &mdash; empatando com o piso de novembro de 2022. Numa s&eacute;rie com varia&ccedil;&atilde;o lenta, seis meses em baixa apontam uma tend&ecirc;ncia firme, n&atilde;o uma oscila&ccedil;&atilde;o pontual. (Fonte: FGV IBRE, s&eacute;rie hist&oacute;rica ICC 2022&ndash;2026)"
     },
     {
       "layout": "light",
-      "tag": "MARKETPLACE &middot; COMISS&Atilde;O &middot; PMEs &middot; OLIST 2026",
-      "h1": "OS MARKETPLACES AVAN&Ccedil;ARAM QUASE 7 PONTOS PERCENTUAIS NAS VENDAS DAS PMEs NO DIA DAS CRIAN&Ccedil;AS. <em>MAIS VENDA, MAIS COMISS&Atilde;O</em> &mdash; A MARGEM N&Atilde;O CRESCE NO MESMO RITMO.",
-      "body": "A migra&ccedil;&atilde;o do consumidor para marketplaces &mdash; Mercado Livre, Shopee, Amazon &mdash; avan&ccedil;ou quase 7 pontos percentuais na participa&ccedil;&atilde;o das vendas das PMEs na semana do Dia das Crian&ccedil;as, segundo a Olist. A leitura para o pequeno comerciante: a venda aconteceu, mas dentro de uma plataforma que cobra entre 10% e 20% de comiss&atilde;o por pedido, al&eacute;m de disputar o espa&ccedil;o com centenas de outros vendedores do mesmo produto. O crescimento no volume n&atilde;o se traduz automaticamente em crescimento na margem quando o canal que cresce &eacute; o marketplace e o ticket j&aacute; est&aacute; em queda. (Fonte: Olist, outubro de 2026)"
+      "tag": "O QUE ACONTECE NO BALC&Atilde;O &middot; PME &middot; CONFIAN&Ccedil;A BAIXA",
+      "h1": "A CONFIAN&Ccedil;A BAIXA N&Atilde;O ELIMINA A VENDA &mdash; ELA EXIGE <em>UMA RAZ&Atilde;O CONCRETA PARA FECHAR</em>. O LOJISTA QUE D&Aacute; ESSE ARGUMENTO CAPTURA A VENDA QUE O CONCORRENTE N&Atilde;O D&Aacute;.",
+      "body": "Num cen&aacute;rio de alta confian&ccedil;a, o consumidor compra por impulso, conveni&ecirc;ncia ou h&aacute;bito. Com o ICC em 83,5 pontos, a decis&atilde;o passa por uma etapa a mais: o cliente precisa se convencer de que a compra faz sentido agora. Para o com&eacute;rcio local, isso significa que qualidade, entrega, atendimento e pre&ccedil;o relativo precisam ser comunicados de forma ativa &mdash; n&atilde;o apenas estar dispon&iacute;veis. O cliente que pesquisa e sai &eacute; o cliente que n&atilde;o recebeu uma raz&atilde;o boa o suficiente para ficar. (An&aacute;lise: FGV IBRE ICC outubro de 2026)"
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO E CANAL &middot; CONSULTORIA METAMORFOSE",
-      "h1": "O DINHEIRO CIRCULOU NO DIA DAS CRIAN&Ccedil;AS. FOI PRO RESTAURANTE, PRO MARKETPLACE, PRO EXPERI&Ecirc;NCIA. O NEG&Oacute;CIO QUE SOUBER <em>ONDE O CLIENTE DECIDIU GASTAR</em> CHEGA &Agrave; PR&Oacute;XIMA DATA NO LUGAR CERTO.",
-      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam entender onde a demanda realmente est&aacute; &mdash; n&atilde;o onde o lojista imagina que est&aacute;. O Dia das Crian&ccedil;as de 2026 mostrou que o dinheiro circulou, mas migrou de setor: de produto para experi&ecirc;ncia, de loja pr&oacute;pria para marketplace, de brinquedo para restaurante. Campanha bem direcionada come&ccedil;a por essa leitura: qual canal o cliente usou, qual categoria ele priorizou e onde o an&uacute;ncio precisa aparecer para capturar essa demanda antes da pr&oacute;xima data do calend&aacute;rio comercial &mdash; a Black Friday est&aacute; em 33 dias."
+      "tag": "AN&Uacute;NCIO &middot; ARGUMENTO &middot; CONSULTORIA METAMORFOSE",
+      "h1": "A DEMANDA EXISTE. O CONSUMIDOR HESITANTE TEM RENDA, TEM EMPREGO, TEM <em>INTEN&Ccedil;&Atilde;O DE COMPRA</em> &mdash; E FALTA O ARGUMENTO PARA FECHAR.",
+      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam converter em momentos em que o consumidor est&aacute; mais cauteloso. A queda do ICC para 83,5 pontos em outubro de 2026 n&atilde;o significa que o mercado sumiu &mdash; significa que o cliente exige mais para fechar. A diferen&ccedil;a entre o neg&oacute;cio que cresce e o que estagna est&aacute; em saber qual canal o cliente usa para decidir, qual mensagem o faz parar a rolagem e qual oferta converte a pesquisa em venda."
     },
     {
       "layout": "cta",
-      "bridge": "O Dia das Crian&ccedil;as de 2026 movimentou R$ 1,84 bilh&atilde;o nas PMEs &mdash; R$ 116 milh&otilde;es a mais que 2025. O varejo cresceu 4,2%, mas os brinquedos ca&iacute;ram 3,6% enquanto bares e restaurantes avan&ccedil;aram 15,5% (ICVA Cielo). As lojas f&iacute;sicas bateram o e-commerce pela primeira vez na s&eacute;rie hist&oacute;rica da Cielo. O ticket m&eacute;dio das PMEs caiu 8,79%, para R$ 161,31, com 7,34 milh&otilde;es de transa&ccedil;&otilde;es. Os marketplaces ganharam quase 7 pontos percentuais de participa&ccedil;&atilde;o (Olist). O dinheiro circulou &mdash; mas foi para restaurantes, experi&ecirc;ncias e plataformas, n&atilde;o para as lojas de presente. (Fontes: ICVA Cielo &middot; Olist &middot; Abrasce, outubro de 2026)",
-      "headline": "A MORTE DO<br>PRESENTE<br>DE EMBRULHO:<br>BRINQUEDOS<br><em>-3,6%</em>, BARES<br><em>+15,5%</em><br>&mdash; CIELO 2026",
+      "bridge": "O &Iacute;ndice de Confian&ccedil;a do Consumidor (FGV) atingiu 83,5 pontos em outubro de 2026 &mdash; queda de 0,7 ponto, sexto m&ecirc;s seguido em baixa, o n&iacute;vel mais baixo desde novembro de 2022. O desemprego est&aacute; em 5,3%, a menor taxa da s&eacute;rie hist&oacute;rica. O PMI de Servi&ccedil;os ficou em 49,2 pontos em setembro &mdash; abaixo de 50, zona de contra&ccedil;&atilde;o. O consumidor tem renda, mas hesita. Para quem vende no com&eacute;rcio local, isso aparece como cliente que compara mais, fecha menos e exige um argumento melhor. (Fontes: FGV IBRE &middot; IBGE PNAD &middot; S&amp;P Global, setembro/outubro de 2026)",
+      "headline": "A QUEDA<br>SILENCIOSA<br>QUE CHEGOU<br>AO <em>BALC&Atilde;O</em>:<br>ICC FGV<br><em>83,5 PTS</em><br>&mdash; MENOR<br>DESDE 2022",
       "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
       "kword": "ME SEGUE",
       "kbenefit": "dados do mercado que afetam o caixa de quem tem um neg&oacute;cio local e como anunciar melhor nesse cen&aacute;rio"
     }
   ],
-  "caption": "O varejo cresceu 4,2% no Dia das Crianças de 2026. Os brinquedos caíram 3,6%.\n\nBares e restaurantes subiram 15,5% na mesma semana. O consumidor gastou — só que em experiência, não em produto. (ICVA Cielo, outubro de 2026)\n\nAs PMEs movimentaram R$ 1,84 bilhão, com 7,34 milhões de transações (+6,78%). O ticket médio caiu 8,79%, para R$ 161,31. Mais pedidos, menos margem por pedido. (Olist, outubro de 2026)\n\nAs lojas físicas bateram o e-commerce pela primeira vez na série histórica da Cielo. E os marketplaces ganharam quase 7 pontos percentuais de participação nas vendas das PMEs.\n\nO dinheiro do Dia das Crianças circulou. Só foi pra outro lugar.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: ICVA Cielo (outubro de 2026) | Olist (outubro de 2026) | Abrasce (outubro de 2026)\n\n#diadascriancas2026 #diadascriancas #trafegopago #marketingdigital #varejo #pequenosnegocios #PME #negociolocal #consultoriametamorfose #metaads"
+  "caption": "O FGV divulgou hoje (26/10) o Índice de Confiança do Consumidor de outubro de 2026: 83,5 pontos. Queda pelo 6º mês consecutivo. O menor nível desde novembro de 2022.\n\nO desemprego está em 5,3% — a menor taxa da série histórica. A renda não sumiu. O emprego não sumiu. O que caiu foi a disposição de gastar.\n\nO PMI de Serviços ficou em 49,2 pontos em setembro de 2026 — abaixo dos 50 que separam crescimento de contração.\n\nPara quem tem um negócio local, isso aparece como cliente que entra, pesquisa, pergunta o preço e sai para pensar melhor. A confiança baixa não elimina a venda — ela exige uma razão concreta para fechar.\n\nO negócio que comunica valor de forma clara nesse ambiente captura a demanda que o concorrente perdeu.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: FGV IBRE (outubro de 2026) | IBGE PNAD (agosto de 2026) | S&P Global PMI (setembro de 2026)\n\n#confiancadoconsumidor #icc #fgv #marketingdigital #trafegopago #negociolocal #PME #varejo #pequenosnegocios #consultoriametamorfose"
 }

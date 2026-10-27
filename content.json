@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "consumer confidence shopping hesitation retail store",
+  "image_query": "small business credit loan bank Brazil",
   "capa": {
     "image": "net-1.jpg",
     "type_label": "METAMORFOSE &middot; MARKETING &middot; OUTUBRO 2026",
-    "date": "26/10/2026",
-    "headline": "A QUEDA<br>SILENCIOSA<br>QUE CHEGOU<br>AO <em>BALC&Atilde;O</em>:<br>ICC FGV<br><em>83,5 PTS</em><br>&mdash; MENOR<br>DESDE 2022"
+    "date": "27/10/2026",
+    "headline": "A CONTA<br>DA ELEI&Ccedil;&Atilde;O:<br>JUROS FUTUROS<br><em>EM 16%</em><br>&mdash; O CR&Eacute;DITO<br>DO COM&Eacute;RCIO<br><em>VAI ENCARECER</em>"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "ICC FGV &middot; OUTUBRO 2026 &middot; DIVULGADO HOJE",
-      "h1": "O CONSUMIDOR BRASILEIRO BATEU O <em>PISO DE 4 ANOS</em>: 83,5 PONTOS DE CONFIAN&Ccedil;A EM OUTUBRO &mdash; MESMO PATAMAR DE NOVEMBRO DE 2022.",
-      "body": "O &Iacute;ndice de Confian&ccedil;a do Consumidor (ICC) do FGV registrou 83,5 pontos em outubro de 2026 &mdash; queda de 0,7 ponto sobre setembro (84,2). S&atilde;o seis meses seguidos de queda. O &uacute;ltimo patamar t&atilde;o baixo quanto esse foi novembro de 2022, quando o pa&iacute;s ainda processava os efeitos da pandemia e a taxa de juros estava em 13,75% ao ano. (Fonte: FGV IBRE, outubro de 2026)"
+      "tag": "PREG&Atilde;O 26/10 &middot; REELEI&Ccedil;&Atilde;O LULA &middot; B3",
+      "h1": "MAGALU <em>-58%</em>, ASS&Aacute;I <em>-43%</em>, RENNER <em>-34%</em>: O IBOVESPA FECHOU A <em>-14%</em> NO PRIMEIRO PREG&Atilde;O AP&Oacute;S A REELEI&Ccedil;&Atilde;O &mdash; E OS JUROS FUTUROS ULTRAPASSARAM 16%.",
+      "body": "No primeiro preg&atilde;o ap&oacute;s a reelei&ccedil;&atilde;o de Lula com 51,79% dos votos v&aacute;lidos, a B3 registrou uma das maiores quedas do setor de varejo em anos. A Magazine Luiza (MGLU3) fechou com queda de 58,23%. A Assa&iacute; (ASAI3) caiu 42,97%. As Lojas Renner (LREN3) recuaram 33,61%. O Ibovespa encerrou em 176.608 pontos, com queda de 14% na sess&atilde;o. O gatilho foi a alta dos juros futuros: contratos de vencimento mais longo ultrapassaram 16% ao ano. (Fontes: InfoMoney, BPMoney &mdash; 26/10/2026)"
     },
     {
       "layout": "light",
-      "tag": "EMPREGO X CONFIAN&Ccedil;A &middot; O PARADOXO &middot; IBGE + FGV 2026",
-      "h1": "O DESEMPREGO BRASILEIRO EST&Aacute; EM <em>5,3%</em> &mdash; A MENOR TAXA DA S&Eacute;RIE HIST&Oacute;RICA. NO MESMO M&Ecirc;S, A CONFIAN&Ccedil;A DO CONSUMIDOR CHEGOU AO PISO DE 4 ANOS.",
-      "body": "Quando a confian&ccedil;a cai mesmo com emprego alto, o mecanismo &eacute; psicol&oacute;gico: o consumidor tem dinheiro no bolso, mas percebe o ambiente econ&ocirc;mico como incerto e adia compras n&atilde;o urgentes. O PMI de Servi&ccedil;os ficou em 49,2 pontos em setembro de 2026, abaixo dos 50 que separam crescimento de contra&ccedil;&atilde;o. Para o com&eacute;rcio local, isso se traduz em cliente que entra, olha, pergunta o pre&ccedil;o e sai para pensar melhor. (Fontes: IBGE PNAD, agosto de 2026 &middot; S&amp;P Global PMI, setembro de 2026)"
+      "tag": "JUROS FUTUROS &middot; SELIC 13,75% &middot; O QUE SIGNIFICA",
+      "h1": "A SELIC EST&Aacute; EM 13,75% AO ANO. JUROS FUTUROS EM 16% DIZEM QUE O MERCADO ESPERA QUE O DINHEIRO FIQUE <em>CARO POR MAIS TEMPO</em>.",
+      "body": "Juros futuros s&atilde;o os contratos que bancos e investidores usam para se proteger das taxas que v&ecirc;m pela frente. Quando sobem para 16%, o sistema financeiro come&ccedil;a a cobrar mais pelo cr&eacute;dito que libera a partir de agora: empr&eacute;stimo para capital de giro, financiamento de estoque, limite do cart&atilde;o empresarial. O efeito chega ao com&eacute;rcio local com defasagem de semanas a meses &mdash; no momento da renova&ccedil;&atilde;o do cr&eacute;dito ou de uma nova opera&ccedil;&atilde;o de financiamento."
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "A S&Eacute;RIE DE 2026 &middot; 6 MESES &middot; FGV IBRE",
-      "h1": "AGOSTO: <em>84,7 PTS</em>. SETEMBRO: <em>84,2 PTS</em>. OUTUBRO: <em>83,5 PTS</em>. SEIS MESES SEGUIDOS EM QUEDA. CADA M&Ecirc;S UM NOVO PISO.",
-      "body": "A descida do ICC em 2026 tem consist&ecirc;ncia: seis meses seguidos sem recupera&ccedil;&atilde;o. Agosto j&aacute; era o menor n&iacute;vel desde 2022 (84,7 pontos). Setembro caiu para 84,2. Outubro chegou a 83,5 &mdash; empatando com o piso de novembro de 2022. Numa s&eacute;rie com varia&ccedil;&atilde;o lenta, seis meses em baixa apontam uma tend&ecirc;ncia firme, n&atilde;o uma oscila&ccedil;&atilde;o pontual. (Fonte: FGV IBRE, s&eacute;rie hist&oacute;rica ICC 2022&ndash;2026)"
+      "tag": "FAM&Iacute;LIAS ENDIVIDADAS &middot; CNC/PEIC &middot; SETEMBRO 2026",
+      "h1": "<em>81,7%</em> DAS FAM&Iacute;LIAS BRASILEIRAS J&Aacute; T&Ecirc;M D&Iacute;VIDAS. <em>29,5%</em> DA RENDA MENSAL EST&Aacute; COMPROMETIDA COM PAGAMENTOS.",
+      "body": "A pesquisa Peic da CNC registrou 81,7% das fam&iacute;lias brasileiras endividadas em setembro de 2026 &mdash; e 29,5% da renda mensal j&aacute; comprometida com pagamentos de d&iacute;vidas. Com juros futuros em alta, o consumidor que pensa em parcelar mais vai recalcular: o rotativo do cart&atilde;o, o carn&ecirc; da loja, o cr&eacute;dito direto ao consumidor para eletrodom&eacute;stico ficam mais caros. A compra que j&aacute; era adiada por falta de confian&ccedil;a (ICC em 83,5 pontos em outubro de 2026) acumula mais um motivo para esperar. (Fonte: CNC/Peic, setembro de 2026)"
     },
     {
       "layout": "light",
-      "tag": "O QUE ACONTECE NO BALC&Atilde;O &middot; PME &middot; CONFIAN&Ccedil;A BAIXA",
-      "h1": "A CONFIAN&Ccedil;A BAIXA N&Atilde;O ELIMINA A VENDA &mdash; ELA EXIGE <em>UMA RAZ&Atilde;O CONCRETA PARA FECHAR</em>. O LOJISTA QUE D&Aacute; ESSE ARGUMENTO CAPTURA A VENDA QUE O CONCORRENTE N&Atilde;O D&Aacute;.",
-      "body": "Num cen&aacute;rio de alta confian&ccedil;a, o consumidor compra por impulso, conveni&ecirc;ncia ou h&aacute;bito. Com o ICC em 83,5 pontos, a decis&atilde;o passa por uma etapa a mais: o cliente precisa se convencer de que a compra faz sentido agora. Para o com&eacute;rcio local, isso significa que qualidade, entrega, atendimento e pre&ccedil;o relativo precisam ser comunicados de forma ativa &mdash; n&atilde;o apenas estar dispon&iacute;veis. O cliente que pesquisa e sai &eacute; o cliente que n&atilde;o recebeu uma raz&atilde;o boa o suficiente para ficar. (An&aacute;lise: FGV IBRE ICC outubro de 2026)"
+      "tag": "CAPITAL DE GIRO &middot; PARCELAMENTO &middot; PME",
+      "h1": "CAPITAL DE GIRO MAIS CARO, CLIENTE MAIS RELUTANTE NO PARCELAMENTO: A <em>DUPLA PRESS&Atilde;O</em> QUE O COM&Eacute;RCIO LOCAL SENTE PRIMEIRO.",
+      "body": "Para o com&eacute;rcio local, a alta dos juros futuros se traduz em dois movimentos simult&acirc;neos: o cr&eacute;dito para financiar o estoque fica mais caro no momento da renova&ccedil;&atilde;o, e o cliente que comprava parcelado come&ccedil;a a hesitar. O empreendedor que renova capital de giro vai encontrar taxas mais altas nas pr&oacute;ximas opera&ccedil;&otilde;es &mdash; num cen&aacute;rio em que a Selic j&aacute; est&aacute; em 13,75% ao ano e o mercado sinaliza que os juros ficam altos por mais tempo. A margem que j&aacute; estava apertada tem mais uma press&atilde;o de cima."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO &middot; ARGUMENTO &middot; CONSULTORIA METAMORFOSE",
-      "h1": "A DEMANDA EXISTE. O CONSUMIDOR HESITANTE TEM RENDA, TEM EMPREGO, TEM <em>INTEN&Ccedil;&Atilde;O DE COMPRA</em> &mdash; E FALTA O ARGUMENTO PARA FECHAR.",
-      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam converter em momentos em que o consumidor est&aacute; mais cauteloso. A queda do ICC para 83,5 pontos em outubro de 2026 n&atilde;o significa que o mercado sumiu &mdash; significa que o cliente exige mais para fechar. A diferen&ccedil;a entre o neg&oacute;cio que cresce e o que estagna est&aacute; em saber qual canal o cliente usa para decidir, qual mensagem o faz parar a rolagem e qual oferta converte a pesquisa em venda."
+      "tag": "AN&Uacute;NCIO &middot; CONVERS&Atilde;O &middot; CONSULTORIA METAMORFOSE",
+      "h1": "A DEMANDA N&Atilde;O SOME COM JUROS ALTOS &mdash; ELA FICA <em>MAIS SELETIVA</em>. O NEG&Oacute;CIO QUE COMUNICA VALOR CLARO CAPTURA A VENDA QUE O CONCORRENTE PERDEU.",
+      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam converter em momentos em que o cliente est&aacute; mais criterioso. Com juros futuros acima de 16% e fam&iacute;lias j&aacute; com 29,5% da renda comprometida, o consumidor n&atilde;o para de comprar &mdash; mas compra com mais crit&eacute;rio. A diferen&ccedil;a entre o neg&oacute;cio que cresce e o que estagna est&aacute; em saber qual canal o cliente usa para decidir, qual mensagem o faz parar a rolagem e qual oferta converte a pesquisa em venda."
     },
     {
       "layout": "cta",
-      "bridge": "O &Iacute;ndice de Confian&ccedil;a do Consumidor (FGV) atingiu 83,5 pontos em outubro de 2026 &mdash; queda de 0,7 ponto, sexto m&ecirc;s seguido em baixa, o n&iacute;vel mais baixo desde novembro de 2022. O desemprego est&aacute; em 5,3%, a menor taxa da s&eacute;rie hist&oacute;rica. O PMI de Servi&ccedil;os ficou em 49,2 pontos em setembro &mdash; abaixo de 50, zona de contra&ccedil;&atilde;o. O consumidor tem renda, mas hesita. Para quem vende no com&eacute;rcio local, isso aparece como cliente que compara mais, fecha menos e exige um argumento melhor. (Fontes: FGV IBRE &middot; IBGE PNAD &middot; S&amp;P Global, setembro/outubro de 2026)",
-      "headline": "A QUEDA<br>SILENCIOSA<br>QUE CHEGOU<br>AO <em>BALC&Atilde;O</em>:<br>ICC FGV<br><em>83,5 PTS</em><br>&mdash; MENOR<br>DESDE 2022",
+      "bridge": "No preg&atilde;o de 26/10/2026 &mdash; primeiro ap&oacute;s a reelei&ccedil;&atilde;o de Lula com 51,79% dos votos v&aacute;lidos &mdash; a Magazine Luiza caiu 58,23%, o Ibovespa encerrou em queda de 14% e os juros futuros ultrapassaram 16% ao ano. A Selic est&aacute; em 13,75%, mas o mercado sinaliza que o dinheiro vai ficar caro por mais tempo. Para quem tem um neg&oacute;cio local, isso significa cr&eacute;dito mais caro na pr&oacute;xima renova&ccedil;&atilde;o e cliente mais relutante no parcelamento &mdash; num cen&aacute;rio em que 81,7% das fam&iacute;lias j&aacute; est&atilde;o endividadas e 29,5% da renda mensal j&aacute; vai para pagamento de d&iacute;vidas. (Fontes: InfoMoney &middot; BPMoney &middot; CNC/Peic &mdash; outubro de 2026)",
+      "headline": "A CONTA<br>DA ELEI&Ccedil;&Atilde;O:<br>JUROS FUTUROS<br><em>EM 16%</em><br>&mdash; O CR&Eacute;DITO<br>DO COM&Eacute;RCIO<br><em>VAI ENCARECER</em>",
       "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
       "kword": "ME SEGUE",
       "kbenefit": "dados do mercado que afetam o caixa de quem tem um neg&oacute;cio local e como anunciar melhor nesse cen&aacute;rio"
     }
   ],
-  "caption": "O FGV divulgou hoje (26/10) o Índice de Confiança do Consumidor de outubro de 2026: 83,5 pontos. Queda pelo 6º mês consecutivo. O menor nível desde novembro de 2022.\n\nO desemprego está em 5,3% — a menor taxa da série histórica. A renda não sumiu. O emprego não sumiu. O que caiu foi a disposição de gastar.\n\nO PMI de Serviços ficou em 49,2 pontos em setembro de 2026 — abaixo dos 50 que separam crescimento de contração.\n\nPara quem tem um negócio local, isso aparece como cliente que entra, pesquisa, pergunta o preço e sai para pensar melhor. A confiança baixa não elimina a venda — ela exige uma razão concreta para fechar.\n\nO negócio que comunica valor de forma clara nesse ambiente captura a demanda que o concorrente perdeu.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: FGV IBRE (outubro de 2026) | IBGE PNAD (agosto de 2026) | S&P Global PMI (setembro de 2026)\n\n#confiancadoconsumidor #icc #fgv #marketingdigital #trafegopago #negociolocal #PME #varejo #pequenosnegocios #consultoriametamorfose"
+  "caption": "No pregão de ontem (26/10), primeiro após a reeleição de Lula com 51,79% dos votos, a Bolsa afundou 14%. Magazine Luiza caiu 58%. Assaí, -43%. Renner, -34%.\n\nO gatilho foi a alta dos juros futuros acima de 16% ao ano.\n\nA Selic está em 13,75%. Mas o mercado está apostando que o dinheiro vai ficar caro por mais tempo.\n\nPara quem tem um negócio local, isso se traduz em dois movimentos:\n— Capital de giro mais caro na próxima renovação\n— Cliente mais relutante no parcelamento\n\nIsso num cenário em que 81,7% das famílias brasileiras já estão endividadas e 29,5% da renda mensal já vai para pagamento de dívidas (CNC/Peic, setembro de 2026).\n\nA demanda não some com juros altos. Ela fica mais seletiva. O negócio que comunica valor claro nesse ambiente captura a venda que o concorrente perdeu.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: InfoMoney | BPMoney | CNC/Peic (outubro de 2026)\n\n#trafegopago #marketingdigital #negociolocal #PME #varejo #juros #capitaldegiroe #economiabrasileira #bolsadevalores #consultoriametamorfose"
 }

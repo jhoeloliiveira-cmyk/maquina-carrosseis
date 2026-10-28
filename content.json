@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "small business credit loan bank Brazil",
+  "image_query": "grocery store consumer shopping basket",
   "capa": {
     "image": "net-1.jpg",
     "type_label": "METAMORFOSE &middot; MARKETING &middot; OUTUBRO 2026",
-    "date": "27/10/2026",
-    "headline": "A CONTA<br>DA ELEI&Ccedil;&Atilde;O:<br>JUROS FUTUROS<br><em>EM 16%</em><br>&mdash; O CR&Eacute;DITO<br>DO COM&Eacute;RCIO<br><em>VAI ENCARECER</em>"
+    "date": "28/10/2026",
+    "headline": "O CONSUMIDOR<br>N&Atilde;O ESTAVA<br>SEM DINHEIRO:<br><em>ESTAVA<br>PERDENDO<br>NAS APOSTAS</em>"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "PREG&Atilde;O 26/10 &middot; REELEI&Ccedil;&Atilde;O LULA &middot; B3",
-      "h1": "MAGALU <em>-58%</em>, ASS&Aacute;I <em>-43%</em>, RENNER <em>-34%</em>: O IBOVESPA FECHOU A <em>-14%</em> NO PRIMEIRO PREG&Atilde;O AP&Oacute;S A REELEI&Ccedil;&Atilde;O &mdash; E OS JUROS FUTUROS ULTRAPASSARAM 16%.",
-      "body": "No primeiro preg&atilde;o ap&oacute;s a reelei&ccedil;&atilde;o de Lula com 51,79% dos votos v&aacute;lidos, a B3 registrou uma das maiores quedas do setor de varejo em anos. A Magazine Luiza (MGLU3) fechou com queda de 58,23%. A Assa&iacute; (ASAI3) caiu 42,97%. As Lojas Renner (LREN3) recuaram 33,61%. O Ibovespa encerrou em 176.608 pontos, com queda de 14% na sess&atilde;o. O gatilho foi a alta dos juros futuros: contratos de vencimento mais longo ultrapassaram 16% ao ano. (Fontes: InfoMoney, BPMoney &mdash; 26/10/2026)"
+      "tag": "ABRAS &middot; SEMANA 05&ndash;11/10/2026 &middot; P&Oacute;S-BAN",
+      "h1": "NA PRIMEIRA SEMANA AP&Oacute;S A PROIBI&Ccedil;&Atilde;O DAS APOSTAS ONLINE, OS SUPERMERCADOS BRASILEIROS CRESCERAM <em>6,5%</em> EM RELA&Ccedil;&Atilde;O A 2025.",
+      "body": "A Medida Provis&oacute;ria 1.394/2026, publicada em 25 de setembro, proibiu as apostas de quota fixa online. Os aplicativos deixaram de funcionar em 6 de outubro. Na semana de 5 a 11 de outubro, a Abras &mdash; Associa&ccedil;&atilde;o Brasileira de Supermercados &mdash; registrou alta de 6,5% nas vendas do setor em rela&ccedil;&atilde;o ao mesmo per&iacute;odo de 2025. O Sul e a regi&atilde;o de Minas Gerais, Esp&iacute;rito Santo e interior do Rio lideraram: alta de 10,6% em cada regi&atilde;o. (Fonte: Abras, 27/10/2026)"
     },
     {
       "layout": "light",
-      "tag": "JUROS FUTUROS &middot; SELIC 13,75% &middot; O QUE SIGNIFICA",
-      "h1": "A SELIC EST&Aacute; EM 13,75% AO ANO. JUROS FUTUROS EM 16% DIZEM QUE O MERCADO ESPERA QUE O DINHEIRO FIQUE <em>CARO POR MAIS TEMPO</em>.",
-      "body": "Juros futuros s&atilde;o os contratos que bancos e investidores usam para se proteger das taxas que v&ecirc;m pela frente. Quando sobem para 16%, o sistema financeiro come&ccedil;a a cobrar mais pelo cr&eacute;dito que libera a partir de agora: empr&eacute;stimo para capital de giro, financiamento de estoque, limite do cart&atilde;o empresarial. O efeito chega ao com&eacute;rcio local com defasagem de semanas a meses &mdash; no momento da renova&ccedil;&atilde;o do cr&eacute;dito ou de uma nova opera&ccedil;&atilde;o de financiamento."
+      "tag": "PIX &middot; BANCO CENTRAL &middot; REDIRECIONA&Ccedil;&Atilde;O DE RENDA",
+      "h1": "AS TRANSA&Ccedil;&Otilde;ES VIA PIX CA&Iacute;RAM <em>10%</em> LOGO AP&Oacute;S O BAN. O BANCO CENTRAL J&Aacute; REGISTRA QUEDA <em>CONSOLIDADA DE 7%</em> NO VOLUME.",
+      "body": "As apostas eram movimentadas principalmente via Pix. Com o ban, o volume de transa&ccedil;&otilde;es ca&iacute;u 10% imediatamente, estabilizando em redu&ccedil;&atilde;o consolidada de 7%, conforme dados do Banco Central compilados pela Abras. Uma parcela do dinheiro que ia direto para os aplicativos de apostas ficou na conta do consumidor &mdash; e parte foi para o varejo alimentar. O dado dos supermercados &eacute; o primeiro term&ocirc;metro de onde esse dinheiro foi parar. (Fonte: Abras, Banco Central &mdash; outubro de 2026)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "FAM&Iacute;LIAS ENDIVIDADAS &middot; CNC/PEIC &middot; SETEMBRO 2026",
-      "h1": "<em>81,7%</em> DAS FAM&Iacute;LIAS BRASILEIRAS J&Aacute; T&Ecirc;M D&Iacute;VIDAS. <em>29,5%</em> DA RENDA MENSAL EST&Aacute; COMPROMETIDA COM PAGAMENTOS.",
-      "body": "A pesquisa Peic da CNC registrou 81,7% das fam&iacute;lias brasileiras endividadas em setembro de 2026 &mdash; e 29,5% da renda mensal j&aacute; comprometida com pagamentos de d&iacute;vidas. Com juros futuros em alta, o consumidor que pensa em parcelar mais vai recalcular: o rotativo do cart&atilde;o, o carn&ecirc; da loja, o cr&eacute;dito direto ao consumidor para eletrodom&eacute;stico ficam mais caros. A compra que j&aacute; era adiada por falta de confian&ccedil;a (ICC em 83,5 pontos em outubro de 2026) acumula mais um motivo para esperar. (Fonte: CNC/Peic, setembro de 2026)"
+      "tag": "ITENS B&Aacute;SICOS &middot; ABRAS &middot; CESTA DO CONSUMIDOR",
+      "h1": "ARROZ, &Oacute;LEO, MACARRO&Atilde;O E CAF&Eacute;: OS PRODUTOS QUE MAIS CRESCERAM NA SEMANA DA PROIBI&Ccedil;&Atilde;O.",
+      "body": "O crescimento se concentrou nos itens de primeira necessidade. A tend&ecirc;ncia se manteve na semana seguinte: entre 12 e 18 de outubro, o varejo alimentar cresceu mais 6,3% em rela&ccedil;&atilde;o ao mesmo per&iacute;odo de 2025. Duas semanas consecutivas de alta logo ap&oacute;s o ban afastam a leitura de coincid&ecirc;ncia sazonal. Para a Abras, o padr&atilde;o indica redireciona&ccedil;&atilde;o de renda do consumidor que antes destinava parte do or&ccedil;amento para apostas. (Fonte: Abras, 27/10/2026)"
     },
     {
       "layout": "light",
-      "tag": "CAPITAL DE GIRO &middot; PARCELAMENTO &middot; PME",
-      "h1": "CAPITAL DE GIRO MAIS CARO, CLIENTE MAIS RELUTANTE NO PARCELAMENTO: A <em>DUPLA PRESS&Atilde;O</em> QUE O COM&Eacute;RCIO LOCAL SENTE PRIMEIRO.",
-      "body": "Para o com&eacute;rcio local, a alta dos juros futuros se traduz em dois movimentos simult&acirc;neos: o cr&eacute;dito para financiar o estoque fica mais caro no momento da renova&ccedil;&atilde;o, e o cliente que comprava parcelado come&ccedil;a a hesitar. O empreendedor que renova capital de giro vai encontrar taxas mais altas nas pr&oacute;ximas opera&ccedil;&otilde;es &mdash; num cen&aacute;rio em que a Selic j&aacute; est&aacute; em 13,75% ao ano e o mercado sinaliza que os juros ficam altos por mais tempo. A margem que j&aacute; estava apertada tem mais uma press&atilde;o de cima."
+      "tag": "COM&Eacute;RCIO LOCAL &middot; COMPORTAMENTO DO CONSUMIDOR &middot; DIAGN&Oacute;STICO",
+      "h1": "ABRAS IDENTIFICOU O PADR&Atilde;O: O CONSUMIDOR <em>TINHA RENDA</em> &mdash; UMA FATIA DELA IA PARA APOSTAS E AGORA VOLTOU AO VAREJO.",
+      "body": "O diagn&oacute;stico mais comum do varejo local nos &uacute;ltimos anos foi: o cliente sumiu porque a renda caiu. Os dados de outubro de 2026 apontam outro mecanismo: parte da renda do consumidor estava sendo direcionada para apostas. Com a proibi&ccedil;&atilde;o, esse dinheiro voltou ao consumo. Os supermercados foram os primeiros a capturar &mdash; est&atilde;o no caminho di&aacute;rio do cliente, com oferta imediata. O com&eacute;rcio local que comunicar valor com clareza nos pr&oacute;ximos meses pode capturar o segundo movimento dessa migra&ccedil;&atilde;o de renda."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO &middot; CONVERS&Atilde;O &middot; CONSULTORIA METAMORFOSE",
-      "h1": "A DEMANDA N&Atilde;O SOME COM JUROS ALTOS &mdash; ELA FICA <em>MAIS SELETIVA</em>. O NEG&Oacute;CIO QUE COMUNICA VALOR CLARO CAPTURA A VENDA QUE O CONCORRENTE PERDEU.",
-      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam converter em momentos em que o cliente est&aacute; mais criterioso. Com juros futuros acima de 16% e fam&iacute;lias j&aacute; com 29,5% da renda comprometida, o consumidor n&atilde;o para de comprar &mdash; mas compra com mais crit&eacute;rio. A diferen&ccedil;a entre o neg&oacute;cio que cresce e o que estagna est&aacute; em saber qual canal o cliente usa para decidir, qual mensagem o faz parar a rolagem e qual oferta converte a pesquisa em venda."
+      "tag": "AN&Uacute;NCIO &middot; POSICIONAMENTO &middot; CONSULTORIA METAMORFOSE",
+      "h1": "A JANELA EST&Aacute; ABERTA: <em>O CLIENTE COM MAIS RENDA LIVRE</em> EST&Aacute; DECIDINDO ONDE GASTAR.",
+      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais que precisam converter em momentos de realoca&ccedil;&atilde;o de renda do consumidor. Com bilh&otilde;es de reais que iam para apostas agora em circula&ccedil;&atilde;o no varejo, o cliente est&aacute; mais dispon&iacute;vel &mdash; mas ainda &eacute; seletivo. A diferen&ccedil;a entre o neg&oacute;cio que captura esse movimento e o que fica esperando est&aacute; em ter presen&ccedil;a no canal certo, mensagem que faz o consumidor parar e oferta que converte a pesquisa em venda."
     },
     {
       "layout": "cta",
-      "bridge": "No preg&atilde;o de 26/10/2026 &mdash; primeiro ap&oacute;s a reelei&ccedil;&atilde;o de Lula com 51,79% dos votos v&aacute;lidos &mdash; a Magazine Luiza caiu 58,23%, o Ibovespa encerrou em queda de 14% e os juros futuros ultrapassaram 16% ao ano. A Selic est&aacute; em 13,75%, mas o mercado sinaliza que o dinheiro vai ficar caro por mais tempo. Para quem tem um neg&oacute;cio local, isso significa cr&eacute;dito mais caro na pr&oacute;xima renova&ccedil;&atilde;o e cliente mais relutante no parcelamento &mdash; num cen&aacute;rio em que 81,7% das fam&iacute;lias j&aacute; est&atilde;o endividadas e 29,5% da renda mensal j&aacute; vai para pagamento de d&iacute;vidas. (Fontes: InfoMoney &middot; BPMoney &middot; CNC/Peic &mdash; outubro de 2026)",
-      "headline": "A CONTA<br>DA ELEI&Ccedil;&Atilde;O:<br>JUROS FUTUROS<br><em>EM 16%</em><br>&mdash; O CR&Eacute;DITO<br>DO COM&Eacute;RCIO<br><em>VAI ENCARECER</em>",
-      "kinstr": "Para n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "bridge": "Na semana de 5 a 11 de outubro &mdash; primeira ap&oacute;s a proibi&ccedil;&atilde;o das apostas online (MP 1.394/2026) &mdash; os supermercados brasileiros cresceram 6,5% em rela&ccedil;&atilde;o a 2025. O Sul e Minas Gerais registraram alta de 10,6%. Na semana seguinte, mais 6,3%. As transa&ccedil;&otilde;es via Pix ca&iacute;ram 10% imediatamente ap&oacute;s o ban, e os produtos que cresceram foram os essenciais: arroz, &oacute;leo, macarro&atilde;o e caf&eacute;. O consumidor que apostava tinha renda &mdash; e agora parte dela voltou ao consumo. (Fonte: Abras &middot; Banco Central &mdash; outubro de 2026)",
+      "headline": "O CONSUMIDOR<br>N&Atilde;O ESTAVA<br>SEM DINHEIRO:<br><em>ESTAVA<br>PERDENDO<br>NAS APOSTAS</em>",
+      "kinstr": "Para acompanhar os dados que afetam o caixa de quem tem um neg&oacute;cio local:",
       "kword": "ME SEGUE",
-      "kbenefit": "dados do mercado que afetam o caixa de quem tem um neg&oacute;cio local e como anunciar melhor nesse cen&aacute;rio"
+      "kbenefit": "an&aacute;lises de mercado para neg&oacute;cios locais e como anunciar melhor para capturar o consumidor certo"
     }
   ],
-  "caption": "No pregão de ontem (26/10), primeiro após a reeleição de Lula com 51,79% dos votos, a Bolsa afundou 14%. Magazine Luiza caiu 58%. Assaí, -43%. Renner, -34%.\n\nO gatilho foi a alta dos juros futuros acima de 16% ao ano.\n\nA Selic está em 13,75%. Mas o mercado está apostando que o dinheiro vai ficar caro por mais tempo.\n\nPara quem tem um negócio local, isso se traduz em dois movimentos:\n— Capital de giro mais caro na próxima renovação\n— Cliente mais relutante no parcelamento\n\nIsso num cenário em que 81,7% das famílias brasileiras já estão endividadas e 29,5% da renda mensal já vai para pagamento de dívidas (CNC/Peic, setembro de 2026).\n\nA demanda não some com juros altos. Ela fica mais seletiva. O negócio que comunica valor claro nesse ambiente captura a venda que o concorrente perdeu.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: InfoMoney | BPMoney | CNC/Peic (outubro de 2026)\n\n#trafegopago #marketingdigital #negociolocal #PME #varejo #juros #capitaldegiroe #economiabrasileira #bolsadevalores #consultoriametamorfose"
+  "caption": "Na semana de 5 a 11 de outubro, os supermercados brasileiros cresceram 6,5% em relação a 2025. Era a primeira semana após a proibição das bets.\n\nSul e Minas Gerais lideraram: +10,6%. Na semana seguinte: mais 6,3%.\n\nA Abras identificou o padrão: o consumidor que apostava tinha renda. Uma fatia dela ia para os apps. Com a MP 1.394/2026, essa fatia voltou ao varejo.\n\nAs transações via Pix caíram 10% depois do ban — e o que cresceu nos supermercados foi a cesta básica: arroz, óleo, macarrão, café.\n\nO consumidor não sumiu. O dinheiro estava com outro endereço.\n\nPara o comércio local, isso é uma janela. O cliente está mais disponível para comprar — mas ainda está decidindo onde gastar. Quem comunicar valor com clareza nesse momento captura a venda.\n\nMe segue para acompanhar os dados do mercado que afetam o caixa de quem tem um negócio local.\n\nFontes: Abras | Banco Central | Mercado e Consumo (27/10/2026)\n\n#trafegopago #marketingdigital #negociolocal #PME #varejo #bets #apostas #consumidorbrasileiro #supermercados #consultoriametamorfose"
 }

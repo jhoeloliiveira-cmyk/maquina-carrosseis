@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "black friday shopping retail consumer sale",
+  "image_query": "whatsapp business mobile phone",
   "capa": {
     "image": "net-1.jpg",
     "type_label": "METAMORFOSE &middot; MARKETING &middot; OUTUBRO 2026",
-    "date": "30/10/2026",
-    "headline": "A JANELA QUE<br>FECHA EM OUTUBRO:<br><em>50%</em> J&Aacute; ESCOLHEU<br>ONDE VAI COMPRAR<br>NA BLACK FRIDAY"
+    "date": "31/10/2026",
+    "headline": "A MORTE DO<br>SITE DE PME:<br><em>82%</em> DOS MEIs<br>J&Aacute; VENDEM<br>PELO WHATSAPP"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "LWSA &middot; PESQUISA &middot; OUTUBRO 2026 &middot; 1.044 ENTREVISTAS",
-      "h1": "METADE DOS BRASILEIROS J&Aacute; EST&Aacute; PESQUISANDO O QUE V&Atilde;O COMPRAR NA BLACK FRIDAY. <em>AINDA &Eacute; OUTUBRO.</em>",
-      "body": "Uma pesquisa da LWSA com 1.044 consumidores, divulgada em outubro de 2026, mostrou que 50% dos brasileiros come&ccedil;am a pesquisar ofertas da Black Friday com mais de um m&ecirc;s de anteced&ecirc;ncia. Cinquenta e quatro por cento planejam distribuir as compras ao longo de novembro, n&atilde;o apenas no dia 27. A decis&atilde;o de onde comprar est&aacute; sendo tomada agora. (Fonte: LWSA, outubro de 2026)"
+      "tag": "SEBRAE &middot; PULSO 2026 &middot; 12&ordf; EDI&Ccedil;&Atilde;O &middot; MEIs E MICROEMPRESAS",
+      "h1": "82% DOS MEIs E MICROEMPRESAS DO BRASIL USAM O WHATSAPP PARA VENDER. <em>UM EM CADA CINCO</em> AINDA N&Atilde;O FOI PRO DIGITAL.",
+      "body": "O Sebrae mapeou, na 12&ordf; edi&ccedil;&atilde;o do Pulso dos Pequenos Neg&oacute;cios (2026), o comportamento digital de MEIs e microempresas brasileiras. Oitenta e dois por cento usam o WhatsApp para vender. O aplicativo de mensagem passou a ser o principal meio de venda de boa parte do pequeno neg&oacute;cio do pa&iacute;s, sem que fosse preciso curso de e-commerce, plataforma cara ou contrato com marketplace. (Fonte: Sebrae, Pulso 2026)"
     },
     {
       "layout": "light",
-      "tag": "COMPORTAMENTO DO CONSUMIDOR &middot; BLACK FRIDAY 2026 &middot; MUDAN&Ccedil;A DE PADR&Atilde;O",
-      "h1": "54% DOS CONSUMIDORES V&Atilde;O COMPRAR <em>AO LONGO DE NOVEMBRO</em> &mdash; N&Atilde;O S&Oacute; NO DIA DA BLACK FRIDAY.",
-      "body": "O comportamento do consumidor brasileiro mudou nas &uacute;ltimas edi&ccedil;&otilde;es da Black Friday. O que era uma corrida concentrada em um &uacute;nico dia virou um per&iacute;odo de decis&atilde;o que come&ccedil;a em outubro. O consumidor pesquisa o produto, acompanha o pre&ccedil;o, escolhe o lugar. Quando novembro chega, a decis&atilde;o muitas vezes j&aacute; est&aacute; tomada. A janela para influenciar essa escolha &eacute; agora. (Fonte: LWSA, outubro de 2026)"
+      "tag": "OPINION BOX &middot; 1.000 BRASILEIROS &middot; JUN-JUL 2026 &middot; COMPRA PELO APP",
+      "h1": "7 EM CADA 10 BRASILEIROS J&Aacute; COMPRARAM <em>ALGUMA COISA</em> PELO WHATSAPP.",
+      "body": "A Opinion Box pesquisou 1.000 brasileiros entre junho e julho de 2026. Setenta por cento j&aacute; fecharam uma compra dentro do aplicativo &mdash; produto ou servi&ccedil;o. O consumidor n&atilde;o precisou de site, de checkout ou de carrinho. Mandou mensagem, combinou pre&ccedil;o, fechou a venda. A compra aconteceu onde j&aacute; estava a conversa. (Fonte: Opinion Box, jun-jul/2026)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "DADOS &middot; BUSINESS MOMENT/OFFERWISE &middot; 2.000 ENTREVISTAS &middot; 2026",
-      "h1": "<em>62%</em> PRETENDEM COMPRAR NA BLACK FRIDAY. MAS <em>75%</em> DESCONFIAM DAS PROMO&Ccedil;&Otilde;ES.",
-      "body": "Uma pesquisa da Business Moment com a Offerwise (2.000 entrevistas) mapeou a contradi&ccedil;&atilde;o da Black Friday brasileira: 62% dos consumidores pretendem comprar, mas 75% acham que as ofertas s&atilde;o enganosas. Quarenta e um por cento planejam gastar mais do que em 2025, s&oacute; que 51% t&ecirc;m mais da metade da renda mensal comprometida com d&iacute;vidas ou contas fixas. O consumidor quer comprar e tem medo de ser enganado ao mesmo tempo. (Fonte: Business Moment/Offerwise, outubro de 2026)"
+      "tag": "CNDL &middot; SPC BRASIL &middot; 562 EMPRESAS &middot; CANAL DE VENDA PRINCIPAL",
+      "h1": "67% DAS PEQUENAS EMPRESAS APONTAM O WHATSAPP COMO <em>PRINCIPAL CANAL DE VENDA</em>. O SITE APARECE COM 12%.",
+      "body": "A CNDL e o SPC Brasil ouviram 562 pequenos neg&oacute;cios sobre o canal que mais gera venda. O WhatsApp ficou na frente com 67%. O site pr&oacute;prio apareceu em quinto lugar: 12%. O dado refor&ccedil;a o que a pr&aacute;tica j&aacute; mostrava &mdash; o cliente do pequeno neg&oacute;cio prefere falar com a empresa antes de comprar, e esse contato est&aacute; no WhatsApp. (Fonte: CNDL/SPC Brasil, 2026)"
     },
     {
       "layout": "light",
-      "tag": "COM&Eacute;RCIO LOCAL &middot; TIMING &middot; BLACK FRIDAY 2026",
-      "h1": "O GRANDE VAREJISTA ENTRA EM NOVEMBRO COM DESCONTO DE 60%. <em>O PEQUENO NEG&Oacute;CIO TEM OUTUBRO PARA CHEGAR PRIMEIRO.</em>",
-      "body": "Em outubro, o consumidor ainda est&aacute; escolhendo onde vai comprar &mdash; e o crit&eacute;rio nessa fase vai al&eacute;m do pre&ccedil;o: confian&ccedil;a, proximidade, atendimento, produto certo. O grande varejista entra com desconto de 40% a 60% em novembro. O pequeno neg&oacute;cio raramente tem essa margem. Mas quando o consumidor chega em novembro j&aacute; tendo decidido o lugar, a disputa de pre&ccedil;o chega tarde demais."
+      "tag": "CONTRADI&Ccedil;&Atilde;O &middot; CANAL DE VENDA VS. OR&Ccedil;AMENTO DE AN&Uacute;NCIO",
+      "h1": "A MAIORIA DOS PEQUENOS NEG&Oacute;CIOS J&Aacute; VENDE PELO WHATSAPP. <em>MAS O OR&Ccedil;AMENTO DE AN&Uacute;NCIO AINDA N&Atilde;O CHEGOU L&Aacute;.</em>",
+      "body": "O WhatsApp concentra a maior parte das vendas dos pequenos neg&oacute;cios brasileiros, segundo dados do Sebrae e da CNDL. S&oacute; que o or&ccedil;amento de an&uacute;ncio ainda vai, na maior parte das vezes, para o feed do Instagram ou para o Google &mdash; sem alcan&ccedil;ar o canal onde a decis&atilde;o de compra j&aacute; acontece. O consumidor pesquisa no Google, v&ecirc; no Instagram, fecha no WhatsApp. Quem n&atilde;o fecha esse circuito perde o cliente nos &uacute;ltimos metros da venda."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO &middot; TIMING &middot; CONSULTORIA METAMORFOSE",
-      "h1": "O AN&Uacute;NCIO QUE <em>GANHA A BLACK FRIDAY</em> COME&Ccedil;A A RODAR EM OUTUBRO.",
-      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais na constru&ccedil;&atilde;o do plano de m&iacute;dia para a Black Friday. Com a janela de decis&atilde;o do consumidor aberta em outubro, o an&uacute;ncio bem calibrado alcan&ccedil;a o comprador programado antes de novembro come&ccedil;ar &mdash; quando o leil&atilde;o de desconto dos grandes ainda n&atilde;o tomou a tela. Marketing bem feito nessa data mapeia canal, p&uacute;blico, mensagem e timing, n&atilde;o s&oacute; or&ccedil;amento."
+      "tag": "AN&Uacute;NCIO &middot; CIRCUITO DE VENDA &middot; CONSULTORIA METAMORFOSE",
+      "h1": "O AN&Uacute;NCIO QUE <em>FECHA NO WHATSAPP</em> PRECISA DE UMA ESTRAT&Eacute;GIA DIFERENTE.",
+      "body": "A Consultoria Metamorfose trabalha com pequenos neg&oacute;cios na constru&ccedil;&atilde;o do circuito completo de venda &mdash; do an&uacute;ncio no Meta at&eacute; o fechamento no WhatsApp. O dado do Sebrae mostra onde o cliente est&aacute;. O trabalho da consultoria &eacute; ajustar o an&uacute;ncio para chegar exatamente l&aacute;, no momento em que o consumidor est&aacute; pronto para conversar. Marketing bem feito aqui conecta a mensagem certa ao lugar onde a venda j&aacute; acontece."
     },
     {
       "layout": "cta",
-      "bridge": "A LWSA pesquisou 1.044 consumidores em outubro de 2026: 50% j&aacute; pesquisam a Black Friday com mais de um m&ecirc;s de anteced&ecirc;ncia. 54% v&atilde;o comprar ao longo de novembro, n&atilde;o s&oacute; no dia 27. 75% desconfiam das promo&ccedil;&otilde;es, mas 62% pretendem comprar mesmo assim. A janela de conquistar esse consumidor est&aacute; aberta agora, em outubro. Em novembro, a disputa &eacute; s&oacute; de pre&ccedil;o. (Fontes: LWSA e Business Moment/Offerwise, outubro de 2026)",
-      "headline": "A JANELA QUE<br>FECHA EM OUTUBRO:<br><em>50%</em> J&Aacute; ESCOLHEU<br>ONDE VAI COMPRAR<br>NA BLACK FRIDAY",
+      "bridge": "O Sebrae mapeou (Pulso 2026): 82% dos MEIs vendem pelo WhatsApp. A Opinion Box mostrou que 7 em 10 brasileiros j&aacute; compraram pelo app. A CNDL ouviu 562 empresas: o WhatsApp tem 67% como canal de venda principal, contra 12% do site pr&oacute;prio. O consumidor j&aacute; est&aacute; l&aacute;. A quest&atilde;o &eacute; se o an&uacute;ncio do neg&oacute;cio est&aacute; chegando at&eacute; ele no lugar certo. (Fontes: Sebrae, Opinion Box, CNDL/SPC Brasil, 2026)",
+      "headline": "A MORTE DO<br>SITE DE PME:<br><em>82%</em> DOS MEIs<br>J&Aacute; VENDEM<br>PELO WHATSAPP",
       "kinstr": "Para acompanhar os dados que afetam quem tem um neg&oacute;cio local:",
       "kword": "ME SEGUE",
-      "kbenefit": "an&aacute;lises de mercado para neg&oacute;cios locais e como anunciar na hora certa para a Black Friday"
+      "kbenefit": "an&aacute;lises sobre o comportamento do consumidor brasileiro e como anunciar no canal onde o cliente j&aacute; compra"
     }
   ],
-  "caption": "A Black Friday cai em 27 de novembro. Mas 50% dos consumidores já começaram a pesquisar — ainda em outubro.\n\nUma pesquisa da LWSA com 1.044 pessoas (outubro de 2026) mostrou que metade dos brasileiros inicia a busca por ofertas com mais de um mês de antecedência. E 54% planejam distribuir as compras ao longo de novembro, não em um único dia.\n\nAo mesmo tempo: 75% desconfiam das promoções, mas 62% pretendem comprar mesmo assim. 51% têm mais da metade da renda comprometida com dívidas.\n\nEles vão comprar. Mas vão escolher com cuidado onde e de quem.\n\nO pequeno negócio que aparecer nessa fase de pesquisa, em outubro, chega antes da briga de preço dos grandes. Quando novembro começa, o cliente programado já decidiu onde vai comprar.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: LWSA (outubro de 2026); Business Moment/Offerwise (outubro de 2026)\n\n#blackfriday2026 #blackfridaybrasileira #pme #negociolocal #marketingdigital #trafegopago #consultoriametamorfose #varejo #empreendedorismo #blackfridaydicas"
+  "caption": "O Sebrae pesquisou os pequenos negócios brasileiros em 2026: 82% dos MEIs e microempresas já vendem pelo WhatsApp.\n\nA Opinion Box ouviu 1.000 brasileiros: 7 em cada 10 já fecharam uma compra dentro do aplicativo.\n\nA CNDL foi além e perguntou a 562 empresas qual o canal que mais gera venda. WhatsApp ficou com 67%. Site próprio apareceu em 12%.\n\nO consumidor do pequeno negócio já está no WhatsApp. O problema é que o anúncio da maioria ainda aponta pro lugar errado.\n\nQuem calibra o circuito completo — do anúncio ao fechamento no app — chega antes.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: Sebrae (Pulso 2026); Opinion Box (jun-jul/2026); CNDL/SPC Brasil (2026)\n\n#whatsappbusiness #negociolocal #pme #marketingdigital #trafegopago #consultoriametamorfose #whatsappvendas #pequenosnegócios #empreendedorismo #vendaspelowpp"
 }

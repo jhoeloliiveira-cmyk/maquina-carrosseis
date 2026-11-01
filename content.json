@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-01",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "black friday shopping retail consumer sale",
+  "image_query": "black friday shopping sale retail store",
   "capa": {
     "image": "net-1.jpg",
-    "type_label": "METAMORFOSE &middot; MARKETING &middot; OUTUBRO 2026",
-    "date": "30/10/2026",
-    "headline": "A JANELA QUE<br>FECHA EM OUTUBRO:<br><em>50%</em> J&Aacute; ESCOLHEU<br>ONDE VAI COMPRAR<br>NA BLACK FRIDAY"
+    "type_label": "METAMORFOSE &middot; MARKETING &middot; NOVEMBRO 2026",
+    "date": "01/11/2026",
+    "headline": "A MORTE<br>DOS 4 DIAS:<br><em>76,5%</em> DO M&Ecirc;S<br>N&Atilde;O &Eacute;<br>BLACK FRIDAY"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "LWSA &middot; PESQUISA &middot; OUTUBRO 2026 &middot; 1.044 ENTREVISTAS",
-      "h1": "METADE DOS BRASILEIROS J&Aacute; EST&Aacute; PESQUISANDO O QUE V&Atilde;O COMPRAR NA BLACK FRIDAY. <em>AINDA &Eacute; OUTUBRO.</em>",
-      "body": "Uma pesquisa da LWSA com 1.044 consumidores, divulgada em outubro de 2026, mostrou que 50% dos brasileiros come&ccedil;am a pesquisar ofertas da Black Friday com mais de um m&ecirc;s de anteced&ecirc;ncia. Cinquenta e quatro por cento planejam distribuir as compras ao longo de novembro, n&atilde;o apenas no dia 27. A decis&atilde;o de onde comprar est&aacute; sendo tomada agora. (Fonte: LWSA, outubro de 2026)"
+      "tag": "NEOTRUST &middot; NOVEMBRO 2025 &middot; DADOS REALIZADOS &middot; DISTRIBUI&Ccedil;&Atilde;O DI&Aacute;RIA",
+      "h1": "S&Oacute; 23,5% DA RECEITA DE NOVEMBRO CAIU DENTRO DOS 4 DIAS DA BLACK FRIDAY. <em>O RESTANTE DO M&Ecirc;S VALEU 3X MAIS.</em>",
+      "body": "A Neotrust mapeou a distribui&ccedil;&atilde;o di&aacute;ria das vendas de novembro de 2025 no e-commerce brasileiro. Os quatro dias da Black Friday &mdash; quinta a domingo &mdash; concentraram 23,5% da receita do m&ecirc;s. Os outros 26 dias ficaram com 76,5%. O m&ecirc;s inteiro de novembro supera qualquer semana de promo&ccedil;&atilde;o isolada. O consumidor n&atilde;o espera mais a sexta para comprar. (Fonte: Neotrust, 2026, com base em dados de novembro de 2025)"
     },
     {
       "layout": "light",
-      "tag": "COMPORTAMENTO DO CONSUMIDOR &middot; BLACK FRIDAY 2026 &middot; MUDAN&Ccedil;A DE PADR&Atilde;O",
-      "h1": "54% DOS CONSUMIDORES V&Atilde;O COMPRAR <em>AO LONGO DE NOVEMBRO</em> &mdash; N&Atilde;O S&Oacute; NO DIA DA BLACK FRIDAY.",
-      "body": "O comportamento do consumidor brasileiro mudou nas &uacute;ltimas edi&ccedil;&otilde;es da Black Friday. O que era uma corrida concentrada em um &uacute;nico dia virou um per&iacute;odo de decis&atilde;o que come&ccedil;a em outubro. O consumidor pesquisa o produto, acompanha o pre&ccedil;o, escolhe o lugar. Quando novembro chega, a decis&atilde;o muitas vezes j&aacute; est&aacute; tomada. A janela para influenciar essa escolha &eacute; agora. (Fonte: LWSA, outubro de 2026)"
+      "tag": "NEOTRUST &middot; PROJE&Ccedil;&Atilde;O 2026 &middot; NOVEMBRO &middot; E-COMMERCE BRASILEIRO",
+      "h1": "O 11.11 PROJETA R$ 3,17 BILH&Otilde;ES. A BLACK WEEK. O CYBER MONDAY. <em>NOVEMBRO VIROU UM M&Ecirc;S INTEIRO DE PICOS.</em>",
+      "body": "A Neotrust projeta R$ 3,17 bilh&otilde;es no 11 de novembro de 2026, alta de 21% sobre o ano anterior. A Black Week cobre a semana do evento, e o Cyber Monday fecha o m&ecirc;s no dia 30. S&atilde;o ao menos tr&ecirc;s janelas de alta concentra&ccedil;&atilde;o de compras al&eacute;m da pr&oacute;pria Black Friday. Para o consumidor, novembro virou um calend&aacute;rio de oportunidades ao longo do m&ecirc;s, n&atilde;o um &uacute;nico fim de semana. (Fonte: Neotrust, outubro de 2026)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "DADOS &middot; BUSINESS MOMENT/OFFERWISE &middot; 2.000 ENTREVISTAS &middot; 2026",
-      "h1": "<em>62%</em> PRETENDEM COMPRAR NA BLACK FRIDAY. MAS <em>75%</em> DESCONFIAM DAS PROMO&Ccedil;&Otilde;ES.",
-      "body": "Uma pesquisa da Business Moment com a Offerwise (2.000 entrevistas) mapeou a contradi&ccedil;&atilde;o da Black Friday brasileira: 62% dos consumidores pretendem comprar, mas 75% acham que as ofertas s&atilde;o enganosas. Quarenta e um por cento planejam gastar mais do que em 2025, s&oacute; que 51% t&ecirc;m mais da metade da renda mensal comprometida com d&iacute;vidas ou contas fixas. O consumidor quer comprar e tem medo de ser enganado ao mesmo tempo. (Fonte: Business Moment/Offerwise, outubro de 2026)"
+      "tag": "NEOTRUST &middot; JANEIRO A SETEMBRO 2026 &middot; TICKET M&Eacute;DIO &middot; PEDIDOS",
+      "h1": "<em>34,9% MAIS PEDIDOS.</em> 16,9% MAIS RECEITA. TICKET M&Eacute;DIO CAIU 13,4% &mdash; DE R$ 309 PARA R$ 268.",
+      "body": "A Neotrust mediu o e-commerce brasileiro entre janeiro e setembro de 2026. Os pedidos cresceram 34,9% &mdash; de 889 milh&otilde;es para 1,2 bilh&atilde;o de transa&ccedil;&otilde;es. O faturamento subiu 16,9%. A conta n&atilde;o fecha igual: o ticket m&eacute;dio caiu 13,4%, de R$ 309,70 para R$ 268,20. O consumidor est&aacute; comprando mais vezes e gastando menos em cada compra. O CEO do E-Commerce Brasil, Bruno Pati, atribui o movimento ao endividamento e ao custo do cr&eacute;dito. (Fontes: Neotrust; CNN Brasil, 2026)"
     },
     {
       "layout": "light",
-      "tag": "COM&Eacute;RCIO LOCAL &middot; TIMING &middot; BLACK FRIDAY 2026",
-      "h1": "O GRANDE VAREJISTA ENTRA EM NOVEMBRO COM DESCONTO DE 60%. <em>O PEQUENO NEG&Oacute;CIO TEM OUTUBRO PARA CHEGAR PRIMEIRO.</em>",
-      "body": "Em outubro, o consumidor ainda est&aacute; escolhendo onde vai comprar &mdash; e o crit&eacute;rio nessa fase vai al&eacute;m do pre&ccedil;o: confian&ccedil;a, proximidade, atendimento, produto certo. O grande varejista entra com desconto de 40% a 60% em novembro. O pequeno neg&oacute;cio raramente tem essa margem. Mas quando o consumidor chega em novembro j&aacute; tendo decidido o lugar, a disputa de pre&ccedil;o chega tarde demais."
+      "tag": "CALEND&Aacute;RIO COMERCIAL &middot; PME VS. GRANDE VAREJO &middot; JANELAS DE VENDA",
+      "h1": "O GRANDE VAREJISTA ATIVA O M&Ecirc;S INTEIRO. <em>A MAIORIA DO PEQUENO NEG&Oacute;CIO ATIVA S&Oacute; 4 DIAS.</em>",
+      "body": "O calend&aacute;rio de novembro tem ao menos quatro picos de compra: 11.11, a Black Week, a Black Friday e o Cyber Monday. Grandes redes ativam campanhas em cada janela ao longo do m&ecirc;s inteiro. O pequeno neg&oacute;cio, em geral, entra em cena na semana do evento principal &mdash; no momento em que o custo do an&uacute;ncio j&aacute; est&aacute; no pico do ano, puxado pela demanda das grandes marcas. A disputa pela aten&ccedil;&atilde;o do consumidor come&ccedil;a antes da &uacute;ltima sexta."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO &middot; TIMING &middot; CONSULTORIA METAMORFOSE",
-      "h1": "O AN&Uacute;NCIO QUE <em>GANHA A BLACK FRIDAY</em> COME&Ccedil;A A RODAR EM OUTUBRO.",
-      "body": "A Consultoria Metamorfose trabalha com neg&oacute;cios locais na constru&ccedil;&atilde;o do plano de m&iacute;dia para a Black Friday. Com a janela de decis&atilde;o do consumidor aberta em outubro, o an&uacute;ncio bem calibrado alcan&ccedil;a o comprador programado antes de novembro come&ccedil;ar &mdash; quando o leil&atilde;o de desconto dos grandes ainda n&atilde;o tomou a tela. Marketing bem feito nessa data mapeia canal, p&uacute;blico, mensagem e timing, n&atilde;o s&oacute; or&ccedil;amento."
+      "tag": "AN&Uacute;NCIO &middot; NOVEMBRO &middot; CONSULTORIA METAMORFOSE",
+      "h1": "<em>NOVEMBRO N&Atilde;O COME&Ccedil;A NA SEXTA.</em> A ESTRAT&Eacute;GIA DE QUEM VENDE O M&Ecirc;S INTEIRO COME&Ccedil;A NO DIA 1.",
+      "body": "A Consultoria Metamorfose trabalha com pequenos neg&oacute;cios no planejamento do calend&aacute;rio completo de novembro &mdash; dos an&uacute;ncios no in&iacute;cio do m&ecirc;s at&eacute; o fechamento na &uacute;ltima semana. O dado da Neotrust sobre a distribui&ccedil;&atilde;o das vendas mostra que o 11.11, a Black Week e o Cyber Monday valem, em conjunto, mais do que os 4 dias da Black Friday. Um neg&oacute;cio local que ativa campanhas em cada janela, com or&ccedil;amento calibrado, chega ao fim de novembro com resultado diferente de quem concentrou tudo numa &uacute;nica sexta. Marketing bem feito aqui &eacute; o planejamento do m&ecirc;s inteiro."
     },
     {
       "layout": "cta",
-      "bridge": "A LWSA pesquisou 1.044 consumidores em outubro de 2026: 50% j&aacute; pesquisam a Black Friday com mais de um m&ecirc;s de anteced&ecirc;ncia. 54% v&atilde;o comprar ao longo de novembro, n&atilde;o s&oacute; no dia 27. 75% desconfiam das promo&ccedil;&otilde;es, mas 62% pretendem comprar mesmo assim. A janela de conquistar esse consumidor est&aacute; aberta agora, em outubro. Em novembro, a disputa &eacute; s&oacute; de pre&ccedil;o. (Fontes: LWSA e Business Moment/Offerwise, outubro de 2026)",
-      "headline": "A JANELA QUE<br>FECHA EM OUTUBRO:<br><em>50%</em> J&Aacute; ESCOLHEU<br>ONDE VAI COMPRAR<br>NA BLACK FRIDAY",
+      "bridge": "A Neotrust mediu a distribui&ccedil;&atilde;o de novembro de 2025: 23,5% da receita nos 4 dias da Black Friday, 76,5% nas outras datas do m&ecirc;s. O e-commerce projeta R$ 3,17 bilh&otilde;es no 11.11 e R$ 13,3 bilh&otilde;es na Black Friday de 2026, com ticket m&eacute;dio 13,4% menor que no ano anterior. Novembro tem quatro janelas de compra &mdash; o consumidor j&aacute; est&aacute; comprando. A quest&atilde;o &eacute; se o an&uacute;ncio do neg&oacute;cio est&aacute; presente em cada uma delas. (Fontes: Neotrust, outubro de 2026; CNN Brasil, 2026)",
+      "headline": "A MORTE<br>DOS 4 DIAS:<br><em>76,5%</em> DO M&Ecirc;S<br>N&Atilde;O &Eacute;<br>BLACK FRIDAY",
       "kinstr": "Para acompanhar os dados que afetam quem tem um neg&oacute;cio local:",
       "kword": "ME SEGUE",
-      "kbenefit": "an&aacute;lises de mercado para neg&oacute;cios locais e como anunciar na hora certa para a Black Friday"
+      "kbenefit": "an&aacute;lises sobre o comportamento do consumidor brasileiro e como anunciar em cada janela do calend&aacute;rio comercial"
     }
   ],
-  "caption": "A Black Friday cai em 27 de novembro. Mas 50% dos consumidores já começaram a pesquisar — ainda em outubro.\n\nUma pesquisa da LWSA com 1.044 pessoas (outubro de 2026) mostrou que metade dos brasileiros inicia a busca por ofertas com mais de um mês de antecedência. E 54% planejam distribuir as compras ao longo de novembro, não em um único dia.\n\nAo mesmo tempo: 75% desconfiam das promoções, mas 62% pretendem comprar mesmo assim. 51% têm mais da metade da renda comprometida com dívidas.\n\nEles vão comprar. Mas vão escolher com cuidado onde e de quem.\n\nO pequeno negócio que aparecer nessa fase de pesquisa, em outubro, chega antes da briga de preço dos grandes. Quando novembro começa, o cliente programado já decidiu onde vai comprar.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: LWSA (outubro de 2026); Business Moment/Offerwise (outubro de 2026)\n\n#blackfriday2026 #blackfridaybrasileira #pme #negociolocal #marketingdigital #trafegopago #consultoriametamorfose #varejo #empreendedorismo #blackfridaydicas"
+  "caption": "A Neotrust mediu a distribuição das vendas de novembro de 2025: só 23,5% da receita caiu nos 4 dias da Black Friday. O restante — 76,5% — aconteceu nas outras datas do mês.\n\nO 11.11 projeta R$ 3,17 bilhões em 2026 (alta de 21%). A Black Week cobre a semana inteira. O Cyber Monday fecha o mês no dia 30.\n\nEntre janeiro e setembro de 2026, o consumidor brasileiro fez 34,9% mais pedidos, mas gastou 13,4% menos por compra — o ticket médio caiu de R$ 309,70 para R$ 268,20.\n\nO pequeno negócio que só ativa campanha na sexta entra no ponto mais caro do ano sem ter disputado nenhum pico anterior do mês.\n\nNovembro não começa na sexta.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: Neotrust (outubro de 2026); E-Commerce Brasil (2026); CNN Brasil (2026)\n\n#blackfriday2026 #negociolocal #pme #marketingdigital #trafegopago #consultoriametamorfose #vendasonline #pequenosnegócios #ecommercebrasil #novembro"
 }

@@ -1,54 +1,57 @@
 {
-  "date": "2026-11-01",
-  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "black friday shopping sale retail store",
+  "date": "2026-11-02",
+  "brand": {
+    "handle": "@consultoriametamorfose",
+    "initial": "M"
+  },
+  "image_query": "payday workers shopping retail holiday",
   "capa": {
     "image": "net-1.jpg",
     "type_label": "METAMORFOSE &middot; MARKETING &middot; NOVEMBRO 2026",
-    "date": "01/11/2026",
-    "headline": "A MORTE<br>DOS 4 DIAS:<br><em>76,5%</em> DO M&Ecirc;S<br>N&Atilde;O &Eacute;<br>BLACK FRIDAY"
+    "date": "02/11/2026",
+    "headline": "A MORTE<br>DO IMPOSTO<br>NO 13&ordm;:<br><em>15 MILH&Otilde;ES</em><br>RECEBEM O CHEIO"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "NEOTRUST &middot; NOVEMBRO 2025 &middot; DADOS REALIZADOS &middot; DISTRIBUI&Ccedil;&Atilde;O DI&Aacute;RIA",
-      "h1": "S&Oacute; 23,5% DA RECEITA DE NOVEMBRO CAIU DENTRO DOS 4 DIAS DA BLACK FRIDAY. <em>O RESTANTE DO M&Ecirc;S VALEU 3X MAIS.</em>",
-      "body": "A Neotrust mapeou a distribui&ccedil;&atilde;o di&aacute;ria das vendas de novembro de 2025 no e-commerce brasileiro. Os quatro dias da Black Friday &mdash; quinta a domingo &mdash; concentraram 23,5% da receita do m&ecirc;s. Os outros 26 dias ficaram com 76,5%. O m&ecirc;s inteiro de novembro supera qualquer semana de promo&ccedil;&atilde;o isolada. O consumidor n&atilde;o espera mais a sexta para comprar. (Fonte: Neotrust, 2026, com base em dados de novembro de 2025)"
+      "tag": "GOVERNO FEDERAL &middot; JANEIRO 2026 &middot; RECEITA FEDERAL &middot; ISEN&Ccedil;&Atilde;O IR",
+      "h1": "DESDE JANEIRO DE 2026, A RECEITA FEDERAL PAROU DE COBRAR IR DE QUEM GANHA AT&Eacute; R$ 5 MIL. <em>EM NOVEMBRO, ESSA REGRA CHEGA AO 13&ordm; SAL&Aacute;RIO.</em>",
+      "body": "Desde janeiro de 2026, trabalhadores com renda mensal at&eacute; R$ 5 mil est&atilde;o completamente isentos do Imposto de Renda. A mesma regra vale para o d&eacute;cimo terceiro sal&aacute;rio. A primeira parcela do 13&ordm; vence em 30 de novembro de 2026. S&atilde;o 15 milh&otilde;es de brasileiros que recebem o d&eacute;cimo terceiro sem desconto de IR pela primeira vez. (Fontes: Ag&ecirc;ncia Brasil/EBC, fevereiro de 2026; Mixvale, outubro de 2026)"
     },
     {
       "layout": "light",
-      "tag": "NEOTRUST &middot; PROJE&Ccedil;&Atilde;O 2026 &middot; NOVEMBRO &middot; E-COMMERCE BRASILEIRO",
-      "h1": "O 11.11 PROJETA R$ 3,17 BILH&Otilde;ES. A BLACK WEEK. O CYBER MONDAY. <em>NOVEMBRO VIROU UM M&Ecirc;S INTEIRO DE PICOS.</em>",
-      "body": "A Neotrust projeta R$ 3,17 bilh&otilde;es no 11 de novembro de 2026, alta de 21% sobre o ano anterior. A Black Week cobre a semana do evento, e o Cyber Monday fecha o m&ecirc;s no dia 30. S&atilde;o ao menos tr&ecirc;s janelas de alta concentra&ccedil;&atilde;o de compras al&eacute;m da pr&oacute;pria Black Friday. Para o consumidor, novembro virou um calend&aacute;rio de oportunidades ao longo do m&ecirc;s, n&atilde;o um &uacute;nico fim de semana. (Fonte: Neotrust, outubro de 2026)"
+      "tag": "DIEESE &middot; NOVEMBRO 2025 &middot; D&Eacute;CIMO TERCEIRO &middot; REFER&Ecirc;NCIA HIST&Oacute;RICA",
+      "h1": "<em>R$ 369,4 BILH&Otilde;ES</em> FOI O VALOR DO 13&ordm; EM 2025. EM 2026, COM IR ZERO AT&Eacute; R$ 5 MIL, A PARCELA CHEGA MAIS CHEIA NA CONTA.",
+      "body": "O DIEESE mediu que o pagamento do d&eacute;cimo terceiro de 2025 colocou R$ 369,4 bilh&otilde;es na economia &mdash; cerca de 2,9% do PIB &mdash;, alcan&ccedil;ando aproximadamente 58 milh&otilde;es de trabalhadores formais. Em 2026, a nova tabela do IR zerou o imposto para quem ganha at&eacute; R$ 5 mil. O resultado: a parcela depositada em novembro &eacute; maior do que em qualquer ano anterior. Para o cliente do com&eacute;rcio local, chega mais dinheiro na conta. (Fonte: DIEESE, nota de imprensa, novembro de 2025)"
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "NEOTRUST &middot; JANEIRO A SETEMBRO 2026 &middot; TICKET M&Eacute;DIO &middot; PEDIDOS",
-      "h1": "<em>34,9% MAIS PEDIDOS.</em> 16,9% MAIS RECEITA. TICKET M&Eacute;DIO CAIU 13,4% &mdash; DE R$ 309 PARA R$ 268.",
-      "body": "A Neotrust mediu o e-commerce brasileiro entre janeiro e setembro de 2026. Os pedidos cresceram 34,9% &mdash; de 889 milh&otilde;es para 1,2 bilh&atilde;o de transa&ccedil;&otilde;es. O faturamento subiu 16,9%. A conta n&atilde;o fecha igual: o ticket m&eacute;dio caiu 13,4%, de R$ 309,70 para R$ 268,20. O consumidor est&aacute; comprando mais vezes e gastando menos em cada compra. O CEO do E-Commerce Brasil, Bruno Pati, atribui o movimento ao endividamento e ao custo do cr&eacute;dito. (Fontes: Neotrust; CNN Brasil, 2026)"
+      "tag": "CAGED &middot; MAIO 2026 &middot; ADMISS&Otilde;ES &middot; SAL&Aacute;RIO M&Eacute;DIO &middot; MERCADO FORMAL",
+      "h1": "O SAL&Aacute;RIO M&Eacute;DIO DE ADMISS&Atilde;O EM MAIO DE 2026 ERA R$ 2.384. <em>ABAIXO DO TETO DE R$ 5 MIL DA ISEN&Ccedil;&Atilde;O.</em>",
+      "body": "O CAGED registrou o sal&aacute;rio m&eacute;dio de admiss&atilde;o em R$ 2.384,10 em maio de 2026. Esse valor est&aacute; dentro da faixa isenta do IR. A maior parte dos trabalhadores com carteira assinada no Brasil recebe abaixo de R$ 5 mil &mdash; e, portanto, o 13&ordm; chega sem desconto nas contas. Para o dono de loja de bairro, isso significa: o cliente que trabalha com carteira assinada vai ter mais dinheiro neste novembro do que em novembro de 2025. (Fonte: CAGED/Minist&eacute;rio do Trabalho e Previd&ecirc;ncia, maio de 2026)"
     },
     {
       "layout": "light",
-      "tag": "CALEND&Aacute;RIO COMERCIAL &middot; PME VS. GRANDE VAREJO &middot; JANELAS DE VENDA",
-      "h1": "O GRANDE VAREJISTA ATIVA O M&Ecirc;S INTEIRO. <em>A MAIORIA DO PEQUENO NEG&Oacute;CIO ATIVA S&Oacute; 4 DIAS.</em>",
-      "body": "O calend&aacute;rio de novembro tem ao menos quatro picos de compra: 11.11, a Black Week, a Black Friday e o Cyber Monday. Grandes redes ativam campanhas em cada janela ao longo do m&ecirc;s inteiro. O pequeno neg&oacute;cio, em geral, entra em cena na semana do evento principal &mdash; no momento em que o custo do an&uacute;ncio j&aacute; est&aacute; no pico do ano, puxado pela demanda das grandes marcas. A disputa pela aten&ccedil;&atilde;o do consumidor come&ccedil;a antes da &uacute;ltima sexta."
+      "tag": "CALEND&Aacute;RIO COMERCIAL &middot; PME &middot; 13&ordm; 2026 &middot; JANELA DE CONSUMO",
+      "h1": "PRIMEIRA PARCELA AT&Eacute; 30 DE NOVEMBRO. SEGUNDA AT&Eacute; 18 DE DEZEMBRO. <em>DUAS JANELAS COM DINHEIRO EXTRA QUE A MAIORIA DOS NEG&Oacute;CIOS LOCAIS N&Atilde;O MAPEOU.</em>",
+      "body": "O calend&aacute;rio do 13&ordm; abre dois momentos distintos de consumo: o primeiro ao longo de novembro, com prazo at&eacute; o dia 30, e o segundo concentrado entre meados e o fim de dezembro. Em ambas as janelas, o trabalhador com renda at&eacute; R$ 5 mil tem mais saldo dispon&iacute;vel do que em anos anteriores. O pequeno neg&oacute;cio que ativou campanha antes do vencimento captura esse dinheiro extra. O que n&atilde;o ativou assiste o cliente gastar em outro lugar."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
       "tag": "AN&Uacute;NCIO &middot; NOVEMBRO &middot; CONSULTORIA METAMORFOSE",
-      "h1": "<em>NOVEMBRO N&Atilde;O COME&Ccedil;A NA SEXTA.</em> A ESTRAT&Eacute;GIA DE QUEM VENDE O M&Ecirc;S INTEIRO COME&Ccedil;A NO DIA 1.",
-      "body": "A Consultoria Metamorfose trabalha com pequenos neg&oacute;cios no planejamento do calend&aacute;rio completo de novembro &mdash; dos an&uacute;ncios no in&iacute;cio do m&ecirc;s at&eacute; o fechamento na &uacute;ltima semana. O dado da Neotrust sobre a distribui&ccedil;&atilde;o das vendas mostra que o 11.11, a Black Week e o Cyber Monday valem, em conjunto, mais do que os 4 dias da Black Friday. Um neg&oacute;cio local que ativa campanhas em cada janela, com or&ccedil;amento calibrado, chega ao fim de novembro com resultado diferente de quem concentrou tudo numa &uacute;nica sexta. Marketing bem feito aqui &eacute; o planejamento do m&ecirc;s inteiro."
+      "h1": "<em>O 13&ordm; MAIS CHEIO DA HIST&Oacute;RIA.</em> O AN&Uacute;NCIO QUE CAPTURA ESSE DINHEIRO TEM QUE ESTAR NO AR ANTES.",
+      "body": "A Consultoria Metamorfose trabalha com pequenos neg&oacute;cios no planejamento das campanhas de novembro e dezembro &mdash; da primeira parcela do 13&ordm; ao fechamento do ano. O dado do CAGED mostra que a maioria dos trabalhadores formais est&aacute; na faixa isenta do IR: o d&eacute;cimo terceiro chega cheio nas contas. Um neg&oacute;cio local que ativa campanha agora, antes do vencimento de 30 de novembro, consegue estar presente quando esse dinheiro cair. Marketing bem feito aqui &eacute; preparar o an&uacute;ncio antes que o cliente receba."
     },
     {
       "layout": "cta",
-      "bridge": "A Neotrust mediu a distribui&ccedil;&atilde;o de novembro de 2025: 23,5% da receita nos 4 dias da Black Friday, 76,5% nas outras datas do m&ecirc;s. O e-commerce projeta R$ 3,17 bilh&otilde;es no 11.11 e R$ 13,3 bilh&otilde;es na Black Friday de 2026, com ticket m&eacute;dio 13,4% menor que no ano anterior. Novembro tem quatro janelas de compra &mdash; o consumidor j&aacute; est&aacute; comprando. A quest&atilde;o &eacute; se o an&uacute;ncio do neg&oacute;cio est&aacute; presente em cada uma delas. (Fontes: Neotrust, outubro de 2026; CNN Brasil, 2026)",
-      "headline": "A MORTE<br>DOS 4 DIAS:<br><em>76,5%</em> DO M&Ecirc;S<br>N&Atilde;O &Eacute;<br>BLACK FRIDAY",
+      "bridge": "O governo federal zerou o IR para trabalhadores com renda at&eacute; R$ 5 mil a partir de janeiro de 2026 &mdash; a regra vale para o 13&ordm; sal&aacute;rio. S&atilde;o 15 milh&otilde;es de brasileiros na faixa isenta. O sal&aacute;rio m&eacute;dio de admiss&atilde;o formal pelo CAGED em maio de 2026 era R$ 2.384,10, dentro da faixa de isen&ccedil;&atilde;o. A primeira parcela do 13&ordm; vence em 30 de novembro e a segunda em 18 de dezembro. O d&eacute;cimo terceiro de 2025 injetou R$ 369,4 bilh&otilde;es na economia. Em 2026, com IR zero, o cliente do com&eacute;rcio local recebe mais. (Fontes: Ag&ecirc;ncia Brasil/EBC, 2026; CAGED/MTE, 2026; DIEESE, novembro de 2025; Mixvale, outubro de 2026)",
+      "headline": "A MORTE<br>DO IMPOSTO<br>NO 13&ordm;:<br><em>15 MILH&Otilde;ES</em><br>RECEBEM O CHEIO",
       "kinstr": "Para acompanhar os dados que afetam quem tem um neg&oacute;cio local:",
       "kword": "ME SEGUE",
-      "kbenefit": "an&aacute;lises sobre o comportamento do consumidor brasileiro e como anunciar em cada janela do calend&aacute;rio comercial"
+      "kbenefit": "an&aacute;lises sobre o calend&aacute;rio comercial e como anunciar na hora certa para quem tem um neg&oacute;cio local"
     }
   ],
-  "caption": "A Neotrust mediu a distribuição das vendas de novembro de 2025: só 23,5% da receita caiu nos 4 dias da Black Friday. O restante — 76,5% — aconteceu nas outras datas do mês.\n\nO 11.11 projeta R$ 3,17 bilhões em 2026 (alta de 21%). A Black Week cobre a semana inteira. O Cyber Monday fecha o mês no dia 30.\n\nEntre janeiro e setembro de 2026, o consumidor brasileiro fez 34,9% mais pedidos, mas gastou 13,4% menos por compra — o ticket médio caiu de R$ 309,70 para R$ 268,20.\n\nO pequeno negócio que só ativa campanha na sexta entra no ponto mais caro do ano sem ter disputado nenhum pico anterior do mês.\n\nNovembro não começa na sexta.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: Neotrust (outubro de 2026); E-Commerce Brasil (2026); CNN Brasil (2026)\n\n#blackfriday2026 #negociolocal #pme #marketingdigital #trafegopago #consultoriametamorfose #vendasonline #pequenosnegócios #ecommercebrasil #novembro"
+  "caption": "O governo federal zerou o Imposto de Renda para quem ganha até R$ 5 mil por mês a partir de 2026, e a regra vale para o 13° salário.\n\nIsso significa que 15 milhões de brasileiros — boa parte dos trabalhadores com carteira assinada, já que o salário médio de admissão em maio de 2026 era R$ 2.384 — recebem o décimo terceiro sem desconto de IR neste novembro pela primeira vez.\n\nO 13° de 2025 injetou R$ 369,4 bilhões na economia (DIEESE). Em 2026, com IR zero na faixa, a parcela que chega na conta é maior.\n\nA primeira parcela vence em 30 de novembro. A segunda, em 18 de dezembro.\n\nSão duas janelas de consumo com mais dinheiro circulando. O pequeno negócio que ativa campanha antes do vencimento captura esse dinheiro extra.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: Agência Brasil/EBC (2026); CAGED/Ministério do Trabalho (maio de 2026); DIEESE, nota de imprensa (novembro de 2025); Mixvale (outubro de 2026)\n\n#decimoterceiro #13salario #irentojusto #pme #negociolocal #marketingdigital #trafegopago #consultoriametamorfose #calendariocomercial #novembro"
 }

@@ -1,6 +1,9 @@
 {
   "date": "2026-11-02",
-  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "brand": {
+    "handle": "@consultoriametamorfose",
+    "initial": "M"
+  },
   "image_query": "payday workers shopping retail holiday",
   "capa": {
     "image": "net-1.jpg",

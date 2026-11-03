@@ -1,57 +1,54 @@
 {
-  "date": "2026-11-02",
-  "brand": {
-    "handle": "@consultoriametamorfose",
-    "initial": "M"
-  },
-  "image_query": "payday workers shopping retail holiday",
+  "date": "2026-11-03",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "digital advertising social media marketing analytics dashboard",
   "capa": {
     "image": "net-1.jpg",
-    "type_label": "METAMORFOSE &middot; MARKETING &middot; NOVEMBRO 2026",
-    "date": "02/11/2026",
-    "headline": "A MORTE<br>DO IMPOSTO<br>NO 13&ordm;:<br><em>15 MILH&Otilde;ES</em><br>RECEBEM O CHEIO"
+    "type_label": "META ADS / REFORMA TRIBUT&Aacute;RIA / NOVEMBRO 2026",
+    "date": "03/11/2026",
+    "headline": "O IMPOSTO<br>INVIS&Iacute;VEL<br>DA META ADS:<br><em>12,15%</em><br>SOME ANTES<br>DO AN&Uacute;NCIO<br>APARECER"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "GOVERNO FEDERAL &middot; JANEIRO 2026 &middot; RECEITA FEDERAL &middot; ISEN&Ccedil;&Atilde;O IR",
-      "h1": "DESDE JANEIRO DE 2026, A RECEITA FEDERAL PAROU DE COBRAR IR DE QUEM GANHA AT&Eacute; R$ 5 MIL. <em>EM NOVEMBRO, ESSA REGRA CHEGA AO 13&ordm; SAL&Aacute;RIO.</em>",
-      "body": "Desde janeiro de 2026, trabalhadores com renda mensal at&eacute; R$ 5 mil est&atilde;o completamente isentos do Imposto de Renda. A mesma regra vale para o d&eacute;cimo terceiro sal&aacute;rio. A primeira parcela do 13&ordm; vence em 30 de novembro de 2026. S&atilde;o 15 milh&otilde;es de brasileiros que recebem o d&eacute;cimo terceiro sem desconto de IR pela primeira vez. (Fontes: Ag&ecirc;ncia Brasil/EBC, fevereiro de 2026; Mixvale, outubro de 2026)"
+      "tag": "O QUE MUDOU EM 1&ordm; DE JANEIRO DE 2026",
+      "h1": "A partir de 1&ordm; de janeiro de 2026, a Meta parou de absorver o PIS/COFINS e o ISS sobre os an&uacute;ncios no Brasil e passou a cobr&aacute;-los diretamente de quem anuncia.",
+      "body": "A altera&ccedil;&atilde;o veio junto com a Reforma Tribut&aacute;ria. A al&iacute;quota total ficou em <em>12,15%</em>: 9,25% de PIS/COFINS mais 2,9% de ISS. N&atilde;o &eacute; um imposto novo &mdash; s&oacute; que antes quem pagava era a pr&oacute;pria plataforma."
     },
     {
       "layout": "light",
-      "tag": "DIEESE &middot; NOVEMBRO 2025 &middot; D&Eacute;CIMO TERCEIRO &middot; REFER&Ecirc;NCIA HIST&Oacute;RICA",
-      "h1": "<em>R$ 369,4 BILH&Otilde;ES</em> FOI O VALOR DO 13&ordm; EM 2025. EM 2026, COM IR ZERO AT&Eacute; R$ 5 MIL, A PARCELA CHEGA MAIS CHEIA NA CONTA.",
-      "body": "O DIEESE mediu que o pagamento do d&eacute;cimo terceiro de 2025 colocou R$ 369,4 bilh&otilde;es na economia &mdash; cerca de 2,9% do PIB &mdash;, alcan&ccedil;ando aproximadamente 58 milh&otilde;es de trabalhadores formais. Em 2026, a nova tabela do IR zerou o imposto para quem ganha at&eacute; R$ 5 mil. O resultado: a parcela depositada em novembro &eacute; maior do que em qualquer ano anterior. Para o cliente do com&eacute;rcio local, chega mais dinheiro na conta. (Fonte: DIEESE, nota de imprensa, novembro de 2025)"
+      "tag": "R$878 DE ENTREGA EM CADA R$1.000",
+      "h1": "Na pr&aacute;tica: quem deposita R$1.000 em Meta Ads no pr&eacute;-pago recebe <em>R$878,50 de entrega de an&uacute;ncio</em>. Os outros R$121,50 cobrem PIS/COFINS e ISS.",
+      "body": "No cart&atilde;o, a fatura vem com o imposto somado &mdash; o total &eacute; maior que o or&ccedil;amento original. Um neg&oacute;cio que investe R$2.000 por m&ecirc;s entregou, de janeiro a outubro, <em>R$2.430 s&oacute; em impostos</em>. O painel da Meta n&atilde;o isola esse valor."
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "CAGED &middot; MAIO 2026 &middot; ADMISS&Otilde;ES &middot; SAL&Aacute;RIO M&Eacute;DIO &middot; MERCADO FORMAL",
-      "h1": "O SAL&Aacute;RIO M&Eacute;DIO DE ADMISS&Atilde;O EM MAIO DE 2026 ERA R$ 2.384. <em>ABAIXO DO TETO DE R$ 5 MIL DA ISEN&Ccedil;&Atilde;O.</em>",
-      "body": "O CAGED registrou o sal&aacute;rio m&eacute;dio de admiss&atilde;o em R$ 2.384,10 em maio de 2026. Esse valor est&aacute; dentro da faixa isenta do IR. A maior parte dos trabalhadores com carteira assinada no Brasil recebe abaixo de R$ 5 mil &mdash; e, portanto, o 13&ordm; chega sem desconto nas contas. Para o dono de loja de bairro, isso significa: o cliente que trabalha com carteira assinada vai ter mais dinheiro neste novembro do que em novembro de 2025. (Fonte: CAGED/Minist&eacute;rio do Trabalho e Previd&ecirc;ncia, maio de 2026)"
+      "tag": "NOVEMBRO: DOIS EFEITOS AO MESMO TEMPO",
+      "h1": "Em novembro, o custo por mil exibi&ccedil;&otilde;es da Meta sobe porque todas as marcas grandes disputam o mesmo espa&ccedil;o da Black Friday. O imposto de 12,15% j&aacute; vinha encarecendo cada R$1.000 desde janeiro.",
+      "body": "O anunciante que n&atilde;o reviu o or&ccedil;amento est&aacute; pagando mais por exibi&ccedil;&atilde;o, mais por clique, e ainda calculando o custo de trazer um cliente novo com a matem&aacute;tica do ano passado &mdash; sem perceber que 12 centavos de cada real foram para imposto antes do an&uacute;ncio aparecer."
     },
     {
       "layout": "light",
-      "tag": "CALEND&Aacute;RIO COMERCIAL &middot; PME &middot; 13&ordm; 2026 &middot; JANELA DE CONSUMO",
-      "h1": "PRIMEIRA PARCELA AT&Eacute; 30 DE NOVEMBRO. SEGUNDA AT&Eacute; 18 DE DEZEMBRO. <em>DUAS JANELAS COM DINHEIRO EXTRA QUE A MAIORIA DOS NEG&Oacute;CIOS LOCAIS N&Atilde;O MAPEOU.</em>",
-      "body": "O calend&aacute;rio do 13&ordm; abre dois momentos distintos de consumo: o primeiro ao longo de novembro, com prazo at&eacute; o dia 30, e o segundo concentrado entre meados e o fim de dezembro. Em ambas as janelas, o trabalhador com renda at&eacute; R$ 5 mil tem mais saldo dispon&iacute;vel do que em anos anteriores. O pequeno neg&oacute;cio que ativou campanha antes do vencimento captura esse dinheiro extra. O que n&atilde;o ativou assiste o cliente gastar em outro lugar."
+      "tag": "O CUSTO DE TRAZER UM CLIENTE NOVO QUE MUDOU SEM AVISAR",
+      "h1": "O custo de trazer um cliente novo &eacute; calculado a partir do quanto foi investido em an&uacute;ncio. <em>Se a base subiu 12,15% e o c&aacute;lculo n&atilde;o foi atualizado, a refer&ecirc;ncia est&aacute; errada.</em>",
+      "body": "O neg&oacute;cio que tomava decis&atilde;o de or&ccedil;amento por esse n&uacute;mero continua com a refer&ecirc;ncia de 2025: antes do repasse. Resultado: metas de retorno definidas por valores que n&atilde;o existem mais. Em novembro, o erro &eacute; amplificado pela concorr&ecirc;ncia da Black Friday."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "AN&Uacute;NCIO &middot; NOVEMBRO &middot; CONSULTORIA METAMORFOSE",
-      "h1": "<em>O 13&ordm; MAIS CHEIO DA HIST&Oacute;RIA.</em> O AN&Uacute;NCIO QUE CAPTURA ESSE DINHEIRO TEM QUE ESTAR NO AR ANTES.",
-      "body": "A Consultoria Metamorfose trabalha com pequenos neg&oacute;cios no planejamento das campanhas de novembro e dezembro &mdash; da primeira parcela do 13&ordm; ao fechamento do ano. O dado do CAGED mostra que a maioria dos trabalhadores formais est&aacute; na faixa isenta do IR: o d&eacute;cimo terceiro chega cheio nas contas. Um neg&oacute;cio local que ativa campanha agora, antes do vencimento de 30 de novembro, consegue estar presente quando esse dinheiro cair. Marketing bem feito aqui &eacute; preparar o an&uacute;ncio antes que o cliente receba."
+      "tag": "A CONTA CERTA PARA QUEM ANUNCIA AGORA",
+      "h1": "<em>Recalcular o or&ccedil;amento com os 12,15% dentro da conta</em> n&atilde;o significa gastar mais &mdash; significa saber exatamente quanto de cada real est&aacute; chegando ao cliente.",
+      "body": "A Consultoria Metamorfose ajusta o plano de an&uacute;ncios com a matem&aacute;tica real de 2026: custo de trazer um cliente novo recalculado, or&ccedil;amento redistribu&iacute;do e campanha calibrada para o m&ecirc;s mais concorrido do ano. Quem entra na Black Friday com os n&uacute;meros certos toma decis&atilde;o diferente de quem est&aacute; no piloto autom&aacute;tico."
     },
     {
       "layout": "cta",
-      "bridge": "O governo federal zerou o IR para trabalhadores com renda at&eacute; R$ 5 mil a partir de janeiro de 2026 &mdash; a regra vale para o 13&ordm; sal&aacute;rio. S&atilde;o 15 milh&otilde;es de brasileiros na faixa isenta. O sal&aacute;rio m&eacute;dio de admiss&atilde;o formal pelo CAGED em maio de 2026 era R$ 2.384,10, dentro da faixa de isen&ccedil;&atilde;o. A primeira parcela do 13&ordm; vence em 30 de novembro e a segunda em 18 de dezembro. O d&eacute;cimo terceiro de 2025 injetou R$ 369,4 bilh&otilde;es na economia. Em 2026, com IR zero, o cliente do com&eacute;rcio local recebe mais. (Fontes: Ag&ecirc;ncia Brasil/EBC, 2026; CAGED/MTE, 2026; DIEESE, novembro de 2025; Mixvale, outubro de 2026)",
-      "headline": "A MORTE<br>DO IMPOSTO<br>NO 13&ordm;:<br><em>15 MILH&Otilde;ES</em><br>RECEBEM O CHEIO",
-      "kinstr": "Para acompanhar os dados que afetam quem tem um neg&oacute;cio local:",
+      "bridge": "A Meta repassou <strong>12,15% de imposto</strong> para os anunciantes brasileiros a partir de 1&ordm; de janeiro de 2026. Quem investe R$1.000 recebe <strong>R$878,50 em entrega</strong> &mdash; os outros R$121,50 cobrem PIS/COFINS e ISS. De janeiro a outubro, quem anuncia R$2.000 por m&ecirc;s entregou <strong>R$2.430 em impostos</strong> sem ver no painel. Em novembro, com o custo por exibi&ccedil;&atilde;o subindo pela disputa da Black Friday, os dois efeitos se somam. Recalcular o custo de trazer um cliente novo com a nova matem&aacute;tica &eacute; a decis&atilde;o mais urgente de quem anuncia agora. Fontes: Meta (jan/2026) &middot; Ongrowing (2026) &middot; StartSe (2026).",
+      "headline": "O IMPOSTO<br>INVIS&Iacute;VEL<br>DA META ADS:<br><em>12,15%</em><br>SOME ANTES<br>DO AN&Uacute;NCIO<br>APARECER",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
       "kword": "ME SEGUE",
-      "kbenefit": "an&aacute;lises sobre o calend&aacute;rio comercial e como anunciar na hora certa para quem tem um neg&oacute;cio local"
+      "kbenefit": "dados do mercado traduzidos em decis&atilde;o de venda para o dono de neg&oacute;cio local"
     }
   ],
-  "caption": "O governo federal zerou o Imposto de Renda para quem ganha até R$ 5 mil por mês a partir de 2026, e a regra vale para o 13° salário.\n\nIsso significa que 15 milhões de brasileiros — boa parte dos trabalhadores com carteira assinada, já que o salário médio de admissão em maio de 2026 era R$ 2.384 — recebem o décimo terceiro sem desconto de IR neste novembro pela primeira vez.\n\nO 13° de 2025 injetou R$ 369,4 bilhões na economia (DIEESE). Em 2026, com IR zero na faixa, a parcela que chega na conta é maior.\n\nA primeira parcela vence em 30 de novembro. A segunda, em 18 de dezembro.\n\nSão duas janelas de consumo com mais dinheiro circulando. O pequeno negócio que ativa campanha antes do vencimento captura esse dinheiro extra.\n\nMe segue para acompanhar os dados do mercado que afetam quem tem um negócio local.\n\nFontes: Agência Brasil/EBC (2026); CAGED/Ministério do Trabalho (maio de 2026); DIEESE, nota de imprensa (novembro de 2025); Mixvale (outubro de 2026)\n\n#decimoterceiro #13salario #irentojusto #pme #negociolocal #marketingdigital #trafegopago #consultoriametamorfose #calendariocomercial #novembro"
+  "caption": "A Meta repassou 12,15% de imposto para os anunciantes brasileiros em 2026.\n\nQuem investe R$1.000 em Meta Ads recebe R$878,50 de entrega — os outros R$121,50 cobrem PIS/COFINS e ISS.\n\nDe janeiro a outubro, quem anuncia R$2.000 por mês entregou R$2.430 só em impostos, sem ver esse valor isolado no painel.\n\nE em novembro, com o custo por exibição subindo pela disputa da Black Friday, os dois efeitos se somam: imposto + concorrência de grandes marcas.\n\nQuem não recalculou o custo de trazer um cliente novo ainda está tomando decisão com a matemática do ano passado.\n\nFontes: Meta (jan/2026) · Ongrowing (2026) · StartSe (2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#trafegopago #metaads #marketingdigital #anuncios #PME #reformatributaria #blackfriday #negociolocal #empreendedorismo #custodeanuncio"
 }

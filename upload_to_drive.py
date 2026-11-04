@@ -28,8 +28,8 @@ except ImportError:
     print("  pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib")
     sys.exit(1)
 
-FOLDER_ID = "1Y8ZOGFsK3HlxeNha80n81XgdGSIXXzLB"
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output", "2026-10-28")
+FOLDER_ID = "18jhcJJ6IKYB0-iGrKZes82bvwgCl2x0i"
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output", "2026-11-04")
 
 FILES = [
     ("slide_01.png", "image/png"),
@@ -39,6 +39,7 @@ FILES = [
     ("slide_05.png", "image/png"),
     ("slide_06.png", "image/png"),
     ("slide_07.png", "image/png"),
+    ("legenda.txt", "text/plain"),
     ("carousel.html", "text/html"),
 ]
 

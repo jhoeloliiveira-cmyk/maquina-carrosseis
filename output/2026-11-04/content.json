@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-04",
+  "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
+  "image_query": "store retail customer shopping browsing",
+  "capa": {
+    "image": "net-1.jpg",
+    "type_label": "VAREJO &middot; COMPORTAMENTO &middot; NOVEMBRO 2026",
+    "date": "04/11/2026",
+    "headline": "A LOJA QUE<br>VENDE PRO<br>CONCORRENTE:<br><em>76%</em><br>TESTAM NA<br>PRATELEIRA,<br>COMPRAM ONLINE"
+  },
+  "slides": [
+    {
+      "layout": "dark",
+      "tag": "O QUE O RADAR SMOLLAN ENCONTROU EM AGOSTO DE 2026",
+      "h1": "Uma pesquisa com consumidores brasileiros realizada pela Smollan em agosto de 2026 mostrou que <em>76% das pessoas j&aacute; foram a uma loja f&iacute;sica ver um produto e depois fecharam a compra pela internet.</em>",
+      "body": "Esse comportamento tem nome no varejo: showrooming. O consumidor usa a loja como provador &mdash; toca, experimenta, tira d&uacute;vidas &mdash; e fecha no site, onde o pre&ccedil;o aparece menor ou a entrega &eacute; mais conveniente. A Smollan &eacute; uma empresa global de opera&ccedil;&otilde;es de varejo com atua&ccedil;&atilde;o no Brasil."
+    },
+    {
+      "layout": "light",
+      "tag": "POR QUE O CLIENTE VAI &Agrave; LOJA E FECHA ONLINE",
+      "h1": "O consumidor chega &agrave; loja tendo pesquisado online antes. Segundo o mesmo levantamento, <em>81% j&aacute; fizeram essa pesquisa pr&eacute;via</em> &mdash; entram com o pre&ccedil;o de refer&ecirc;ncia na cabe&ccedil;a.",
+      "body": "Na loja, elimina a d&uacute;vida que o site n&atilde;o elimina: tamanho, textura, cor real, encaixe. Depois volta ao celular e fecha onde est&aacute; mais barato ou tem frete gr&aacute;tis. A loja resolveu o problema do cliente de gra&ccedil;a &mdash; e outra empresa faturou."
+    },
+    {
+      "layout": "dark",
+      "image": "net-2.jpg",
+      "tag": "O QUE ISSO CUSTA NA PR&Aacute;TICA",
+      "h1": "Uma loja com 100 visitas por semana e 76% de showrooming tem <em>76 pessoas que usaram o espa&ccedil;o, o vendedor e o estoque para fechar a compra em outro lugar.</em>",
+      "body": "Se cada venda perdida vale R$150, s&atilde;o R$11.400 por semana em convers&otilde;es que ficaram no concorrente online. O aluguel, a conta de luz e o sal&aacute;rio do vendedor bancaram a decis&atilde;o de compra de outra empresa. Em novembro, com o pico de competi&ccedil;&atilde;o de pre&ccedil;o do e-commerce na Black Friday, esse custo &eacute; mais alto."
+    },
+    {
+      "layout": "light",
+      "tag": "O QUE MUDA A CONTA",
+      "h1": "O showrooming acontece quando a loja n&atilde;o tem raz&atilde;o para o cliente fechar ali. <em>Pre&ccedil;o igual ao online, sem vantagem de prazo, sem b&ocirc;nus de levar na hora, sem atendimento que justifique pagar mais.</em>",
+      "body": "O cliente n&atilde;o &eacute; desleal &mdash; compra onde a conta fecha melhor pra ele. O neg&oacute;cio que entende esse c&aacute;lculo pode montar uma oferta que compete: prazo que o e-commerce n&atilde;o garante, produto dispon&iacute;vel na hora, p&oacute;s-venda que o site n&atilde;o oferece. &Eacute; o diferencial que converte presen&ccedil;a em caixa."
+    },
+    {
+      "layout": "grad",
+      "image": "net-3.jpg",
+      "tag": "A CONTA QUE O MARKETING CERTO RESOLVE",
+      "h1": "<em>Transformar a loja de provador em ponto de venda &eacute; uma decis&atilde;o de posicionamento</em> &mdash; e de como os an&uacute;ncios atraem as pessoas certas, n&atilde;o s&oacute; qualquer tr&aacute;fego.",
+      "body": "A Consultoria Metamorfose trabalha a estrat&eacute;gia de an&uacute;ncios do neg&oacute;cio local para atrair quem j&aacute; decidiu comprar, n&atilde;o s&oacute; quem quer ver. Com o perfil de cliente certo na campanha e uma oferta que compita em algo al&eacute;m de pre&ccedil;o, o showroom come&ccedil;a a converter. Isso se constr&oacute;i com dados, n&atilde;o com achismo."
+    },
+    {
+      "layout": "cta",
+      "bridge": "76% dos consumidores visitaram uma loja f&iacute;sica em 2026 e fecharam a compra pela internet, segundo o Radar Smollan de agosto de 2026. O mecanismo &eacute; o showrooming: a loja resolve a d&uacute;vida que o site n&atilde;o resolve &mdash; tamanho, textura, encaixe &mdash; e o e-commerce leva a venda. Com 81% dos consumidores pesquisando pre&ccedil;o online antes de entrar na loja, o cliente chega com refer&ecirc;ncia na cabe&ccedil;a. O neg&oacute;cio que n&atilde;o tem raz&atilde;o clara para fechar ali perde a venda depois de pagar aluguel, vendedor e estoque para outra empresa faturar. Em novembro, no pico de competi&ccedil;&atilde;o de pre&ccedil;o da Black Friday, o custo desse vazamento &eacute; mais alto. Fonte: Radar Smollan (agosto/2026).",
+      "headline": "A LOJA QUE<br>VENDE PRO<br>CONCORRENTE:<br><em>76%</em><br>TESTAM NA<br>PRATELEIRA,<br>COMPRAM ONLINE",
+      "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
+      "kword": "ME SEGUE",
+      "kbenefit": "dados do mercado traduzidos em decis&atilde;o de venda para o dono de neg&oacute;cio local"
+    }
+  ],
+  "caption": "76% dos consumidores brasileiros foram a uma loja física em 2026 e fecharam a compra pela internet, segundo o Radar Smollan de agosto de 2026.\n\nA loja resolveu a dúvida que o site não resolve — tamanho, textura, encaixe — e o e-commerce levou a venda.\n\nCom 81% dos consumidores pesquisando preço online antes de entrar na loja, eles chegam com referência na cabeça. Se a loja não tem razão clara para fechar ali, perde a conversão depois de pagar aluguel, vendedor e estoque para outra empresa faturar.\n\nEm novembro, no pico de competição de preço do e-commerce na Black Friday, esse vazamento custa mais.\n\nO negócio que entende esse cálculo pode montar uma oferta que compita: prazo que o e-commerce não garante, produto disponível na hora, pós-venda que o site não oferece.\n\nFonte: Radar Smollan (agosto/2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#trafegopago #marketingdigital #lojaFisica #showrooming #varejo #PME #negociolocal #blackfriday #ecommerce #empreendedorismo"
+}

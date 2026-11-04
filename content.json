@@ -1,54 +1,54 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "brand": { "handle": "@consultoriametamorfose", "initial": "M" },
-  "image_query": "digital advertising social media marketing analytics dashboard",
+  "image_query": "store retail customer shopping browsing",
   "capa": {
     "image": "net-1.jpg",
-    "type_label": "META ADS / REFORMA TRIBUT&Aacute;RIA / NOVEMBRO 2026",
-    "date": "03/11/2026",
-    "headline": "O IMPOSTO<br>INVIS&Iacute;VEL<br>DA META ADS:<br><em>12,15%</em><br>SOME ANTES<br>DO AN&Uacute;NCIO<br>APARECER"
+    "type_label": "VAREJO &middot; COMPORTAMENTO &middot; NOVEMBRO 2026",
+    "date": "04/11/2026",
+    "headline": "A LOJA QUE<br>VENDE PRO<br>CONCORRENTE:<br><em>76%</em><br>TESTAM NA<br>PRATELEIRA,<br>COMPRAM ONLINE"
   },
   "slides": [
     {
       "layout": "dark",
-      "tag": "O QUE MUDOU EM 1&ordm; DE JANEIRO DE 2026",
-      "h1": "A partir de 1&ordm; de janeiro de 2026, a Meta parou de absorver o PIS/COFINS e o ISS sobre os an&uacute;ncios no Brasil e passou a cobr&aacute;-los diretamente de quem anuncia.",
-      "body": "A altera&ccedil;&atilde;o veio junto com a Reforma Tribut&aacute;ria. A al&iacute;quota total ficou em <em>12,15%</em>: 9,25% de PIS/COFINS mais 2,9% de ISS. N&atilde;o &eacute; um imposto novo &mdash; s&oacute; que antes quem pagava era a pr&oacute;pria plataforma."
+      "tag": "O QUE O RADAR SMOLLAN ENCONTROU EM AGOSTO DE 2026",
+      "h1": "Uma pesquisa com consumidores brasileiros realizada pela Smollan em agosto de 2026 mostrou que <em>76% das pessoas j&aacute; foram a uma loja f&iacute;sica ver um produto e depois fecharam a compra pela internet.</em>",
+      "body": "Esse comportamento tem nome no varejo: showrooming. O consumidor usa a loja como provador &mdash; toca, experimenta, tira d&uacute;vidas &mdash; e fecha no site, onde o pre&ccedil;o aparece menor ou a entrega &eacute; mais conveniente. A Smollan &eacute; uma empresa global de opera&ccedil;&otilde;es de varejo com atua&ccedil;&atilde;o no Brasil."
     },
     {
       "layout": "light",
-      "tag": "R$878 DE ENTREGA EM CADA R$1.000",
-      "h1": "Na pr&aacute;tica: quem deposita R$1.000 em Meta Ads no pr&eacute;-pago recebe <em>R$878,50 de entrega de an&uacute;ncio</em>. Os outros R$121,50 cobrem PIS/COFINS e ISS.",
-      "body": "No cart&atilde;o, a fatura vem com o imposto somado &mdash; o total &eacute; maior que o or&ccedil;amento original. Um neg&oacute;cio que investe R$2.000 por m&ecirc;s entregou, de janeiro a outubro, <em>R$2.430 s&oacute; em impostos</em>. O painel da Meta n&atilde;o isola esse valor."
+      "tag": "POR QUE O CLIENTE VAI &Agrave; LOJA E FECHA ONLINE",
+      "h1": "O consumidor chega &agrave; loja tendo pesquisado online antes. Segundo o mesmo levantamento, <em>81% j&aacute; fizeram essa pesquisa pr&eacute;via</em> &mdash; entram com o pre&ccedil;o de refer&ecirc;ncia na cabe&ccedil;a.",
+      "body": "Na loja, elimina a d&uacute;vida que o site n&atilde;o elimina: tamanho, textura, cor real, encaixe. Depois volta ao celular e fecha onde est&aacute; mais barato ou tem frete gr&aacute;tis. A loja resolveu o problema do cliente de gra&ccedil;a &mdash; e outra empresa faturou."
     },
     {
       "layout": "dark",
       "image": "net-2.jpg",
-      "tag": "NOVEMBRO: DOIS EFEITOS AO MESMO TEMPO",
-      "h1": "Em novembro, o custo por mil exibi&ccedil;&otilde;es da Meta sobe porque todas as marcas grandes disputam o mesmo espa&ccedil;o da Black Friday. O imposto de 12,15% j&aacute; vinha encarecendo cada R$1.000 desde janeiro.",
-      "body": "O anunciante que n&atilde;o reviu o or&ccedil;amento est&aacute; pagando mais por exibi&ccedil;&atilde;o, mais por clique, e ainda calculando o custo de trazer um cliente novo com a matem&aacute;tica do ano passado &mdash; sem perceber que 12 centavos de cada real foram para imposto antes do an&uacute;ncio aparecer."
+      "tag": "O QUE ISSO CUSTA NA PR&Aacute;TICA",
+      "h1": "Uma loja com 100 visitas por semana e 76% de showrooming tem <em>76 pessoas que usaram o espa&ccedil;o, o vendedor e o estoque para fechar a compra em outro lugar.</em>",
+      "body": "Se cada venda perdida vale R$150, s&atilde;o R$11.400 por semana em convers&otilde;es que ficaram no concorrente online. O aluguel, a conta de luz e o sal&aacute;rio do vendedor bancaram a decis&atilde;o de compra de outra empresa. Em novembro, com o pico de competi&ccedil;&atilde;o de pre&ccedil;o do e-commerce na Black Friday, esse custo &eacute; mais alto."
     },
     {
       "layout": "light",
-      "tag": "O CUSTO DE TRAZER UM CLIENTE NOVO QUE MUDOU SEM AVISAR",
-      "h1": "O custo de trazer um cliente novo &eacute; calculado a partir do quanto foi investido em an&uacute;ncio. <em>Se a base subiu 12,15% e o c&aacute;lculo n&atilde;o foi atualizado, a refer&ecirc;ncia est&aacute; errada.</em>",
-      "body": "O neg&oacute;cio que tomava decis&atilde;o de or&ccedil;amento por esse n&uacute;mero continua com a refer&ecirc;ncia de 2025: antes do repasse. Resultado: metas de retorno definidas por valores que n&atilde;o existem mais. Em novembro, o erro &eacute; amplificado pela concorr&ecirc;ncia da Black Friday."
+      "tag": "O QUE MUDA A CONTA",
+      "h1": "O showrooming acontece quando a loja n&atilde;o tem raz&atilde;o para o cliente fechar ali. <em>Pre&ccedil;o igual ao online, sem vantagem de prazo, sem b&ocirc;nus de levar na hora, sem atendimento que justifique pagar mais.</em>",
+      "body": "O cliente n&atilde;o &eacute; desleal &mdash; compra onde a conta fecha melhor pra ele. O neg&oacute;cio que entende esse c&aacute;lculo pode montar uma oferta que compete: prazo que o e-commerce n&atilde;o garante, produto dispon&iacute;vel na hora, p&oacute;s-venda que o site n&atilde;o oferece. &Eacute; o diferencial que converte presen&ccedil;a em caixa."
     },
     {
       "layout": "grad",
       "image": "net-3.jpg",
-      "tag": "A CONTA CERTA PARA QUEM ANUNCIA AGORA",
-      "h1": "<em>Recalcular o or&ccedil;amento com os 12,15% dentro da conta</em> n&atilde;o significa gastar mais &mdash; significa saber exatamente quanto de cada real est&aacute; chegando ao cliente.",
-      "body": "A Consultoria Metamorfose ajusta o plano de an&uacute;ncios com a matem&aacute;tica real de 2026: custo de trazer um cliente novo recalculado, or&ccedil;amento redistribu&iacute;do e campanha calibrada para o m&ecirc;s mais concorrido do ano. Quem entra na Black Friday com os n&uacute;meros certos toma decis&atilde;o diferente de quem est&aacute; no piloto autom&aacute;tico."
+      "tag": "A CONTA QUE O MARKETING CERTO RESOLVE",
+      "h1": "<em>Transformar a loja de provador em ponto de venda &eacute; uma decis&atilde;o de posicionamento</em> &mdash; e de como os an&uacute;ncios atraem as pessoas certas, n&atilde;o s&oacute; qualquer tr&aacute;fego.",
+      "body": "A Consultoria Metamorfose trabalha a estrat&eacute;gia de an&uacute;ncios do neg&oacute;cio local para atrair quem j&aacute; decidiu comprar, n&atilde;o s&oacute; quem quer ver. Com o perfil de cliente certo na campanha e uma oferta que compita em algo al&eacute;m de pre&ccedil;o, o showroom come&ccedil;a a converter. Isso se constr&oacute;i com dados, n&atilde;o com achismo."
     },
     {
       "layout": "cta",
-      "bridge": "A Meta repassou <strong>12,15% de imposto</strong> para os anunciantes brasileiros a partir de 1&ordm; de janeiro de 2026. Quem investe R$1.000 recebe <strong>R$878,50 em entrega</strong> &mdash; os outros R$121,50 cobrem PIS/COFINS e ISS. De janeiro a outubro, quem anuncia R$2.000 por m&ecirc;s entregou <strong>R$2.430 em impostos</strong> sem ver no painel. Em novembro, com o custo por exibi&ccedil;&atilde;o subindo pela disputa da Black Friday, os dois efeitos se somam. Recalcular o custo de trazer um cliente novo com a nova matem&aacute;tica &eacute; a decis&atilde;o mais urgente de quem anuncia agora. Fontes: Meta (jan/2026) &middot; Ongrowing (2026) &middot; StartSe (2026).",
-      "headline": "O IMPOSTO<br>INVIS&Iacute;VEL<br>DA META ADS:<br><em>12,15%</em><br>SOME ANTES<br>DO AN&Uacute;NCIO<br>APARECER",
+      "bridge": "76% dos consumidores visitaram uma loja f&iacute;sica em 2026 e fecharam a compra pela internet, segundo o Radar Smollan de agosto de 2026. O mecanismo &eacute; o showrooming: a loja resolve a d&uacute;vida que o site n&atilde;o resolve &mdash; tamanho, textura, encaixe &mdash; e o e-commerce leva a venda. Com 81% dos consumidores pesquisando pre&ccedil;o online antes de entrar na loja, o cliente chega com refer&ecirc;ncia na cabe&ccedil;a. O neg&oacute;cio que n&atilde;o tem raz&atilde;o clara para fechar ali perde a venda depois de pagar aluguel, vendedor e estoque para outra empresa faturar. Em novembro, no pico de competi&ccedil;&atilde;o de pre&ccedil;o da Black Friday, o custo desse vazamento &eacute; mais alto. Fonte: Radar Smollan (agosto/2026).",
+      "headline": "A LOJA QUE<br>VENDE PRO<br>CONCORRENTE:<br><em>76%</em><br>TESTAM NA<br>PRATELEIRA,<br>COMPRAM ONLINE",
       "kinstr": "Pra n&atilde;o perder a pr&oacute;xima an&aacute;lise:",
       "kword": "ME SEGUE",
       "kbenefit": "dados do mercado traduzidos em decis&atilde;o de venda para o dono de neg&oacute;cio local"
     }
   ],
-  "caption": "A Meta repassou 12,15% de imposto para os anunciantes brasileiros em 2026.\n\nQuem investe R$1.000 em Meta Ads recebe R$878,50 de entrega — os outros R$121,50 cobrem PIS/COFINS e ISS.\n\nDe janeiro a outubro, quem anuncia R$2.000 por mês entregou R$2.430 só em impostos, sem ver esse valor isolado no painel.\n\nE em novembro, com o custo por exibição subindo pela disputa da Black Friday, os dois efeitos se somam: imposto + concorrência de grandes marcas.\n\nQuem não recalculou o custo de trazer um cliente novo ainda está tomando decisão com a matemática do ano passado.\n\nFontes: Meta (jan/2026) · Ongrowing (2026) · StartSe (2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#trafegopago #metaads #marketingdigital #anuncios #PME #reformatributaria #blackfriday #negociolocal #empreendedorismo #custodeanuncio"
+  "caption": "76% dos consumidores brasileiros foram a uma loja física em 2026 e fecharam a compra pela internet, segundo o Radar Smollan de agosto de 2026.\n\nA loja resolveu a dúvida que o site não resolve — tamanho, textura, encaixe — e o e-commerce levou a venda.\n\nCom 81% dos consumidores pesquisando preço online antes de entrar na loja, eles chegam com referência na cabeça. Se a loja não tem razão clara para fechar ali, perde a conversão depois de pagar aluguel, vendedor e estoque para outra empresa faturar.\n\nEm novembro, no pico de competição de preço do e-commerce na Black Friday, esse vazamento custa mais.\n\nO negócio que entende esse cálculo pode montar uma oferta que compita: prazo que o e-commerce não garante, produto disponível na hora, pós-venda que o site não oferece.\n\nFonte: Radar Smollan (agosto/2026).\n\nMe segue para acompanhar os dados que mexem no caixa de quem tem um negócio pequeno e precisa vender.\n\n#trafegopago #marketingdigital #lojaFisica #showrooming #varejo #PME #negociolocal #blackfriday #ecommerce #empreendedorismo"
 }
